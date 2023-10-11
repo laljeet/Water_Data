@@ -1,0 +1,873 @@
+"","GEOID","COUNTY_ALPHA","STATE_ALPHA","YEAR","Information Source","proportion"
+"1","04003","COCHISE","ARIZONA",2018,"Extension or university ",16.51
+"2","04009","GRAHAM","ARIZONA",2018,"Extension or university ",16.92
+"3","04012","LA PAZ","ARIZONA",2018,"Extension or university ",13.56
+"4","04013","MARICOPA","ARIZONA",2018,"Extension or university ",16.4
+"5","04019","PIMA","ARIZONA",2018,"Extension or university ",20.19
+"6","04021","PINAL","ARIZONA",2018,"Extension or university ",23.44
+"7","04025","YAVAPAI","ARIZONA",2018,"Extension or university ",8.94
+"8","04027","YUMA","ARIZONA",2018,"Extension or university ",25.49
+"9","06007","BUTTE","CALIFORNIA",2018,"Extension or university ",22.11
+"10","06011","COLUSA","CALIFORNIA",2018,"Extension or university ",29.23
+"11","06013","CONTRA COSTA","CALIFORNIA",2018,"Extension or university ",1.18
+"12","06017","EL DORADO","CALIFORNIA",2018,"Extension or university ",14.11
+"13","06019","FRESNO","CALIFORNIA",2018,"Extension or university ",16.59
+"14","06021","GLENN","CALIFORNIA",2018,"Extension or university ",13.91
+"15","06025","IMPERIAL","CALIFORNIA",2018,"Extension or university ",5.97
+"16","06029","KERN","CALIFORNIA",2018,"Extension or university ",16.69
+"17","06031","KINGS","CALIFORNIA",2018,"Extension or university ",12.82
+"18","06035","LASSEN","CALIFORNIA",2018,"Extension or university ",26.27
+"19","06037","LOS ANGELES","CALIFORNIA",2018,"Extension or university ",6.64
+"20","06039","MADERA","CALIFORNIA",2018,"Extension or university ",13.91
+"21","06045","MENDOCINO","CALIFORNIA",2018,"Extension or university ",15.42
+"22","06047","MERCED","CALIFORNIA",2018,"Extension or university ",18.01
+"23","06049","MODOC","CALIFORNIA",2018,"Extension or university ",28.99
+"24","06053","MONTEREY","CALIFORNIA",2018,"Extension or university ",26.25
+"25","06055","NAPA","CALIFORNIA",2018,"Extension or university ",16.49
+"26","06057","NEVADA","CALIFORNIA",2018,"Extension or university ",17.98
+"27","06061","PLACER","CALIFORNIA",2018,"Extension or university ",20.53
+"28","06065","RIVERSIDE","CALIFORNIA",2018,"Extension or university ",8.84
+"29","06067","SACRAMENTO","CALIFORNIA",2018,"Extension or university ",26.74
+"30","06069","SAN BENITO","CALIFORNIA",2018,"Extension or university ",0
+"31","06071","SAN BERNARDINO","CALIFORNIA",2018,"Extension or university ",7.01
+"32","06073","SAN DIEGO","CALIFORNIA",2018,"Extension or university ",15.35
+"33","06077","SAN JOAQUIN","CALIFORNIA",2018,"Extension or university ",19.24
+"34","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Extension or university ",23.3
+"35","06083","SANTA BARBARA","CALIFORNIA",2018,"Extension or university ",22.67
+"36","06085","SANTA CLARA","CALIFORNIA",2018,"Extension or university ",29.14
+"37","06087","SANTA CRUZ","CALIFORNIA",2018,"Extension or university ",15.62
+"38","06089","SHASTA","CALIFORNIA",2018,"Extension or university ",15.54
+"39","06093","SISKIYOU","CALIFORNIA",2018,"Extension or university ",14.92
+"40","06095","SOLANO","CALIFORNIA",2018,"Extension or university ",23.83
+"41","06097","SONOMA","CALIFORNIA",2018,"Extension or university ",17.11
+"42","06099","STANISLAUS","CALIFORNIA",2018,"Extension or university ",18.94
+"43","06101","SUTTER","CALIFORNIA",2018,"Extension or university ",19.76
+"44","06103","TEHAMA","CALIFORNIA",2018,"Extension or university ",27.58
+"45","06107","TULARE","CALIFORNIA",2018,"Extension or university ",14.57
+"46","06111","VENTURA","CALIFORNIA",2018,"Extension or university ",16.39
+"47","06113","YOLO","CALIFORNIA",2018,"Extension or university ",26.33
+"48","06115","YUBA","CALIFORNIA",2018,"Extension or university ",28.28
+"49","08013","BOULDER","COLORADO",2018,"Extension or university ",24.32
+"50","08021","CONEJOS","COLORADO",2018,"Extension or university ",2.92
+"51","08029","DELTA","COLORADO",2018,"Extension or university ",20.63
+"52","08043","FREMONT","COLORADO",2018,"Extension or university ",18.24
+"53","08045","GARFIELD","COLORADO",2018,"Extension or university ",21.63
+"54","08049","GRAND","COLORADO",2018,"Extension or university ",17.33
+"55","08051","GUNNISON","COLORADO",2018,"Extension or university ",17.1
+"56","08057","JACKSON","COLORADO",2018,"Extension or university ",46.97
+"57","08063","KIT CARSON","COLORADO",2018,"Extension or university ",6.06
+"58","08067","LA PLATA","COLORADO",2018,"Extension or university ",10.52
+"59","08069","LARIMER","COLORADO",2018,"Extension or university ",17.68
+"60","08075","LOGAN","COLORADO",2018,"Extension or university ",9.72
+"61","08077","MESA","COLORADO",2018,"Extension or university ",18.97
+"62","08083","MONTEZUMA","COLORADO",2018,"Extension or university ",13.76
+"63","08085","MONTROSE","COLORADO",2018,"Extension or university ",21.82
+"64","08087","MORGAN","COLORADO",2018,"Extension or university ",0.43
+"65","08089","OTERO","COLORADO",2018,"Extension or university ",9.94
+"66","08095","PHILLIPS","COLORADO",2018,"Extension or university ",8.68
+"67","08099","PROWERS","COLORADO",2018,"Extension or university ",23.71
+"68","08101","PUEBLO","COLORADO",2018,"Extension or university ",22.7
+"69","08103","RIO BLANCO","COLORADO",2018,"Extension or university ",26.49
+"70","08115","SEDGWICK","COLORADO",2018,"Extension or university ",19.09
+"71","08123","WELD","COLORADO",2018,"Extension or university ",17.39
+"72","08125","YUMA","COLORADO",2018,"Extension or university ",10.19
+"73","32001","CHURCHILL","NEVADA",2018,"Extension or university ",21.25
+"74","32005","DOUGLAS","NEVADA",2018,"Extension or university ",35.09
+"75","32007","ELKO","NEVADA",2018,"Extension or university ",12.5
+"76","32013","HUMBOLDT","NEVADA",2018,"Extension or university ",28.39
+"77","32019","LYON","NEVADA",2018,"Extension or university ",20.22
+"78","32027","PERSHING","NEVADA",2018,"Extension or university ",15.05
+"79","32031","WASHOE","NEVADA",2018,"Extension or university ",25.13
+"80","35001","BERNALILLO","NEW MEXICO",2018,"Extension or university ",20.98
+"81","35005","CHAVES","NEW MEXICO",2018,"Extension or university ",9.29
+"82","35013","DONA ANA","NEW MEXICO",2018,"Extension or university ",19.71
+"83","35025","LEA","NEW MEXICO",2018,"Extension or university ",10.13
+"84","35035","OTERO","NEW MEXICO",2018,"Extension or university ",44.52
+"85","35037","QUAY","NEW MEXICO",2018,"Extension or university ",15.09
+"86","35039","RIO ARRIBA","NEW MEXICO",2018,"Extension or university ",32.1
+"87","35043","SANDOVAL","NEW MEXICO",2018,"Extension or university ",19.19
+"88","35045","SAN JUAN","NEW MEXICO",2018,"Extension or university ",18.95
+"89","35053","SOCORRO","NEW MEXICO",2018,"Extension or university ",13.87
+"90","35055","TAOS","NEW MEXICO",2018,"Extension or university ",23.55
+"91","35061","VALENCIA","NEW MEXICO",2018,"Extension or university ",35.16
+"92","49003","BOX ELDER","UTAH",2018,"Extension or university ",13.16
+"93","49005","CACHE","UTAH",2018,"Extension or university ",21.76
+"94","49007","CARBON","UTAH",2018,"Extension or university ",17.47
+"95","49011","DAVIS","UTAH",2018,"Extension or university ",12.5
+"96","49013","DUCHESNE","UTAH",2018,"Extension or university ",10.23
+"97","49021","IRON","UTAH",2018,"Extension or university ",29.82
+"98","49027","MILLARD","UTAH",2018,"Extension or university ",31.7
+"99","49033","RICH","UTAH",2018,"Extension or university ",14.75
+"100","49035","SALT LAKE","UTAH",2018,"Extension or university ",11.85
+"101","49039","SANPETE","UTAH",2018,"Extension or university ",4.45
+"102","49041","SEVIER","UTAH",2018,"Extension or university ",17.15
+"103","49043","SUMMIT","UTAH",2018,"Extension or university ",18.57
+"104","49045","TOOELE","UTAH",2018,"Extension or university ",35.74
+"105","49047","UINTAH","UTAH",2018,"Extension or university ",30.15
+"106","49049","UTAH","UTAH",2018,"Extension or university ",5.89
+"107","49051","WASATCH","UTAH",2018,"Extension or university ",21.05
+"108","49053","WASHINGTON","UTAH",2018,"Extension or university ",22.8
+"109","49057","WEBER","UTAH",2018,"Extension or university ",29.92
+"110","04003","COCHISE","ARIZONA",2018,"Private consultants ",25.58
+"111","04009","GRAHAM","ARIZONA",2018,"Private consultants ",0
+"112","04012","LA PAZ","ARIZONA",2018,"Private consultants ",22.03
+"113","04013","MARICOPA","ARIZONA",2018,"Private consultants ",7.54
+"114","04019","PIMA","ARIZONA",2018,"Private consultants ",15.38
+"115","04021","PINAL","ARIZONA",2018,"Private consultants ",12.72
+"116","04025","YAVAPAI","ARIZONA",2018,"Private consultants ",22.91
+"117","04027","YUMA","ARIZONA",2018,"Private consultants ",20
+"118","06007","BUTTE","CALIFORNIA",2018,"Private consultants ",13.6
+"119","06011","COLUSA","CALIFORNIA",2018,"Private consultants ",25
+"120","06013","CONTRA COSTA","CALIFORNIA",2018,"Private consultants ",17.75
+"121","06017","EL DORADO","CALIFORNIA",2018,"Private consultants ",14.91
+"122","06019","FRESNO","CALIFORNIA",2018,"Private consultants ",22.47
+"123","06021","GLENN","CALIFORNIA",2018,"Private consultants ",21.12
+"124","06025","IMPERIAL","CALIFORNIA",2018,"Private consultants ",18.24
+"125","06029","KERN","CALIFORNIA",2018,"Private consultants ",28.46
+"126","06031","KINGS","CALIFORNIA",2018,"Private consultants ",29.52
+"127","06035","LASSEN","CALIFORNIA",2018,"Private consultants ",12.16
+"128","06037","LOS ANGELES","CALIFORNIA",2018,"Private consultants ",14.45
+"129","06039","MADERA","CALIFORNIA",2018,"Private consultants ",21.01
+"130","06045","MENDOCINO","CALIFORNIA",2018,"Private consultants ",30.5
+"131","06047","MERCED","CALIFORNIA",2018,"Private consultants ",19.85
+"132","06049","MODOC","CALIFORNIA",2018,"Private consultants ",18.64
+"133","06053","MONTEREY","CALIFORNIA",2018,"Private consultants ",10.47
+"134","06055","NAPA","CALIFORNIA",2018,"Private consultants ",35.04
+"135","06057","NEVADA","CALIFORNIA",2018,"Private consultants ",8.24
+"136","06061","PLACER","CALIFORNIA",2018,"Private consultants ",13.82
+"137","06065","RIVERSIDE","CALIFORNIA",2018,"Private consultants ",33.33
+"138","06067","SACRAMENTO","CALIFORNIA",2018,"Private consultants ",9.63
+"139","06069","SAN BENITO","CALIFORNIA",2018,"Private consultants ",39.68
+"140","06071","SAN BERNARDINO","CALIFORNIA",2018,"Private consultants ",0
+"141","06073","SAN DIEGO","CALIFORNIA",2018,"Private consultants ",15.13
+"142","06077","SAN JOAQUIN","CALIFORNIA",2018,"Private consultants ",24.72
+"143","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Private consultants ",25.59
+"144","06083","SANTA BARBARA","CALIFORNIA",2018,"Private consultants ",26.55
+"145","06085","SANTA CLARA","CALIFORNIA",2018,"Private consultants ",18.57
+"146","06087","SANTA CRUZ","CALIFORNIA",2018,"Private consultants ",22.73
+"147","06089","SHASTA","CALIFORNIA",2018,"Private consultants ",5.83
+"148","06093","SISKIYOU","CALIFORNIA",2018,"Private consultants ",9.39
+"149","06095","SOLANO","CALIFORNIA",2018,"Private consultants ",8.29
+"150","06097","SONOMA","CALIFORNIA",2018,"Private consultants ",38
+"151","06099","STANISLAUS","CALIFORNIA",2018,"Private consultants ",25.44
+"152","06101","SUTTER","CALIFORNIA",2018,"Private consultants ",26.48
+"153","06103","TEHAMA","CALIFORNIA",2018,"Private consultants ",16.19
+"154","06107","TULARE","CALIFORNIA",2018,"Private consultants ",20.91
+"155","06111","VENTURA","CALIFORNIA",2018,"Private consultants ",28.21
+"156","06113","YOLO","CALIFORNIA",2018,"Private consultants ",15.89
+"157","06115","YUBA","CALIFORNIA",2018,"Private consultants ",28.97
+"158","08013","BOULDER","COLORADO",2018,"Private consultants ",9.01
+"159","08021","CONEJOS","COLORADO",2018,"Private consultants ",8.03
+"160","08029","DELTA","COLORADO",2018,"Private consultants ",4.3
+"161","08043","FREMONT","COLORADO",2018,"Private consultants ",3.59
+"162","08045","GARFIELD","COLORADO",2018,"Private consultants ",6.18
+"163","08049","GRAND","COLORADO",2018,"Private consultants ",25.67
+"164","08051","GUNNISON","COLORADO",2018,"Private consultants ",0.52
+"165","08057","JACKSON","COLORADO",2018,"Private consultants ",1.52
+"166","08063","KIT CARSON","COLORADO",2018,"Private consultants ",57.14
+"167","08067","LA PLATA","COLORADO",2018,"Private consultants ",6.62
+"168","08069","LARIMER","COLORADO",2018,"Private consultants ",9.11
+"169","08075","LOGAN","COLORADO",2018,"Private consultants ",40.97
+"170","08077","MESA","COLORADO",2018,"Private consultants ",6.22
+"171","08083","MONTEZUMA","COLORADO",2018,"Private consultants ",0.55
+"172","08085","MONTROSE","COLORADO",2018,"Private consultants ",1.79
+"173","08087","MORGAN","COLORADO",2018,"Private consultants ",27.9
+"174","08089","OTERO","COLORADO",2018,"Private consultants ",8.97
+"175","08095","PHILLIPS","COLORADO",2018,"Private consultants ",38.87
+"176","08099","PROWERS","COLORADO",2018,"Private consultants ",34.02
+"177","08101","PUEBLO","COLORADO",2018,"Private consultants ",5.67
+"178","08103","RIO BLANCO","COLORADO",2018,"Private consultants ",0
+"179","08115","SEDGWICK","COLORADO",2018,"Private consultants ",3.64
+"180","08123","WELD","COLORADO",2018,"Private consultants ",20.04
+"181","08125","YUMA","COLORADO",2018,"Private consultants ",31.42
+"182","32001","CHURCHILL","NEVADA",2018,"Private consultants ",8.72
+"183","32005","DOUGLAS","NEVADA",2018,"Private consultants ",0
+"184","32007","ELKO","NEVADA",2018,"Private consultants ",12.5
+"185","32013","HUMBOLDT","NEVADA",2018,"Private consultants ",0
+"186","32019","LYON","NEVADA",2018,"Private consultants ",16.61
+"187","32027","PERSHING","NEVADA",2018,"Private consultants ",10.66
+"188","32031","WASHOE","NEVADA",2018,"Private consultants ",7.54
+"189","35001","BERNALILLO","NEW MEXICO",2018,"Private consultants ",0
+"190","35005","CHAVES","NEW MEXICO",2018,"Private consultants ",19.32
+"191","35013","DONA ANA","NEW MEXICO",2018,"Private consultants ",8.27
+"192","35025","LEA","NEW MEXICO",2018,"Private consultants ",10.13
+"193","35035","OTERO","NEW MEXICO",2018,"Private consultants ",0
+"194","35037","QUAY","NEW MEXICO",2018,"Private consultants ",7.66
+"195","35039","RIO ARRIBA","NEW MEXICO",2018,"Private consultants ",3.82
+"196","35043","SANDOVAL","NEW MEXICO",2018,"Private consultants ",10.73
+"197","35045","SAN JUAN","NEW MEXICO",2018,"Private consultants ",3.33
+"198","35053","SOCORRO","NEW MEXICO",2018,"Private consultants ",13.87
+"199","35055","TAOS","NEW MEXICO",2018,"Private consultants ",0
+"200","35061","VALENCIA","NEW MEXICO",2018,"Private consultants ",6.33
+"201","49003","BOX ELDER","UTAH",2018,"Private consultants ",7.48
+"202","49005","CACHE","UTAH",2018,"Private consultants ",7.33
+"203","49007","CARBON","UTAH",2018,"Private consultants ",7.43
+"204","49011","DAVIS","UTAH",2018,"Private consultants ",0.66
+"205","49013","DUCHESNE","UTAH",2018,"Private consultants ",3.11
+"206","49021","IRON","UTAH",2018,"Private consultants ",8.75
+"207","49027","MILLARD","UTAH",2018,"Private consultants ",7.05
+"208","49033","RICH","UTAH",2018,"Private consultants ",27.14
+"209","49035","SALT LAKE","UTAH",2018,"Private consultants ",20
+"210","49039","SANPETE","UTAH",2018,"Private consultants ",5.38
+"211","49041","SEVIER","UTAH",2018,"Private consultants ",11.38
+"212","49043","SUMMIT","UTAH",2018,"Private consultants ",7.43
+"213","49045","TOOELE","UTAH",2018,"Private consultants ",14.06
+"214","49047","UINTAH","UTAH",2018,"Private consultants ",4.77
+"215","49049","UTAH","UTAH",2018,"Private consultants ",7.73
+"216","49051","WASATCH","UTAH",2018,"Private consultants ",0
+"217","49053","WASHINGTON","UTAH",2018,"Private consultants ",10.8
+"218","49057","WEBER","UTAH",2018,"Private consultants ",4.81
+"219","04003","COCHISE","ARIZONA",2018,"Equipment dealers ",9.07
+"220","04009","GRAHAM","ARIZONA",2018,"Equipment dealers ",0
+"221","04012","LA PAZ","ARIZONA",2018,"Equipment dealers ",0
+"222","04013","MARICOPA","ARIZONA",2018,"Equipment dealers ",6.35
+"223","04019","PIMA","ARIZONA",2018,"Equipment dealers ",0
+"224","04021","PINAL","ARIZONA",2018,"Equipment dealers ",0.22
+"225","04025","YAVAPAI","ARIZONA",2018,"Equipment dealers ",5.03
+"226","04027","YUMA","ARIZONA",2018,"Equipment dealers ",6.37
+"227","06007","BUTTE","CALIFORNIA",2018,"Equipment dealers ",6.6
+"228","06011","COLUSA","CALIFORNIA",2018,"Equipment dealers ",5.72
+"229","06013","CONTRA COSTA","CALIFORNIA",2018,"Equipment dealers ",13.61
+"230","06017","EL DORADO","CALIFORNIA",2018,"Equipment dealers ",8.92
+"231","06019","FRESNO","CALIFORNIA",2018,"Equipment dealers ",13.01
+"232","06021","GLENN","CALIFORNIA",2018,"Equipment dealers ",7.34
+"233","06025","IMPERIAL","CALIFORNIA",2018,"Equipment dealers ",12.89
+"234","06029","KERN","CALIFORNIA",2018,"Equipment dealers ",15.9
+"235","06031","KINGS","CALIFORNIA",2018,"Equipment dealers ",7.57
+"236","06035","LASSEN","CALIFORNIA",2018,"Equipment dealers ",13.33
+"237","06037","LOS ANGELES","CALIFORNIA",2018,"Equipment dealers ",11.33
+"238","06039","MADERA","CALIFORNIA",2018,"Equipment dealers ",17.46
+"239","06045","MENDOCINO","CALIFORNIA",2018,"Equipment dealers ",19.58
+"240","06047","MERCED","CALIFORNIA",2018,"Equipment dealers ",10.51
+"241","06049","MODOC","CALIFORNIA",2018,"Equipment dealers ",7.99
+"242","06053","MONTEREY","CALIFORNIA",2018,"Equipment dealers ",22.76
+"243","06055","NAPA","CALIFORNIA",2018,"Equipment dealers ",5.87
+"244","06057","NEVADA","CALIFORNIA",2018,"Equipment dealers ",0
+"245","06061","PLACER","CALIFORNIA",2018,"Equipment dealers ",14.61
+"246","06065","RIVERSIDE","CALIFORNIA",2018,"Equipment dealers ",10.59
+"247","06067","SACRAMENTO","CALIFORNIA",2018,"Equipment dealers ",13.37
+"248","06069","SAN BENITO","CALIFORNIA",2018,"Equipment dealers ",3.17
+"249","06071","SAN BERNARDINO","CALIFORNIA",2018,"Equipment dealers ",14.01
+"250","06073","SAN DIEGO","CALIFORNIA",2018,"Equipment dealers ",17.33
+"251","06077","SAN JOAQUIN","CALIFORNIA",2018,"Equipment dealers ",14.09
+"252","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Equipment dealers ",10.29
+"253","06083","SANTA BARBARA","CALIFORNIA",2018,"Equipment dealers ",10.91
+"254","06085","SANTA CLARA","CALIFORNIA",2018,"Equipment dealers ",20.29
+"255","06087","SANTA CRUZ","CALIFORNIA",2018,"Equipment dealers ",21.02
+"256","06089","SHASTA","CALIFORNIA",2018,"Equipment dealers ",11.79
+"257","06093","SISKIYOU","CALIFORNIA",2018,"Equipment dealers ",18.97
+"258","06095","SOLANO","CALIFORNIA",2018,"Equipment dealers ",5.01
+"259","06097","SONOMA","CALIFORNIA",2018,"Equipment dealers ",7.63
+"260","06099","STANISLAUS","CALIFORNIA",2018,"Equipment dealers ",9.97
+"261","06101","SUTTER","CALIFORNIA",2018,"Equipment dealers ",19.49
+"262","06103","TEHAMA","CALIFORNIA",2018,"Equipment dealers ",6.2
+"263","06107","TULARE","CALIFORNIA",2018,"Equipment dealers ",11.82
+"264","06111","VENTURA","CALIFORNIA",2018,"Equipment dealers ",10.26
+"265","06113","YOLO","CALIFORNIA",2018,"Equipment dealers ",16.36
+"266","06115","YUBA","CALIFORNIA",2018,"Equipment dealers ",2.41
+"267","08013","BOULDER","COLORADO",2018,"Equipment dealers ",4.86
+"268","08021","CONEJOS","COLORADO",2018,"Equipment dealers ",2.92
+"269","08029","DELTA","COLORADO",2018,"Equipment dealers ",9.62
+"270","08043","FREMONT","COLORADO",2018,"Equipment dealers ",7.03
+"271","08045","GARFIELD","COLORADO",2018,"Equipment dealers ",14.31
+"272","08049","GRAND","COLORADO",2018,"Equipment dealers ",11.33
+"273","08051","GUNNISON","COLORADO",2018,"Equipment dealers ",7.25
+"274","08057","JACKSON","COLORADO",2018,"Equipment dealers ",0
+"275","08063","KIT CARSON","COLORADO",2018,"Equipment dealers ",12.55
+"276","08067","LA PLATA","COLORADO",2018,"Equipment dealers ",7.79
+"277","08069","LARIMER","COLORADO",2018,"Equipment dealers ",9.29
+"278","08075","LOGAN","COLORADO",2018,"Equipment dealers ",1.39
+"279","08077","MESA","COLORADO",2018,"Equipment dealers ",6.92
+"280","08083","MONTEZUMA","COLORADO",2018,"Equipment dealers ",11.9
+"281","08085","MONTROSE","COLORADO",2018,"Equipment dealers ",9.01
+"282","08087","MORGAN","COLORADO",2018,"Equipment dealers ",31.33
+"283","08089","OTERO","COLORADO",2018,"Equipment dealers ",1.28
+"284","08095","PHILLIPS","COLORADO",2018,"Equipment dealers ",20.38
+"285","08099","PROWERS","COLORADO",2018,"Equipment dealers ",4.12
+"286","08101","PUEBLO","COLORADO",2018,"Equipment dealers ",0
+"287","08103","RIO BLANCO","COLORADO",2018,"Equipment dealers ",8.96
+"288","08115","SEDGWICK","COLORADO",2018,"Equipment dealers ",19.09
+"289","08123","WELD","COLORADO",2018,"Equipment dealers ",3.97
+"290","08125","YUMA","COLORADO",2018,"Equipment dealers ",18.51
+"291","32001","CHURCHILL","NEVADA",2018,"Equipment dealers ",0
+"292","32005","DOUGLAS","NEVADA",2018,"Equipment dealers ",8.77
+"293","32007","ELKO","NEVADA",2018,"Equipment dealers ",16.18
+"294","32013","HUMBOLDT","NEVADA",2018,"Equipment dealers ",5.81
+"295","32019","LYON","NEVADA",2018,"Equipment dealers ",6.5
+"296","32027","PERSHING","NEVADA",2018,"Equipment dealers ",10.34
+"297","32031","WASHOE","NEVADA",2018,"Equipment dealers ",7.54
+"298","35001","BERNALILLO","NEW MEXICO",2018,"Equipment dealers ",3.07
+"299","35005","CHAVES","NEW MEXICO",2018,"Equipment dealers ",6.85
+"300","35013","DONA ANA","NEW MEXICO",2018,"Equipment dealers ",4.57
+"301","35025","LEA","NEW MEXICO",2018,"Equipment dealers ",22.47
+"302","35035","OTERO","NEW MEXICO",2018,"Equipment dealers ",0
+"303","35037","QUAY","NEW MEXICO",2018,"Equipment dealers ",7.66
+"304","35039","RIO ARRIBA","NEW MEXICO",2018,"Equipment dealers ",3.82
+"305","35043","SANDOVAL","NEW MEXICO",2018,"Equipment dealers ",10.73
+"306","35045","SAN JUAN","NEW MEXICO",2018,"Equipment dealers ",12.95
+"307","35053","SOCORRO","NEW MEXICO",2018,"Equipment dealers ",0
+"308","35055","TAOS","NEW MEXICO",2018,"Equipment dealers ",0
+"309","35061","VALENCIA","NEW MEXICO",2018,"Equipment dealers ",3.12
+"310","49003","BOX ELDER","UTAH",2018,"Equipment dealers ",9
+"311","49005","CACHE","UTAH",2018,"Equipment dealers ",11
+"312","49007","CARBON","UTAH",2018,"Equipment dealers ",7.43
+"313","49011","DAVIS","UTAH",2018,"Equipment dealers ",10.53
+"314","49013","DUCHESNE","UTAH",2018,"Equipment dealers ",14.12
+"315","49021","IRON","UTAH",2018,"Equipment dealers ",5.36
+"316","49027","MILLARD","UTAH",2018,"Equipment dealers ",5.48
+"317","49033","RICH","UTAH",2018,"Equipment dealers ",15.63
+"318","49035","SALT LAKE","UTAH",2018,"Equipment dealers ",25.19
+"319","49039","SANPETE","UTAH",2018,"Equipment dealers ",15.21
+"320","49041","SEVIER","UTAH",2018,"Equipment dealers ",8.8
+"321","49043","SUMMIT","UTAH",2018,"Equipment dealers ",7.43
+"322","49045","TOOELE","UTAH",2018,"Equipment dealers ",3.61
+"323","49047","UINTAH","UTAH",2018,"Equipment dealers ",1.23
+"324","49049","UTAH","UTAH",2018,"Equipment dealers ",8.01
+"325","49051","WASATCH","UTAH",2018,"Equipment dealers ",10.53
+"326","49053","WASHINGTON","UTAH",2018,"Equipment dealers ",10.8
+"327","49057","WEBER","UTAH",2018,"Equipment dealers ",0.62
+"328","04003","COCHISE","ARIZONA",2018,"Irrigation district ",0
+"329","04009","GRAHAM","ARIZONA",2018,"Irrigation district ",24.62
+"330","04012","LA PAZ","ARIZONA",2018,"Irrigation district ",13.56
+"331","04013","MARICOPA","ARIZONA",2018,"Irrigation district ",21.96
+"332","04019","PIMA","ARIZONA",2018,"Irrigation district ",15.38
+"333","04021","PINAL","ARIZONA",2018,"Irrigation district ",16.07
+"334","04025","YAVAPAI","ARIZONA",2018,"Irrigation district ",8.94
+"335","04027","YUMA","ARIZONA",2018,"Irrigation district ",15.6
+"336","06007","BUTTE","CALIFORNIA",2018,"Irrigation district ",5.74
+"337","06011","COLUSA","CALIFORNIA",2018,"Irrigation district ",14.11
+"338","06013","CONTRA COSTA","CALIFORNIA",2018,"Irrigation district ",27.81
+"339","06017","EL DORADO","CALIFORNIA",2018,"Irrigation district ",12.12
+"340","06019","FRESNO","CALIFORNIA",2018,"Irrigation district ",11.23
+"341","06021","GLENN","CALIFORNIA",2018,"Irrigation district ",14.12
+"342","06025","IMPERIAL","CALIFORNIA",2018,"Irrigation district ",16.35
+"343","06029","KERN","CALIFORNIA",2018,"Irrigation district ",5.33
+"344","06031","KINGS","CALIFORNIA",2018,"Irrigation district ",9.64
+"345","06035","LASSEN","CALIFORNIA",2018,"Irrigation district ",16.86
+"346","06037","LOS ANGELES","CALIFORNIA",2018,"Irrigation district ",8.59
+"347","06039","MADERA","CALIFORNIA",2018,"Irrigation district ",7.3
+"348","06045","MENDOCINO","CALIFORNIA",2018,"Irrigation district ",0
+"349","06047","MERCED","CALIFORNIA",2018,"Irrigation district ",12.52
+"350","06049","MODOC","CALIFORNIA",2018,"Irrigation district ",8.28
+"351","06053","MONTEREY","CALIFORNIA",2018,"Irrigation district ",5.01
+"352","06055","NAPA","CALIFORNIA",2018,"Irrigation district ",2.33
+"353","06057","NEVADA","CALIFORNIA",2018,"Irrigation district ",11.61
+"354","06061","PLACER","CALIFORNIA",2018,"Irrigation district ",10.39
+"355","06065","RIVERSIDE","CALIFORNIA",2018,"Irrigation district ",2.19
+"356","06067","SACRAMENTO","CALIFORNIA",2018,"Irrigation district ",0
+"357","06069","SAN BENITO","CALIFORNIA",2018,"Irrigation district ",12.17
+"358","06071","SAN BERNARDINO","CALIFORNIA",2018,"Irrigation district ",28.66
+"359","06073","SAN DIEGO","CALIFORNIA",2018,"Irrigation district ",4.46
+"360","06077","SAN JOAQUIN","CALIFORNIA",2018,"Irrigation district ",8.29
+"361","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Irrigation district ",1.36
+"362","06083","SANTA BARBARA","CALIFORNIA",2018,"Irrigation district ",1.26
+"363","06085","SANTA CLARA","CALIFORNIA",2018,"Irrigation district ",20.29
+"364","06087","SANTA CRUZ","CALIFORNIA",2018,"Irrigation district ",0
+"365","06089","SHASTA","CALIFORNIA",2018,"Irrigation district ",23.19
+"366","06093","SISKIYOU","CALIFORNIA",2018,"Irrigation district ",8.84
+"367","06095","SOLANO","CALIFORNIA",2018,"Irrigation district ",21.42
+"368","06097","SONOMA","CALIFORNIA",2018,"Irrigation district ",1.26
+"369","06099","STANISLAUS","CALIFORNIA",2018,"Irrigation district ",18.03
+"370","06101","SUTTER","CALIFORNIA",2018,"Irrigation district ",7.66
+"371","06103","TEHAMA","CALIFORNIA",2018,"Irrigation district ",19.36
+"372","06107","TULARE","CALIFORNIA",2018,"Irrigation district ",11.48
+"373","06111","VENTURA","CALIFORNIA",2018,"Irrigation district ",8.2
+"374","06113","YOLO","CALIFORNIA",2018,"Irrigation district ",4.41
+"375","06115","YUBA","CALIFORNIA",2018,"Irrigation district ",0
+"376","08013","BOULDER","COLORADO",2018,"Irrigation district ",9.91
+"377","08021","CONEJOS","COLORADO",2018,"Irrigation district ",17.52
+"378","08029","DELTA","COLORADO",2018,"Irrigation district ",9.15
+"379","08043","FREMONT","COLORADO",2018,"Irrigation district ",25.86
+"380","08045","GARFIELD","COLORADO",2018,"Irrigation district ",3.9
+"381","08049","GRAND","COLORADO",2018,"Irrigation district ",0
+"382","08051","GUNNISON","COLORADO",2018,"Irrigation district ",15.03
+"383","08057","JACKSON","COLORADO",2018,"Irrigation district ",0
+"384","08063","KIT CARSON","COLORADO",2018,"Irrigation district ",6.06
+"385","08067","LA PLATA","COLORADO",2018,"Irrigation district ",25.84
+"386","08069","LARIMER","COLORADO",2018,"Irrigation district ",18.04
+"387","08075","LOGAN","COLORADO",2018,"Irrigation district ",11.11
+"388","08077","MESA","COLORADO",2018,"Irrigation district ",15.24
+"389","08083","MONTEZUMA","COLORADO",2018,"Irrigation district ",18.45
+"390","08085","MONTROSE","COLORADO",2018,"Irrigation district ",14.82
+"391","08087","MORGAN","COLORADO",2018,"Irrigation district ",11.16
+"392","08089","OTERO","COLORADO",2018,"Irrigation district ",28.53
+"393","08095","PHILLIPS","COLORADO",2018,"Irrigation district ",11.7
+"394","08099","PROWERS","COLORADO",2018,"Irrigation district ",2.06
+"395","08101","PUEBLO","COLORADO",2018,"Irrigation district ",4.96
+"396","08103","RIO BLANCO","COLORADO",2018,"Irrigation district ",5.22
+"397","08115","SEDGWICK","COLORADO",2018,"Irrigation district ",0
+"398","08123","WELD","COLORADO",2018,"Irrigation district ",9.97
+"399","08125","YUMA","COLORADO",2018,"Irrigation district ",6.03
+"400","32001","CHURCHILL","NEVADA",2018,"Irrigation district ",21.53
+"401","32005","DOUGLAS","NEVADA",2018,"Irrigation district ",16.96
+"402","32007","ELKO","NEVADA",2018,"Irrigation district ",0
+"403","32013","HUMBOLDT","NEVADA",2018,"Irrigation district ",9.03
+"404","32019","LYON","NEVADA",2018,"Irrigation district ",19.86
+"405","32027","PERSHING","NEVADA",2018,"Irrigation district ",15.36
+"406","32031","WASHOE","NEVADA",2018,"Irrigation district ",7.54
+"407","35001","BERNALILLO","NEW MEXICO",2018,"Irrigation district ",31.01
+"408","35005","CHAVES","NEW MEXICO",2018,"Irrigation district ",9.29
+"409","35013","DONA ANA","NEW MEXICO",2018,"Irrigation district ",17.28
+"410","35025","LEA","NEW MEXICO",2018,"Irrigation district ",5.07
+"411","35035","OTERO","NEW MEXICO",2018,"Irrigation district ",21.93
+"412","35037","QUAY","NEW MEXICO",2018,"Irrigation district ",7.43
+"413","35039","RIO ARRIBA","NEW MEXICO",2018,"Irrigation district ",7.88
+"414","35043","SANDOVAL","NEW MEXICO",2018,"Irrigation district ",12.2
+"415","35045","SAN JUAN","NEW MEXICO",2018,"Irrigation district ",16.76
+"416","35053","SOCORRO","NEW MEXICO",2018,"Irrigation district ",24.09
+"417","35055","TAOS","NEW MEXICO",2018,"Irrigation district ",7.13
+"418","35061","VALENCIA","NEW MEXICO",2018,"Irrigation district ",19.38
+"419","49003","BOX ELDER","UTAH",2018,"Irrigation district ",11.84
+"420","49005","CACHE","UTAH",2018,"Irrigation district ",17
+"421","49007","CARBON","UTAH",2018,"Irrigation district ",10.04
+"422","49011","DAVIS","UTAH",2018,"Irrigation district ",35.53
+"423","49013","DUCHESNE","UTAH",2018,"Irrigation district ",24.35
+"424","49021","IRON","UTAH",2018,"Irrigation district ",1.43
+"425","49027","MILLARD","UTAH",2018,"Irrigation district ",5.28
+"426","49033","RICH","UTAH",2018,"Irrigation district ",10.91
+"427","49035","SALT LAKE","UTAH",2018,"Irrigation district ",0
+"428","49039","SANPETE","UTAH",2018,"Irrigation district ",34.56
+"429","49041","SEVIER","UTAH",2018,"Irrigation district ",13.96
+"430","49043","SUMMIT","UTAH",2018,"Irrigation district ",25.03
+"431","49045","TOOELE","UTAH",2018,"Irrigation district ",10.84
+"432","49047","UINTAH","UTAH",2018,"Irrigation district ",20.62
+"433","49049","UTAH","UTAH",2018,"Irrigation district ",28.16
+"434","49051","WASATCH","UTAH",2018,"Irrigation district ",42.11
+"435","49053","WASHINGTON","UTAH",2018,"Irrigation district ",10.8
+"436","49057","WEBER","UTAH",2018,"Irrigation district ",21.55
+"437","04003","COCHISE","ARIZONA",2018,"Government ",7.67
+"438","04009","GRAHAM","ARIZONA",2018,"Government ",16.92
+"439","04012","LA PAZ","ARIZONA",2018,"Government ",20.34
+"440","04013","MARICOPA","ARIZONA",2018,"Government ",8.6
+"441","04019","PIMA","ARIZONA",2018,"Government ",30.77
+"442","04021","PINAL","ARIZONA",2018,"Government ",20.54
+"443","04025","YAVAPAI","ARIZONA",2018,"Government ",0
+"444","04027","YUMA","ARIZONA",2018,"Government ",4.18
+"445","06007","BUTTE","CALIFORNIA",2018,"Government ",9.44
+"446","06011","COLUSA","CALIFORNIA",2018,"Government ",2.9
+"447","06013","CONTRA COSTA","CALIFORNIA",2018,"Government ",0
+"448","06017","EL DORADO","CALIFORNIA",2018,"Government ",13.45
+"449","06019","FRESNO","CALIFORNIA",2018,"Government ",4.43
+"450","06021","GLENN","CALIFORNIA",2018,"Government ",9.39
+"451","06025","IMPERIAL","CALIFORNIA",2018,"Government ",8.81
+"452","06029","KERN","CALIFORNIA",2018,"Government ",6.68
+"453","06031","KINGS","CALIFORNIA",2018,"Government ",1.98
+"454","06035","LASSEN","CALIFORNIA",2018,"Government ",14.12
+"455","06037","LOS ANGELES","CALIFORNIA",2018,"Government ",0
+"456","06039","MADERA","CALIFORNIA",2018,"Government ",6.71
+"457","06045","MENDOCINO","CALIFORNIA",2018,"Government ",11.44
+"458","06047","MERCED","CALIFORNIA",2018,"Government ",8.36
+"459","06049","MODOC","CALIFORNIA",2018,"Government ",8.88
+"460","06053","MONTEREY","CALIFORNIA",2018,"Government ",5.16
+"461","06055","NAPA","CALIFORNIA",2018,"Government ",6.98
+"462","06057","NEVADA","CALIFORNIA",2018,"Government ",18.73
+"463","06061","PLACER","CALIFORNIA",2018,"Government ",10.39
+"464","06065","RIVERSIDE","CALIFORNIA",2018,"Government ",2.45
+"465","06067","SACRAMENTO","CALIFORNIA",2018,"Government ",18.72
+"466","06069","SAN BENITO","CALIFORNIA",2018,"Government ",15.34
+"467","06071","SAN BERNARDINO","CALIFORNIA",2018,"Government ",7.01
+"468","06073","SAN DIEGO","CALIFORNIA",2018,"Government ",9.77
+"469","06077","SAN JOAQUIN","CALIFORNIA",2018,"Government ",1.63
+"470","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Government ",6.26
+"471","06083","SANTA BARBARA","CALIFORNIA",2018,"Government ",5.98
+"472","06085","SANTA CLARA","CALIFORNIA",2018,"Government ",0
+"473","06087","SANTA CRUZ","CALIFORNIA",2018,"Government ",10.23
+"474","06089","SHASTA","CALIFORNIA",2018,"Government ",8.68
+"475","06093","SISKIYOU","CALIFORNIA",2018,"Government ",19.15
+"476","06095","SOLANO","CALIFORNIA",2018,"Government ",14.16
+"477","06097","SONOMA","CALIFORNIA",2018,"Government ",1.84
+"478","06099","STANISLAUS","CALIFORNIA",2018,"Government ",3.5
+"479","06101","SUTTER","CALIFORNIA",2018,"Government ",4.03
+"480","06103","TEHAMA","CALIFORNIA",2018,"Government ",12.86
+"481","06107","TULARE","CALIFORNIA",2018,"Government ",5.07
+"482","06111","VENTURA","CALIFORNIA",2018,"Government ",9.29
+"483","06113","YOLO","CALIFORNIA",2018,"Government ",6.38
+"484","06115","YUBA","CALIFORNIA",2018,"Government ",2.41
+"485","08013","BOULDER","COLORADO",2018,"Government ",1.98
+"486","08021","CONEJOS","COLORADO",2018,"Government ",20.44
+"487","08029","DELTA","COLORADO",2018,"Government ",17.55
+"488","08043","FREMONT","COLORADO",2018,"Government ",14.65
+"489","08045","GARFIELD","COLORADO",2018,"Government ",17.89
+"490","08049","GRAND","COLORADO",2018,"Government ",9.33
+"491","08051","GUNNISON","COLORADO",2018,"Government ",26.94
+"492","08057","JACKSON","COLORADO",2018,"Government ",27.27
+"493","08063","KIT CARSON","COLORADO",2018,"Government ",0
+"494","08067","LA PLATA","COLORADO",2018,"Government ",15.84
+"495","08069","LARIMER","COLORADO",2018,"Government ",9.11
+"496","08075","LOGAN","COLORADO",2018,"Government ",0.69
+"497","08077","MESA","COLORADO",2018,"Government ",11.43
+"498","08083","MONTEZUMA","COLORADO",2018,"Government ",19
+"499","08085","MONTROSE","COLORADO",2018,"Government ",18.09
+"500","08087","MORGAN","COLORADO",2018,"Government ",0.43
+"501","08089","OTERO","COLORADO",2018,"Government ",8.65
+"502","08095","PHILLIPS","COLORADO",2018,"Government ",10.19
+"503","08099","PROWERS","COLORADO",2018,"Government ",4.12
+"504","08101","PUEBLO","COLORADO",2018,"Government ",4.96
+"505","08103","RIO BLANCO","COLORADO",2018,"Government ",27.24
+"506","08115","SEDGWICK","COLORADO",2018,"Government ",20.91
+"507","08123","WELD","COLORADO",2018,"Government ",4.85
+"508","08125","YUMA","COLORADO",2018,"Government ",5.74
+"509","32001","CHURCHILL","NEVADA",2018,"Government ",16.62
+"510","32005","DOUGLAS","NEVADA",2018,"Government ",18.71
+"511","32007","ELKO","NEVADA",2018,"Government ",5.88
+"512","32013","HUMBOLDT","NEVADA",2018,"Government ",19.35
+"513","32019","LYON","NEVADA",2018,"Government ",11.19
+"514","32027","PERSHING","NEVADA",2018,"Government ",4.39
+"515","32031","WASHOE","NEVADA",2018,"Government ",18.09
+"516","35001","BERNALILLO","NEW MEXICO",2018,"Government ",12.03
+"517","35005","CHAVES","NEW MEXICO",2018,"Government ",1.22
+"518","35013","DONA ANA","NEW MEXICO",2018,"Government ",7.53
+"519","35025","LEA","NEW MEXICO",2018,"Government ",10.13
+"520","35035","OTERO","NEW MEXICO",2018,"Government ",0
+"521","35037","QUAY","NEW MEXICO",2018,"Government ",17.12
+"522","35039","RIO ARRIBA","NEW MEXICO",2018,"Government ",25.14
+"523","35043","SANDOVAL","NEW MEXICO",2018,"Government ",22.93
+"524","35045","SAN JUAN","NEW MEXICO",2018,"Government ",6.48
+"525","35053","SOCORRO","NEW MEXICO",2018,"Government ",0
+"526","35055","TAOS","NEW MEXICO",2018,"Government ",5.47
+"527","35061","VALENCIA","NEW MEXICO",2018,"Government ",6.9
+"528","49003","BOX ELDER","UTAH",2018,"Government ",16.34
+"529","49005","CACHE","UTAH",2018,"Government ",7.33
+"530","49007","CARBON","UTAH",2018,"Government ",17.47
+"531","49011","DAVIS","UTAH",2018,"Government ",0
+"532","49013","DUCHESNE","UTAH",2018,"Government ",23.58
+"533","49021","IRON","UTAH",2018,"Government ",19.29
+"534","49027","MILLARD","UTAH",2018,"Government ",6.85
+"535","49033","RICH","UTAH",2018,"Government ",13.27
+"536","49035","SALT LAKE","UTAH",2018,"Government ",0
+"537","49039","SANPETE","UTAH",2018,"Government ",9.22
+"538","49041","SEVIER","UTAH",2018,"Government ",11.08
+"539","49043","SUMMIT","UTAH",2018,"Government ",3.71
+"540","49045","TOOELE","UTAH",2018,"Government ",12.45
+"541","49047","UINTAH","UTAH",2018,"Government ",16.62
+"542","49049","UTAH","UTAH",2018,"Government ",3.83
+"543","49051","WASATCH","UTAH",2018,"Government ",15.79
+"544","49053","WASHINGTON","UTAH",2018,"Government ",0
+"545","49057","WEBER","UTAH",2018,"Government ",8.37
+"546","04003","COCHISE","ARIZONA",2018,"Press ",22.56
+"547","04009","GRAHAM","ARIZONA",2018,"Press ",8.72
+"548","04012","LA PAZ","ARIZONA",2018,"Press ",0
+"549","04013","MARICOPA","ARIZONA",2018,"Press ",4.5
+"550","04019","PIMA","ARIZONA",2018,"Press ",0
+"551","04021","PINAL","ARIZONA",2018,"Press ",0.22
+"552","04025","YAVAPAI","ARIZONA",2018,"Press ",8.94
+"553","04027","YUMA","ARIZONA",2018,"Press ",5.49
+"554","06007","BUTTE","CALIFORNIA",2018,"Press ",13.27
+"555","06011","COLUSA","CALIFORNIA",2018,"Press ",2.66
+"556","06013","CONTRA COSTA","CALIFORNIA",2018,"Press ",17.75
+"557","06017","EL DORADO","CALIFORNIA",2018,"Press ",13.45
+"558","06019","FRESNO","CALIFORNIA",2018,"Press ",7.57
+"559","06021","GLENN","CALIFORNIA",2018,"Press ",7.49
+"560","06025","IMPERIAL","CALIFORNIA",2018,"Press ",11.01
+"561","06029","KERN","CALIFORNIA",2018,"Press ",8.9
+"562","06031","KINGS","CALIFORNIA",2018,"Press ",8
+"563","06035","LASSEN","CALIFORNIA",2018,"Press ",0.39
+"564","06037","LOS ANGELES","CALIFORNIA",2018,"Press ",13.28
+"565","06039","MADERA","CALIFORNIA",2018,"Press ",9.47
+"566","06045","MENDOCINO","CALIFORNIA",2018,"Press ",3.81
+"567","06047","MERCED","CALIFORNIA",2018,"Press ",3.82
+"568","06049","MODOC","CALIFORNIA",2018,"Press ",4.73
+"569","06053","MONTEREY","CALIFORNIA",2018,"Press ",2.88
+"570","06055","NAPA","CALIFORNIA",2018,"Press ",9.57
+"571","06057","NEVADA","CALIFORNIA",2018,"Press ",9.74
+"572","06061","PLACER","CALIFORNIA",2018,"Press ",9.21
+"573","06065","RIVERSIDE","CALIFORNIA",2018,"Press ",5.95
+"574","06067","SACRAMENTO","CALIFORNIA",2018,"Press ",0
+"575","06069","SAN BENITO","CALIFORNIA",2018,"Press ",0
+"576","06071","SAN BERNARDINO","CALIFORNIA",2018,"Press ",7.01
+"577","06073","SAN DIEGO","CALIFORNIA",2018,"Press ",10.22
+"578","06077","SAN JOAQUIN","CALIFORNIA",2018,"Press ",5.18
+"579","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Press ",8.8
+"580","06083","SANTA BARBARA","CALIFORNIA",2018,"Press ",10.7
+"581","06085","SANTA CLARA","CALIFORNIA",2018,"Press ",0
+"582","06087","SANTA CRUZ","CALIFORNIA",2018,"Press ",0
+"583","06089","SHASTA","CALIFORNIA",2018,"Press ",5.83
+"584","06093","SISKIYOU","CALIFORNIA",2018,"Press ",4.97
+"585","06095","SOLANO","CALIFORNIA",2018,"Press ",2.25
+"586","06097","SONOMA","CALIFORNIA",2018,"Press ",4.79
+"587","06099","STANISLAUS","CALIFORNIA",2018,"Press ",3.17
+"588","06101","SUTTER","CALIFORNIA",2018,"Press ",3.09
+"589","06103","TEHAMA","CALIFORNIA",2018,"Press ",5.27
+"590","06107","TULARE","CALIFORNIA",2018,"Press ",5.26
+"591","06111","VENTURA","CALIFORNIA",2018,"Press ",3.21
+"592","06113","YOLO","CALIFORNIA",2018,"Press ",2.9
+"593","06115","YUBA","CALIFORNIA",2018,"Press ",2.41
+"594","08013","BOULDER","COLORADO",2018,"Press ",1.98
+"595","08021","CONEJOS","COLORADO",2018,"Press ",0
+"596","08029","DELTA","COLORADO",2018,"Press ",2.43
+"597","08043","FREMONT","COLORADO",2018,"Press ",8.22
+"598","08045","GARFIELD","COLORADO",2018,"Press ",7.8
+"599","08049","GRAND","COLORADO",2018,"Press ",1.67
+"600","08051","GUNNISON","COLORADO",2018,"Press ",0.52
+"601","08057","JACKSON","COLORADO",2018,"Press ",0
+"602","08063","KIT CARSON","COLORADO",2018,"Press ",6.06
+"603","08067","LA PLATA","COLORADO",2018,"Press ",3.38
+"604","08069","LARIMER","COLORADO",2018,"Press ",4.29
+"605","08075","LOGAN","COLORADO",2018,"Press ",0.69
+"606","08077","MESA","COLORADO",2018,"Press ",7.67
+"607","08083","MONTEZUMA","COLORADO",2018,"Press ",8.19
+"608","08085","MONTROSE","COLORADO",2018,"Press ",7
+"609","08087","MORGAN","COLORADO",2018,"Press ",0.43
+"610","08089","OTERO","COLORADO",2018,"Press ",1.28
+"611","08095","PHILLIPS","COLORADO",2018,"Press ",0
+"612","08099","PROWERS","COLORADO",2018,"Press ",0
+"613","08101","PUEBLO","COLORADO",2018,"Press ",0
+"614","08103","RIO BLANCO","COLORADO",2018,"Press ",8.96
+"615","08115","SEDGWICK","COLORADO",2018,"Press ",10.91
+"616","08123","WELD","COLORADO",2018,"Press ",6.27
+"617","08125","YUMA","COLORADO",2018,"Press ",7.46
+"618","32001","CHURCHILL","NEVADA",2018,"Press ",4.9
+"619","32005","DOUGLAS","NEVADA",2018,"Press ",0
+"620","32007","ELKO","NEVADA",2018,"Press ",14.71
+"621","32013","HUMBOLDT","NEVADA",2018,"Press ",0.65
+"622","32019","LYON","NEVADA",2018,"Press ",0.72
+"623","32027","PERSHING","NEVADA",2018,"Press ",9.09
+"624","32031","WASHOE","NEVADA",2018,"Press ",1.01
+"625","35001","BERNALILLO","NEW MEXICO",2018,"Press ",0
+"626","35005","CHAVES","NEW MEXICO",2018,"Press ",0
+"627","35013","DONA ANA","NEW MEXICO",2018,"Press ",8.62
+"628","35025","LEA","NEW MEXICO",2018,"Press ",0
+"629","35035","OTERO","NEW MEXICO",2018,"Press ",0
+"630","35037","QUAY","NEW MEXICO",2018,"Press ",7.66
+"631","35039","RIO ARRIBA","NEW MEXICO",2018,"Press ",0
+"632","35043","SANDOVAL","NEW MEXICO",2018,"Press ",1.14
+"633","35045","SAN JUAN","NEW MEXICO",2018,"Press ",6.38
+"634","35053","SOCORRO","NEW MEXICO",2018,"Press ",0
+"635","35055","TAOS","NEW MEXICO",2018,"Press ",5.64
+"636","35061","VALENCIA","NEW MEXICO",2018,"Press ",9.36
+"637","49003","BOX ELDER","UTAH",2018,"Press ",3.88
+"638","49005","CACHE","UTAH",2018,"Press ",4.52
+"639","49007","CARBON","UTAH",2018,"Press ",0
+"640","49011","DAVIS","UTAH",2018,"Press ",11.51
+"641","49013","DUCHESNE","UTAH",2018,"Press ",2.72
+"642","49021","IRON","UTAH",2018,"Press ",6.25
+"643","49027","MILLARD","UTAH",2018,"Press ",6.07
+"644","49033","RICH","UTAH",2018,"Press ",2.36
+"645","49035","SALT LAKE","UTAH",2018,"Press ",0
+"646","49039","SANPETE","UTAH",2018,"Press ",0.61
+"647","49041","SEVIER","UTAH",2018,"Press ",4.1
+"648","49043","SUMMIT","UTAH",2018,"Press ",2.75
+"649","49045","TOOELE","UTAH",2018,"Press ",0
+"650","49047","UINTAH","UTAH",2018,"Press ",0
+"651","49049","UTAH","UTAH",2018,"Press ",0
+"652","49051","WASATCH","UTAH",2018,"Press ",0
+"653","49053","WASHINGTON","UTAH",2018,"Press ",1.6
+"654","49057","WEBER","UTAH",2018,"Press ",4.81
+"655","04003","COCHISE","ARIZONA",2018,"Neighbors ",10.23
+"656","04009","GRAHAM","ARIZONA",2018,"Neighbors ",24.62
+"657","04012","LA PAZ","ARIZONA",2018,"Neighbors ",27.12
+"658","04013","MARICOPA","ARIZONA",2018,"Neighbors ",23.54
+"659","04019","PIMA","ARIZONA",2018,"Neighbors ",15.38
+"660","04021","PINAL","ARIZONA",2018,"Neighbors ",23.66
+"661","04025","YAVAPAI","ARIZONA",2018,"Neighbors ",18.44
+"662","04027","YUMA","ARIZONA",2018,"Neighbors ",18.68
+"663","06007","BUTTE","CALIFORNIA",2018,"Neighbors ",14.06
+"664","06011","COLUSA","CALIFORNIA",2018,"Neighbors ",15.2
+"665","06013","CONTRA COSTA","CALIFORNIA",2018,"Neighbors ",17.75
+"666","06017","EL DORADO","CALIFORNIA",2018,"Neighbors ",10.52
+"667","06019","FRESNO","CALIFORNIA",2018,"Neighbors ",12.57
+"668","06021","GLENN","CALIFORNIA",2018,"Neighbors ",15.82
+"669","06025","IMPERIAL","CALIFORNIA",2018,"Neighbors ",12.89
+"670","06029","KERN","CALIFORNIA",2018,"Neighbors ",9.7
+"671","06031","KINGS","CALIFORNIA",2018,"Neighbors ",19.97
+"672","06035","LASSEN","CALIFORNIA",2018,"Neighbors ",5.49
+"673","06037","LOS ANGELES","CALIFORNIA",2018,"Neighbors ",28.12
+"674","06039","MADERA","CALIFORNIA",2018,"Neighbors ",15.29
+"675","06045","MENDOCINO","CALIFORNIA",2018,"Neighbors ",15.42
+"676","06047","MERCED","CALIFORNIA",2018,"Neighbors ",17.07
+"677","06049","MODOC","CALIFORNIA",2018,"Neighbors ",19.82
+"678","06053","MONTEREY","CALIFORNIA",2018,"Neighbors ",19.88
+"679","06055","NAPA","CALIFORNIA",2018,"Neighbors ",15.49
+"680","06057","NEVADA","CALIFORNIA",2018,"Neighbors ",16.85
+"681","06061","PLACER","CALIFORNIA",2018,"Neighbors ",14.87
+"682","06065","RIVERSIDE","CALIFORNIA",2018,"Neighbors ",17.15
+"683","06067","SACRAMENTO","CALIFORNIA",2018,"Neighbors ",29.95
+"684","06069","SAN BENITO","CALIFORNIA",2018,"Neighbors ",27.51
+"685","06071","SAN BERNARDINO","CALIFORNIA",2018,"Neighbors ",21.02
+"686","06073","SAN DIEGO","CALIFORNIA",2018,"Neighbors ",16.23
+"687","06077","SAN JOAQUIN","CALIFORNIA",2018,"Neighbors ",13.96
+"688","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Neighbors ",9.85
+"689","06083","SANTA BARBARA","CALIFORNIA",2018,"Neighbors ",13.96
+"690","06085","SANTA CLARA","CALIFORNIA",2018,"Neighbors ",8.29
+"691","06087","SANTA CRUZ","CALIFORNIA",2018,"Neighbors ",28.12
+"692","06089","SHASTA","CALIFORNIA",2018,"Neighbors ",20.47
+"693","06093","SISKIYOU","CALIFORNIA",2018,"Neighbors ",18.23
+"694","06095","SOLANO","CALIFORNIA",2018,"Neighbors ",13.3
+"695","06097","SONOMA","CALIFORNIA",2018,"Neighbors ",13.47
+"696","06099","STANISLAUS","CALIFORNIA",2018,"Neighbors ",11.23
+"697","06101","SUTTER","CALIFORNIA",2018,"Neighbors ",16.53
+"698","06103","TEHAMA","CALIFORNIA",2018,"Neighbors ",6.2
+"699","06107","TULARE","CALIFORNIA",2018,"Neighbors ",18.26
+"700","06111","VENTURA","CALIFORNIA",2018,"Neighbors ",14.47
+"701","06113","YOLO","CALIFORNIA",2018,"Neighbors ",14.5
+"702","06115","YUBA","CALIFORNIA",2018,"Neighbors ",25.52
+"703","08013","BOULDER","COLORADO",2018,"Neighbors ",47.39
+"704","08021","CONEJOS","COLORADO",2018,"Neighbors ",44.53
+"705","08029","DELTA","COLORADO",2018,"Neighbors ",33.99
+"706","08043","FREMONT","COLORADO",2018,"Neighbors ",18.83
+"707","08045","GARFIELD","COLORADO",2018,"Neighbors ",21.63
+"708","08049","GRAND","COLORADO",2018,"Neighbors ",34.67
+"709","08051","GUNNISON","COLORADO",2018,"Neighbors ",32.12
+"710","08057","JACKSON","COLORADO",2018,"Neighbors ",18.18
+"711","08063","KIT CARSON","COLORADO",2018,"Neighbors ",12.12
+"712","08067","LA PLATA","COLORADO",2018,"Neighbors ",25.32
+"713","08069","LARIMER","COLORADO",2018,"Neighbors ",31.07
+"714","08075","LOGAN","COLORADO",2018,"Neighbors ",17.36
+"715","08077","MESA","COLORADO",2018,"Neighbors ",29.48
+"716","08083","MONTEZUMA","COLORADO",2018,"Neighbors ",24.89
+"717","08085","MONTROSE","COLORADO",2018,"Neighbors ",25.69
+"718","08087","MORGAN","COLORADO",2018,"Neighbors ",21.89
+"719","08089","OTERO","COLORADO",2018,"Neighbors ",40.06
+"720","08095","PHILLIPS","COLORADO",2018,"Neighbors ",1.51
+"721","08099","PROWERS","COLORADO",2018,"Neighbors ",4.12
+"722","08101","PUEBLO","COLORADO",2018,"Neighbors ",56.74
+"723","08103","RIO BLANCO","COLORADO",2018,"Neighbors ",23.13
+"724","08115","SEDGWICK","COLORADO",2018,"Neighbors ",19.09
+"725","08123","WELD","COLORADO",2018,"Neighbors ",31.86
+"726","08125","YUMA","COLORADO",2018,"Neighbors ",7.17
+"727","32001","CHURCHILL","NEVADA",2018,"Neighbors ",26.16
+"728","32005","DOUGLAS","NEVADA",2018,"Neighbors ",18.71
+"729","32007","ELKO","NEVADA",2018,"Neighbors ",30.88
+"730","32013","HUMBOLDT","NEVADA",2018,"Neighbors ",24.52
+"731","32019","LYON","NEVADA",2018,"Neighbors ",24.19
+"732","32027","PERSHING","NEVADA",2018,"Neighbors ",30.72
+"733","32031","WASHOE","NEVADA",2018,"Neighbors ",30.65
+"734","35001","BERNALILLO","NEW MEXICO",2018,"Neighbors ",26.94
+"735","35005","CHAVES","NEW MEXICO",2018,"Neighbors ",40.34
+"736","35013","DONA ANA","NEW MEXICO",2018,"Neighbors ",28.15
+"737","35025","LEA","NEW MEXICO",2018,"Neighbors ",31.94
+"738","35035","OTERO","NEW MEXICO",2018,"Neighbors ",22.26
+"739","35037","QUAY","NEW MEXICO",2018,"Neighbors ",22.3
+"740","35039","RIO ARRIBA","NEW MEXICO",2018,"Neighbors ",19.47
+"741","35043","SANDOVAL","NEW MEXICO",2018,"Neighbors ",18.86
+"742","35045","SAN JUAN","NEW MEXICO",2018,"Neighbors ",35.05
+"743","35053","SOCORRO","NEW MEXICO",2018,"Neighbors ",48.18
+"744","35055","TAOS","NEW MEXICO",2018,"Neighbors ",51.08
+"745","35061","VALENCIA","NEW MEXICO",2018,"Neighbors ",16.64
+"746","49003","BOX ELDER","UTAH",2018,"Neighbors ",29.71
+"747","49005","CACHE","UTAH",2018,"Neighbors ",25.51
+"748","49007","CARBON","UTAH",2018,"Neighbors ",40.15
+"749","49011","DAVIS","UTAH",2018,"Neighbors ",29.28
+"750","49013","DUCHESNE","UTAH",2018,"Neighbors ",18.39
+"751","49021","IRON","UTAH",2018,"Neighbors ",23.93
+"752","49027","MILLARD","UTAH",2018,"Neighbors ",31.31
+"753","49033","RICH","UTAH",2018,"Neighbors ",15.93
+"754","49035","SALT LAKE","UTAH",2018,"Neighbors ",40
+"755","49039","SANPETE","UTAH",2018,"Neighbors ",29.95
+"756","49041","SEVIER","UTAH",2018,"Neighbors ",29.44
+"757","49043","SUMMIT","UTAH",2018,"Neighbors ",31.36
+"758","49045","TOOELE","UTAH",2018,"Neighbors ",23.29
+"759","49047","UINTAH","UTAH",2018,"Neighbors ",26.62
+"760","49049","UTAH","UTAH",2018,"Neighbors ",41.56
+"761","49051","WASATCH","UTAH",2018,"Neighbors ",10.53
+"762","49053","WASHINGTON","UTAH",2018,"Neighbors ",43.2
+"763","49057","WEBER","UTAH",2018,"Neighbors ",25.74
+"764","04003","COCHISE","ARIZONA",2018,"Internet",8.37
+"765","04009","GRAHAM","ARIZONA",2018,"Internet",8.21
+"766","04012","LA PAZ","ARIZONA",2018,"Internet",3.39
+"767","04013","MARICOPA","ARIZONA",2018,"Internet",11.11
+"768","04019","PIMA","ARIZONA",2018,"Internet",2.88
+"769","04021","PINAL","ARIZONA",2018,"Internet",3.12
+"770","04025","YAVAPAI","ARIZONA",2018,"Internet",26.82
+"771","04027","YUMA","ARIZONA",2018,"Internet",4.18
+"772","06007","BUTTE","CALIFORNIA",2018,"Internet",15.18
+"773","06011","COLUSA","CALIFORNIA",2018,"Internet",5.17
+"774","06013","CONTRA COSTA","CALIFORNIA",2018,"Internet",4.14
+"775","06017","EL DORADO","CALIFORNIA",2018,"Internet",12.52
+"776","06019","FRESNO","CALIFORNIA",2018,"Internet",12.14
+"777","06021","GLENN","CALIFORNIA",2018,"Internet",10.81
+"778","06025","IMPERIAL","CALIFORNIA",2018,"Internet",13.84
+"779","06029","KERN","CALIFORNIA",2018,"Internet",8.35
+"780","06031","KINGS","CALIFORNIA",2018,"Internet",10.5
+"781","06035","LASSEN","CALIFORNIA",2018,"Internet",11.37
+"782","06037","LOS ANGELES","CALIFORNIA",2018,"Internet",17.58
+"783","06039","MADERA","CALIFORNIA",2018,"Internet",8.88
+"784","06045","MENDOCINO","CALIFORNIA",2018,"Internet",3.81
+"785","06047","MERCED","CALIFORNIA",2018,"Internet",9.86
+"786","06049","MODOC","CALIFORNIA",2018,"Internet",2.66
+"787","06053","MONTEREY","CALIFORNIA",2018,"Internet",7.59
+"788","06055","NAPA","CALIFORNIA",2018,"Internet",8.25
+"789","06057","NEVADA","CALIFORNIA",2018,"Internet",16.85
+"790","06061","PLACER","CALIFORNIA",2018,"Internet",6.18
+"791","06065","RIVERSIDE","CALIFORNIA",2018,"Internet",19.51
+"792","06067","SACRAMENTO","CALIFORNIA",2018,"Internet",1.6
+"793","06069","SAN BENITO","CALIFORNIA",2018,"Internet",2.12
+"794","06071","SAN BERNARDINO","CALIFORNIA",2018,"Internet",15.29
+"795","06073","SAN DIEGO","CALIFORNIA",2018,"Internet",11.52
+"796","06077","SAN JOAQUIN","CALIFORNIA",2018,"Internet",12.89
+"797","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Internet",14.56
+"798","06083","SANTA BARBARA","CALIFORNIA",2018,"Internet",7.97
+"799","06085","SANTA CLARA","CALIFORNIA",2018,"Internet",3.43
+"800","06087","SANTA CRUZ","CALIFORNIA",2018,"Internet",2.27
+"801","06089","SHASTA","CALIFORNIA",2018,"Internet",8.68
+"802","06093","SISKIYOU","CALIFORNIA",2018,"Internet",5.52
+"803","06095","SOLANO","CALIFORNIA",2018,"Internet",11.74
+"804","06097","SONOMA","CALIFORNIA",2018,"Internet",15.89
+"805","06099","STANISLAUS","CALIFORNIA",2018,"Internet",9.72
+"806","06101","SUTTER","CALIFORNIA",2018,"Internet",2.96
+"807","06103","TEHAMA","CALIFORNIA",2018,"Internet",6.35
+"808","06107","TULARE","CALIFORNIA",2018,"Internet",12.63
+"809","06111","VENTURA","CALIFORNIA",2018,"Internet",9.98
+"810","06113","YOLO","CALIFORNIA",2018,"Internet",13.23
+"811","06115","YUBA","CALIFORNIA",2018,"Internet",10
+"812","08013","BOULDER","COLORADO",2018,"Internet",0.54
+"813","08021","CONEJOS","COLORADO",2018,"Internet",3.65
+"814","08029","DELTA","COLORADO",2018,"Internet",2.33
+"815","08043","FREMONT","COLORADO",2018,"Internet",3.59
+"816","08045","GARFIELD","COLORADO",2018,"Internet",6.67
+"817","08049","GRAND","COLORADO",2018,"Internet",0
+"818","08051","GUNNISON","COLORADO",2018,"Internet",0.52
+"819","08057","JACKSON","COLORADO",2018,"Internet",6.06
+"820","08063","KIT CARSON","COLORADO",2018,"Internet",0
+"821","08067","LA PLATA","COLORADO",2018,"Internet",4.68
+"822","08069","LARIMER","COLORADO",2018,"Internet",1.43
+"823","08075","LOGAN","COLORADO",2018,"Internet",18.06
+"824","08077","MESA","COLORADO",2018,"Internet",4.07
+"825","08083","MONTEZUMA","COLORADO",2018,"Internet",3.28
+"826","08085","MONTROSE","COLORADO",2018,"Internet",1.79
+"827","08087","MORGAN","COLORADO",2018,"Internet",6.44
+"828","08089","OTERO","COLORADO",2018,"Internet",1.28
+"829","08095","PHILLIPS","COLORADO",2018,"Internet",8.68
+"830","08099","PROWERS","COLORADO",2018,"Internet",27.84
+"831","08101","PUEBLO","COLORADO",2018,"Internet",4.96
+"832","08103","RIO BLANCO","COLORADO",2018,"Internet",0
+"833","08115","SEDGWICK","COLORADO",2018,"Internet",7.27
+"834","08123","WELD","COLORADO",2018,"Internet",5.65
+"835","08125","YUMA","COLORADO",2018,"Internet",13.49
+"836","32001","CHURCHILL","NEVADA",2018,"Internet",0.82
+"837","32005","DOUGLAS","NEVADA",2018,"Internet",1.75
+"838","32007","ELKO","NEVADA",2018,"Internet",7.35
+"839","32013","HUMBOLDT","NEVADA",2018,"Internet",12.26
+"840","32019","LYON","NEVADA",2018,"Internet",0.72
+"841","32027","PERSHING","NEVADA",2018,"Internet",4.39
+"842","32031","WASHOE","NEVADA",2018,"Internet",2.51
+"843","35001","BERNALILLO","NEW MEXICO",2018,"Internet",5.97
+"844","35005","CHAVES","NEW MEXICO",2018,"Internet",13.69
+"845","35013","DONA ANA","NEW MEXICO",2018,"Internet",5.87
+"846","35025","LEA","NEW MEXICO",2018,"Internet",10.13
+"847","35035","OTERO","NEW MEXICO",2018,"Internet",11.3
+"848","35037","QUAY","NEW MEXICO",2018,"Internet",15.09
+"849","35039","RIO ARRIBA","NEW MEXICO",2018,"Internet",7.76
+"850","35043","SANDOVAL","NEW MEXICO",2018,"Internet",4.23
+"851","35045","SAN JUAN","NEW MEXICO",2018,"Internet",0.1
+"852","35053","SOCORRO","NEW MEXICO",2018,"Internet",0
+"853","35055","TAOS","NEW MEXICO",2018,"Internet",7.13
+"854","35061","VALENCIA","NEW MEXICO",2018,"Internet",3.12
+"855","49003","BOX ELDER","UTAH",2018,"Internet",8.59
+"856","49005","CACHE","UTAH",2018,"Internet",5.54
+"857","49007","CARBON","UTAH",2018,"Internet",0
+"858","49011","DAVIS","UTAH",2018,"Internet",0
+"859","49013","DUCHESNE","UTAH",2018,"Internet",3.5
+"860","49021","IRON","UTAH",2018,"Internet",5.18
+"861","49027","MILLARD","UTAH",2018,"Internet",6.26
+"862","49033","RICH","UTAH",2018,"Internet",0
+"863","49035","SALT LAKE","UTAH",2018,"Internet",2.96
+"864","49039","SANPETE","UTAH",2018,"Internet",0.61
+"865","49041","SEVIER","UTAH",2018,"Internet",4.1
+"866","49043","SUMMIT","UTAH",2018,"Internet",3.71
+"867","49045","TOOELE","UTAH",2018,"Internet",0
+"868","49047","UINTAH","UTAH",2018,"Internet",0
+"869","49049","UTAH","UTAH",2018,"Internet",4.82
+"870","49051","WASATCH","UTAH",2018,"Internet",0
+"871","49053","WASHINGTON","UTAH",2018,"Internet",0
+"872","49057","WEBER","UTAH",2018,"Internet",4.19

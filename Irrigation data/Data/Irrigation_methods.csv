@@ -1,0 +1,1501 @@
+"","GEOID","COUNTY_ALPHA","STATE_ALPHA","YEAR","category","proportion"
+"1","04001","APACHE","ARIZONA",2018,"Condition of crop",45.81
+"2","04003","COCHISE","ARIZONA",2018,"Condition of crop",41.95
+"3","04009","GRAHAM","ARIZONA",2018,"Condition of crop",45.47
+"4","04011","GREENLEE","ARIZONA",2018,"Condition of crop",43.97
+"5","04012","LA PAZ","ARIZONA",2018,"Condition of crop",48.11
+"6","04013","MARICOPA","ARIZONA",2018,"Condition of crop",43.31
+"7","04015","MOHAVE","ARIZONA",2018,"Condition of crop",21.43
+"8","04017","NAVAJO","ARIZONA",2018,"Condition of crop",25
+"9","04019","PIMA","ARIZONA",2018,"Condition of crop",50.74
+"10","04021","PINAL","ARIZONA",2018,"Condition of crop",38.36
+"11","04025","YAVAPAI","ARIZONA",2018,"Condition of crop",45.91
+"12","04027","YUMA","ARIZONA",2018,"Condition of crop",32.36
+"13","06001","ALAMEDA","CALIFORNIA",2018,"Condition of crop",47.27
+"14","06005","AMADOR","CALIFORNIA",2018,"Condition of crop",43.11
+"15","06007","BUTTE","CALIFORNIA",2018,"Condition of crop",33.02
+"16","06009","CALAVERAS","CALIFORNIA",2018,"Condition of crop",75.81
+"17","06011","COLUSA","CALIFORNIA",2018,"Condition of crop",32.06
+"18","06013","CONTRA COSTA","CALIFORNIA",2018,"Condition of crop",42.33
+"19","06017","EL DORADO","CALIFORNIA",2018,"Condition of crop",33.61
+"20","06019","FRESNO","CALIFORNIA",2018,"Condition of crop",33.41
+"21","06021","GLENN","CALIFORNIA",2018,"Condition of crop",29.55
+"22","06023","HUMBOLDT","CALIFORNIA",2018,"Condition of crop",51.74
+"23","06025","IMPERIAL","CALIFORNIA",2018,"Condition of crop",35.56
+"24","06027","INYO","CALIFORNIA",2018,"Condition of crop",21.28
+"25","06029","KERN","CALIFORNIA",2018,"Condition of crop",34.38
+"26","06031","KINGS","CALIFORNIA",2018,"Condition of crop",26.18
+"27","06033","LAKE","CALIFORNIA",2018,"Condition of crop",74.44
+"28","06035","LASSEN","CALIFORNIA",2018,"Condition of crop",50.77
+"29","06037","LOS ANGELES","CALIFORNIA",2018,"Condition of crop",34.24
+"30","06039","MADERA","CALIFORNIA",2018,"Condition of crop",30.12
+"31","06041","MARIN","CALIFORNIA",2018,"Condition of crop",42.35
+"32","06045","MENDOCINO","CALIFORNIA",2018,"Condition of crop",42.04
+"33","06047","MERCED","CALIFORNIA",2018,"Condition of crop",35.99
+"34","06049","MODOC","CALIFORNIA",2018,"Condition of crop",49.46
+"35","06051","MONO","CALIFORNIA",2018,"Condition of crop",22.22
+"36","06053","MONTEREY","CALIFORNIA",2018,"Condition of crop",38.13
+"37","06055","NAPA","CALIFORNIA",2018,"Condition of crop",39.8
+"38","06057","NEVADA","CALIFORNIA",2018,"Condition of crop",24.79
+"39","06059","ORANGE","CALIFORNIA",2018,"Condition of crop",47.18
+"40","06061","PLACER","CALIFORNIA",2018,"Condition of crop",38.11
+"41","06065","RIVERSIDE","CALIFORNIA",2018,"Condition of crop",41.9
+"42","06067","SACRAMENTO","CALIFORNIA",2018,"Condition of crop",33.18
+"43","06069","SAN BENITO","CALIFORNIA",2018,"Condition of crop",43.07
+"44","06071","SAN BERNARDINO","CALIFORNIA",2018,"Condition of crop",26.78
+"45","06073","SAN DIEGO","CALIFORNIA",2018,"Condition of crop",35.88
+"46","06077","SAN JOAQUIN","CALIFORNIA",2018,"Condition of crop",35.63
+"47","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Condition of crop",42.22
+"48","06081","SAN MATEO","CALIFORNIA",2018,"Condition of crop",41.51
+"49","06083","SANTA BARBARA","CALIFORNIA",2018,"Condition of crop",38.8
+"50","06085","SANTA CLARA","CALIFORNIA",2018,"Condition of crop",53.4
+"51","06087","SANTA CRUZ","CALIFORNIA",2018,"Condition of crop",41.99
+"52","06089","SHASTA","CALIFORNIA",2018,"Condition of crop",35.29
+"53","06093","SISKIYOU","CALIFORNIA",2018,"Condition of crop",31.81
+"54","06095","SOLANO","CALIFORNIA",2018,"Condition of crop",36.77
+"55","06097","SONOMA","CALIFORNIA",2018,"Condition of crop",45.02
+"56","06099","STANISLAUS","CALIFORNIA",2018,"Condition of crop",30.12
+"57","06101","SUTTER","CALIFORNIA",2018,"Condition of crop",38.55
+"58","06103","TEHAMA","CALIFORNIA",2018,"Condition of crop",29.3
+"59","06107","TULARE","CALIFORNIA",2018,"Condition of crop",34.2
+"60","06109","TUOLUMNE","CALIFORNIA",2018,"Condition of crop",49.09
+"61","06111","VENTURA","CALIFORNIA",2018,"Condition of crop",31.11
+"62","06113","YOLO","CALIFORNIA",2018,"Condition of crop",34
+"63","06115","YUBA","CALIFORNIA",2018,"Condition of crop",34.6
+"64","08001","ADAMS","COLORADO",2018,"Condition of crop",32.83
+"65","08003","ALAMOSA","COLORADO",2018,"Condition of crop",31.96
+"66","08007","ARCHULETA","COLORADO",2018,"Condition of crop",29.83
+"67","08013","BOULDER","COLORADO",2018,"Condition of crop",31.81
+"68","08021","CONEJOS","COLORADO",2018,"Condition of crop",20.21
+"69","08029","DELTA","COLORADO",2018,"Condition of crop",31.84
+"70","08039","ELBERT","COLORADO",2018,"Condition of crop",66.21
+"71","08041","EL PASO","COLORADO",2018,"Condition of crop",47.92
+"72","08043","FREMONT","COLORADO",2018,"Condition of crop",18.63
+"73","08045","GARFIELD","COLORADO",2018,"Condition of crop",28.82
+"74","08049","GRAND","COLORADO",2018,"Condition of crop",41.92
+"75","08051","GUNNISON","COLORADO",2018,"Condition of crop",38.13
+"76","08057","JACKSON","COLORADO",2018,"Condition of crop",51.89
+"77","08059","JEFFERSON","COLORADO",2018,"Condition of crop",43.19
+"78","08063","KIT CARSON","COLORADO",2018,"Condition of crop",40.51
+"79","08067","LA PLATA","COLORADO",2018,"Condition of crop",28.95
+"80","08069","LARIMER","COLORADO",2018,"Condition of crop",30.36
+"81","08075","LOGAN","COLORADO",2018,"Condition of crop",34.56
+"82","08077","MESA","COLORADO",2018,"Condition of crop",37.65
+"83","08081","MOFFAT","COLORADO",2018,"Condition of crop",28.22
+"84","08083","MONTEZUMA","COLORADO",2018,"Condition of crop",41.14
+"85","08085","MONTROSE","COLORADO",2018,"Condition of crop",35.21
+"86","08087","MORGAN","COLORADO",2018,"Condition of crop",48.71
+"87","08089","OTERO","COLORADO",2018,"Condition of crop",25.59
+"88","08095","PHILLIPS","COLORADO",2018,"Condition of crop",26.7
+"89","08099","PROWERS","COLORADO",2018,"Condition of crop",40.23
+"90","08101","PUEBLO","COLORADO",2018,"Condition of crop",31.62
+"91","08103","RIO BLANCO","COLORADO",2018,"Condition of crop",26.17
+"92","08105","RIO GRANDE","COLORADO",2018,"Condition of crop",41.94
+"93","08107","ROUTT","COLORADO",2018,"Condition of crop",28.33
+"94","08109","SAGUACHE","COLORADO",2018,"Condition of crop",80.67
+"95","08115","SEDGWICK","COLORADO",2018,"Condition of crop",31.52
+"96","08121","WASHINGTON","COLORADO",2018,"Condition of crop",38.54
+"97","08123","WELD","COLORADO",2018,"Condition of crop",42.93
+"98","08125","YUMA","COLORADO",2018,"Condition of crop",31.7
+"99","32001","CHURCHILL","NEVADA",2018,"Condition of crop",31.66
+"100","32003","CLARK","NEVADA",2018,"Condition of crop",32.88
+"101","32005","DOUGLAS","NEVADA",2018,"Condition of crop",32.46
+"102","32007","ELKO","NEVADA",2018,"Condition of crop",29.12
+"103","32011","EUREKA","NEVADA",2018,"Condition of crop",52.74
+"104","32013","HUMBOLDT","NEVADA",2018,"Condition of crop",53.14
+"105","32017","LINCOLN","NEVADA",2018,"Condition of crop",27.7
+"106","32019","LYON","NEVADA",2018,"Condition of crop",40.37
+"107","32023","NYE","NEVADA",2018,"Condition of crop",39.47
+"108","32027","PERSHING","NEVADA",2018,"Condition of crop",30.77
+"109","32031","WASHOE","NEVADA",2018,"Condition of crop",49.12
+"110","32033","WHITE PINE","NEVADA",2018,"Condition of crop",49.46
+"111","35001","BERNALILLO","NEW MEXICO",2018,"Condition of crop",22.29
+"112","35005","CHAVES","NEW MEXICO",2018,"Condition of crop",45.54
+"113","35009","CURRY","NEW MEXICO",2018,"Condition of crop",72.44
+"114","35013","DONA ANA","NEW MEXICO",2018,"Condition of crop",33.97
+"115","35015","EDDY","NEW MEXICO",2018,"Condition of crop",48.1
+"116","35025","LEA","NEW MEXICO",2018,"Condition of crop",41.98
+"117","35033","MORA","NEW MEXICO",2018,"Condition of crop",30.7
+"118","35035","OTERO","NEW MEXICO",2018,"Condition of crop",31.27
+"119","35037","QUAY","NEW MEXICO",2018,"Condition of crop",41.12
+"120","35039","RIO ARRIBA","NEW MEXICO",2018,"Condition of crop",32.74
+"121","35041","ROOSEVELT","NEW MEXICO",2018,"Condition of crop",55.19
+"122","35043","SANDOVAL","NEW MEXICO",2018,"Condition of crop",36.34
+"123","35045","SAN JUAN","NEW MEXICO",2018,"Condition of crop",41.82
+"124","35047","SAN MIGUEL","NEW MEXICO",2018,"Condition of crop",17.49
+"125","35049","SANTA FE","NEW MEXICO",2018,"Condition of crop",38.5
+"126","35053","SOCORRO","NEW MEXICO",2018,"Condition of crop",31.44
+"127","35055","TAOS","NEW MEXICO",2018,"Condition of crop",27.91
+"128","35061","VALENCIA","NEW MEXICO",2018,"Condition of crop",25.54
+"129","49003","BOX ELDER","UTAH",2018,"Condition of crop",30.6
+"130","49005","CACHE","UTAH",2018,"Condition of crop",43.36
+"131","49007","CARBON","UTAH",2018,"Condition of crop",38.56
+"132","49011","DAVIS","UTAH",2018,"Condition of crop",40.2
+"133","49013","DUCHESNE","UTAH",2018,"Condition of crop",35.83
+"134","49015","EMERY","UTAH",2018,"Condition of crop",37.95
+"135","49017","GARFIELD","UTAH",2018,"Condition of crop",25.55
+"136","49021","IRON","UTAH",2018,"Condition of crop",41.62
+"137","49023","JUAB","UTAH",2018,"Condition of crop",44.66
+"138","49027","MILLARD","UTAH",2018,"Condition of crop",41.39
+"139","49033","RICH","UTAH",2018,"Condition of crop",33.67
+"140","49035","SALT LAKE","UTAH",2018,"Condition of crop",22.45
+"141","49039","SANPETE","UTAH",2018,"Condition of crop",25.4
+"142","49041","SEVIER","UTAH",2018,"Condition of crop",43.94
+"143","49043","SUMMIT","UTAH",2018,"Condition of crop",35.01
+"144","49045","TOOELE","UTAH",2018,"Condition of crop",36.53
+"145","49047","UINTAH","UTAH",2018,"Condition of crop",36.64
+"146","49049","UTAH","UTAH",2018,"Condition of crop",32.24
+"147","49051","WASATCH","UTAH",2018,"Condition of crop",30.77
+"148","49053","WASHINGTON","UTAH",2018,"Condition of crop",35.13
+"149","49055","WAYNE","UTAH",2018,"Condition of crop",38.03
+"150","49057","WEBER","UTAH",2018,"Condition of crop",32.55
+"151","04001","APACHE","ARIZONA",2018,"Feel of the soil",8.94
+"152","04003","COCHISE","ARIZONA",2018,"Feel of the soil",23.68
+"153","04009","GRAHAM","ARIZONA",2018,"Feel of the soil",13.47
+"154","04011","GREENLEE","ARIZONA",2018,"Feel of the soil",18.68
+"155","04012","LA PAZ","ARIZONA",2018,"Feel of the soil",9.43
+"156","04013","MARICOPA","ARIZONA",2018,"Feel of the soil",15.93
+"157","04015","MOHAVE","ARIZONA",2018,"Feel of the soil",8.57
+"158","04017","NAVAJO","ARIZONA",2018,"Feel of the soil",1.32
+"159","04019","PIMA","ARIZONA",2018,"Feel of the soil",17.73
+"160","04021","PINAL","ARIZONA",2018,"Feel of the soil",18.11
+"161","04025","YAVAPAI","ARIZONA",2018,"Feel of the soil",25.79
+"162","04027","YUMA","ARIZONA",2018,"Feel of the soil",17.42
+"163","06001","ALAMEDA","CALIFORNIA",2018,"Feel of the soil",33.94
+"164","06005","AMADOR","CALIFORNIA",2018,"Feel of the soil",13.77
+"165","06007","BUTTE","CALIFORNIA",2018,"Feel of the soil",16.39
+"166","06009","CALAVERAS","CALIFORNIA",2018,"Feel of the soil",24.19
+"167","06011","COLUSA","CALIFORNIA",2018,"Feel of the soil",12.65
+"168","06013","CONTRA COSTA","CALIFORNIA",2018,"Feel of the soil",25.12
+"169","06017","EL DORADO","CALIFORNIA",2018,"Feel of the soil",18.56
+"170","06019","FRESNO","CALIFORNIA",2018,"Feel of the soil",17.51
+"171","06021","GLENN","CALIFORNIA",2018,"Feel of the soil",16.58
+"172","06023","HUMBOLDT","CALIFORNIA",2018,"Feel of the soil",26.5
+"173","06025","IMPERIAL","CALIFORNIA",2018,"Feel of the soil",27.29
+"174","06027","INYO","CALIFORNIA",2018,"Feel of the soil",14.89
+"175","06029","KERN","CALIFORNIA",2018,"Feel of the soil",17.97
+"176","06031","KINGS","CALIFORNIA",2018,"Feel of the soil",17.91
+"177","06033","LAKE","CALIFORNIA",2018,"Feel of the soil",8.65
+"178","06035","LASSEN","CALIFORNIA",2018,"Feel of the soil",14.86
+"179","06037","LOS ANGELES","CALIFORNIA",2018,"Feel of the soil",27.12
+"180","06039","MADERA","CALIFORNIA",2018,"Feel of the soil",20.61
+"181","06041","MARIN","CALIFORNIA",2018,"Feel of the soil",42.35
+"182","06045","MENDOCINO","CALIFORNIA",2018,"Feel of the soil",19.7
+"183","06047","MERCED","CALIFORNIA",2018,"Feel of the soil",17.34
+"184","06049","MODOC","CALIFORNIA",2018,"Feel of the soil",22.56
+"185","06051","MONO","CALIFORNIA",2018,"Feel of the soil",31.48
+"186","06053","MONTEREY","CALIFORNIA",2018,"Feel of the soil",23.3
+"187","06055","NAPA","CALIFORNIA",2018,"Feel of the soil",13.78
+"188","06057","NEVADA","CALIFORNIA",2018,"Feel of the soil",18.6
+"189","06059","ORANGE","CALIFORNIA",2018,"Feel of the soil",31.69
+"190","06061","PLACER","CALIFORNIA",2018,"Feel of the soil",15.4
+"191","06065","RIVERSIDE","CALIFORNIA",2018,"Feel of the soil",28.02
+"192","06067","SACRAMENTO","CALIFORNIA",2018,"Feel of the soil",16.48
+"193","06069","SAN BENITO","CALIFORNIA",2018,"Feel of the soil",16.52
+"194","06071","SAN BERNARDINO","CALIFORNIA",2018,"Feel of the soil",8.93
+"195","06073","SAN DIEGO","CALIFORNIA",2018,"Feel of the soil",21.28
+"196","06077","SAN JOAQUIN","CALIFORNIA",2018,"Feel of the soil",14.83
+"197","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Feel of the soil",14.2
+"198","06081","SAN MATEO","CALIFORNIA",2018,"Feel of the soil",21.29
+"199","06083","SANTA BARBARA","CALIFORNIA",2018,"Feel of the soil",27.44
+"200","06085","SANTA CLARA","CALIFORNIA",2018,"Feel of the soil",18.36
+"201","06087","SANTA CRUZ","CALIFORNIA",2018,"Feel of the soil",10.35
+"202","06089","SHASTA","CALIFORNIA",2018,"Feel of the soil",18.84
+"203","06093","SISKIYOU","CALIFORNIA",2018,"Feel of the soil",22.01
+"204","06095","SOLANO","CALIFORNIA",2018,"Feel of the soil",19.43
+"205","06097","SONOMA","CALIFORNIA",2018,"Feel of the soil",21.19
+"206","06099","STANISLAUS","CALIFORNIA",2018,"Feel of the soil",15.67
+"207","06101","SUTTER","CALIFORNIA",2018,"Feel of the soil",20.91
+"208","06103","TEHAMA","CALIFORNIA",2018,"Feel of the soil",15.12
+"209","06107","TULARE","CALIFORNIA",2018,"Feel of the soil",17.39
+"210","06109","TUOLUMNE","CALIFORNIA",2018,"Feel of the soil",15.45
+"211","06111","VENTURA","CALIFORNIA",2018,"Feel of the soil",21.93
+"212","06113","YOLO","CALIFORNIA",2018,"Feel of the soil",19.92
+"213","06115","YUBA","CALIFORNIA",2018,"Feel of the soil",22.13
+"214","08001","ADAMS","COLORADO",2018,"Feel of the soil",2.26
+"215","08003","ALAMOSA","COLORADO",2018,"Feel of the soil",30.93
+"216","08007","ARCHULETA","COLORADO",2018,"Feel of the soil",23.2
+"217","08013","BOULDER","COLORADO",2018,"Feel of the soil",19.22
+"218","08021","CONEJOS","COLORADO",2018,"Feel of the soil",9.71
+"219","08029","DELTA","COLORADO",2018,"Feel of the soil",15.3
+"220","08039","ELBERT","COLORADO",2018,"Feel of the soil",20
+"221","08041","EL PASO","COLORADO",2018,"Feel of the soil",35.42
+"222","08043","FREMONT","COLORADO",2018,"Feel of the soil",5.79
+"223","08045","GARFIELD","COLORADO",2018,"Feel of the soil",20.18
+"224","08049","GRAND","COLORADO",2018,"Feel of the soil",30.88
+"225","08051","GUNNISON","COLORADO",2018,"Feel of the soil",9.7
+"226","08057","JACKSON","COLORADO",2018,"Feel of the soil",3.77
+"227","08059","JEFFERSON","COLORADO",2018,"Feel of the soil",7.51
+"228","08063","KIT CARSON","COLORADO",2018,"Feel of the soil",18.61
+"229","08067","LA PLATA","COLORADO",2018,"Feel of the soil",8.18
+"230","08069","LARIMER","COLORADO",2018,"Feel of the soil",19.33
+"231","08075","LOGAN","COLORADO",2018,"Feel of the soil",19.13
+"232","08077","MESA","COLORADO",2018,"Feel of the soil",13.62
+"233","08081","MOFFAT","COLORADO",2018,"Feel of the soil",2.45
+"234","08083","MONTEZUMA","COLORADO",2018,"Feel of the soil",20.74
+"235","08085","MONTROSE","COLORADO",2018,"Feel of the soil",14.87
+"236","08087","MORGAN","COLORADO",2018,"Feel of the soil",22.47
+"237","08089","OTERO","COLORADO",2018,"Feel of the soil",11.04
+"238","08095","PHILLIPS","COLORADO",2018,"Feel of the soil",15.62
+"239","08099","PROWERS","COLORADO",2018,"Feel of the soil",9.2
+"240","08101","PUEBLO","COLORADO",2018,"Feel of the soil",13.04
+"241","08103","RIO BLANCO","COLORADO",2018,"Feel of the soil",18.55
+"242","08105","RIO GRANDE","COLORADO",2018,"Feel of the soil",23.87
+"243","08107","ROUTT","COLORADO",2018,"Feel of the soil",12.62
+"244","08109","SAGUACHE","COLORADO",2018,"Feel of the soil",6.72
+"245","08115","SEDGWICK","COLORADO",2018,"Feel of the soil",25
+"246","08121","WASHINGTON","COLORADO",2018,"Feel of the soil",13.66
+"247","08123","WELD","COLORADO",2018,"Feel of the soil",15.98
+"248","08125","YUMA","COLORADO",2018,"Feel of the soil",19.29
+"249","32001","CHURCHILL","NEVADA",2018,"Feel of the soil",16.4
+"250","32003","CLARK","NEVADA",2018,"Feel of the soil",9.59
+"251","32005","DOUGLAS","NEVADA",2018,"Feel of the soil",3.07
+"252","32007","ELKO","NEVADA",2018,"Feel of the soil",20.62
+"253","32011","EUREKA","NEVADA",2018,"Feel of the soil",22.6
+"254","32013","HUMBOLDT","NEVADA",2018,"Feel of the soil",4
+"255","32017","LINCOLN","NEVADA",2018,"Feel of the soil",18.71
+"256","32019","LYON","NEVADA",2018,"Feel of the soil",12.4
+"257","32023","NYE","NEVADA",2018,"Feel of the soil",11.18
+"258","32027","PERSHING","NEVADA",2018,"Feel of the soil",17.44
+"259","32031","WASHOE","NEVADA",2018,"Feel of the soil",15.49
+"260","32033","WHITE PINE","NEVADA",2018,"Feel of the soil",10.75
+"261","35001","BERNALILLO","NEW MEXICO",2018,"Feel of the soil",10.4
+"262","35005","CHAVES","NEW MEXICO",2018,"Feel of the soil",11.79
+"263","35009","CURRY","NEW MEXICO",2018,"Feel of the soil",21.15
+"264","35013","DONA ANA","NEW MEXICO",2018,"Feel of the soil",17.96
+"265","35015","EDDY","NEW MEXICO",2018,"Feel of the soil",19.04
+"266","35025","LEA","NEW MEXICO",2018,"Feel of the soil",19.93
+"267","35033","MORA","NEW MEXICO",2018,"Feel of the soil",0
+"268","35035","OTERO","NEW MEXICO",2018,"Feel of the soil",18.73
+"269","35037","QUAY","NEW MEXICO",2018,"Feel of the soil",28.04
+"270","35039","RIO ARRIBA","NEW MEXICO",2018,"Feel of the soil",24.21
+"271","35041","ROOSEVELT","NEW MEXICO",2018,"Feel of the soil",29.46
+"272","35043","SANDOVAL","NEW MEXICO",2018,"Feel of the soil",22.25
+"273","35045","SAN JUAN","NEW MEXICO",2018,"Feel of the soil",16.49
+"274","35047","SAN MIGUEL","NEW MEXICO",2018,"Feel of the soil",23.97
+"275","35049","SANTA FE","NEW MEXICO",2018,"Feel of the soil",20.86
+"276","35053","SOCORRO","NEW MEXICO",2018,"Feel of the soil",11.33
+"277","35055","TAOS","NEW MEXICO",2018,"Feel of the soil",15.95
+"278","35061","VALENCIA","NEW MEXICO",2018,"Feel of the soil",15.82
+"279","49003","BOX ELDER","UTAH",2018,"Feel of the soil",13.68
+"280","49005","CACHE","UTAH",2018,"Feel of the soil",14.92
+"281","49007","CARBON","UTAH",2018,"Feel of the soil",17.16
+"282","49011","DAVIS","UTAH",2018,"Feel of the soil",16.47
+"283","49013","DUCHESNE","UTAH",2018,"Feel of the soil",8.18
+"284","49015","EMERY","UTAH",2018,"Feel of the soil",25.89
+"285","49017","GARFIELD","UTAH",2018,"Feel of the soil",8.52
+"286","49021","IRON","UTAH",2018,"Feel of the soil",14.88
+"287","49023","JUAB","UTAH",2018,"Feel of the soil",21.34
+"288","49027","MILLARD","UTAH",2018,"Feel of the soil",13.66
+"289","49033","RICH","UTAH",2018,"Feel of the soil",12.66
+"290","49035","SALT LAKE","UTAH",2018,"Feel of the soil",15.61
+"291","49039","SANPETE","UTAH",2018,"Feel of the soil",9.48
+"292","49041","SEVIER","UTAH",2018,"Feel of the soil",14.21
+"293","49043","SUMMIT","UTAH",2018,"Feel of the soil",18.01
+"294","49045","TOOELE","UTAH",2018,"Feel of the soil",9.58
+"295","49047","UINTAH","UTAH",2018,"Feel of the soil",19.33
+"296","49049","UTAH","UTAH",2018,"Feel of the soil",11.36
+"297","49051","WASATCH","UTAH",2018,"Feel of the soil",15.38
+"298","49053","WASHINGTON","UTAH",2018,"Feel of the soil",6.27
+"299","49055","WAYNE","UTAH",2018,"Feel of the soil",15.21
+"300","49057","WEBER","UTAH",2018,"Feel of the soil",12.21
+"301","04001","APACHE","ARIZONA",2018,"Soil moisture sensor",0
+"302","04003","COCHISE","ARIZONA",2018,"Soil moisture sensor",10.96
+"303","04009","GRAHAM","ARIZONA",2018,"Soil moisture sensor",0
+"304","04011","GREENLEE","ARIZONA",2018,"Soil moisture sensor",0
+"305","04012","LA PAZ","ARIZONA",2018,"Soil moisture sensor",12.26
+"306","04013","MARICOPA","ARIZONA",2018,"Soil moisture sensor",3.4
+"307","04015","MOHAVE","ARIZONA",2018,"Soil moisture sensor",22.86
+"308","04017","NAVAJO","ARIZONA",2018,"Soil moisture sensor",0
+"309","04019","PIMA","ARIZONA",2018,"Soil moisture sensor",1.48
+"310","04021","PINAL","ARIZONA",2018,"Soil moisture sensor",7.15
+"311","04025","YAVAPAI","ARIZONA",2018,"Soil moisture sensor",0
+"312","04027","YUMA","ARIZONA",2018,"Soil moisture sensor",1.02
+"313","06001","ALAMEDA","CALIFORNIA",2018,"Soil moisture sensor",0
+"314","06005","AMADOR","CALIFORNIA",2018,"Soil moisture sensor",0
+"315","06007","BUTTE","CALIFORNIA",2018,"Soil moisture sensor",13.84
+"316","06009","CALAVERAS","CALIFORNIA",2018,"Soil moisture sensor",0
+"317","06011","COLUSA","CALIFORNIA",2018,"Soil moisture sensor",10.24
+"318","06013","CONTRA COSTA","CALIFORNIA",2018,"Soil moisture sensor",1.63
+"319","06017","EL DORADO","CALIFORNIA",2018,"Soil moisture sensor",14.43
+"320","06019","FRESNO","CALIFORNIA",2018,"Soil moisture sensor",10.43
+"321","06021","GLENN","CALIFORNIA",2018,"Soil moisture sensor",12.38
+"322","06023","HUMBOLDT","CALIFORNIA",2018,"Soil moisture sensor",0
+"323","06025","IMPERIAL","CALIFORNIA",2018,"Soil moisture sensor",7.57
+"324","06027","INYO","CALIFORNIA",2018,"Soil moisture sensor",0
+"325","06029","KERN","CALIFORNIA",2018,"Soil moisture sensor",18.21
+"326","06031","KINGS","CALIFORNIA",2018,"Soil moisture sensor",15.53
+"327","06033","LAKE","CALIFORNIA",2018,"Soil moisture sensor",0
+"328","06035","LASSEN","CALIFORNIA",2018,"Soil moisture sensor",6.81
+"329","06037","LOS ANGELES","CALIFORNIA",2018,"Soil moisture sensor",11.97
+"330","06039","MADERA","CALIFORNIA",2018,"Soil moisture sensor",15.23
+"331","06041","MARIN","CALIFORNIA",2018,"Soil moisture sensor",0
+"332","06045","MENDOCINO","CALIFORNIA",2018,"Soil moisture sensor",14.59
+"333","06047","MERCED","CALIFORNIA",2018,"Soil moisture sensor",11.33
+"334","06049","MODOC","CALIFORNIA",2018,"Soil moisture sensor",7.76
+"335","06051","MONO","CALIFORNIA",2018,"Soil moisture sensor",10.49
+"336","06053","MONTEREY","CALIFORNIA",2018,"Soil moisture sensor",10.22
+"337","06055","NAPA","CALIFORNIA",2018,"Soil moisture sensor",10.9
+"338","06057","NEVADA","CALIFORNIA",2018,"Soil moisture sensor",4.55
+"339","06059","ORANGE","CALIFORNIA",2018,"Soil moisture sensor",4.93
+"340","06061","PLACER","CALIFORNIA",2018,"Soil moisture sensor",4.41
+"341","06065","RIVERSIDE","CALIFORNIA",2018,"Soil moisture sensor",9.69
+"342","06067","SACRAMENTO","CALIFORNIA",2018,"Soil moisture sensor",7.89
+"343","06069","SAN BENITO","CALIFORNIA",2018,"Soil moisture sensor",13.57
+"344","06071","SAN BERNARDINO","CALIFORNIA",2018,"Soil moisture sensor",3.07
+"345","06073","SAN DIEGO","CALIFORNIA",2018,"Soil moisture sensor",12
+"346","06077","SAN JOAQUIN","CALIFORNIA",2018,"Soil moisture sensor",11.23
+"347","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Soil moisture sensor",14.12
+"348","06081","SAN MATEO","CALIFORNIA",2018,"Soil moisture sensor",3.23
+"349","06083","SANTA BARBARA","CALIFORNIA",2018,"Soil moisture sensor",8.7
+"350","06085","SANTA CLARA","CALIFORNIA",2018,"Soil moisture sensor",1.41
+"351","06087","SANTA CRUZ","CALIFORNIA",2018,"Soil moisture sensor",6.45
+"352","06089","SHASTA","CALIFORNIA",2018,"Soil moisture sensor",4.93
+"353","06093","SISKIYOU","CALIFORNIA",2018,"Soil moisture sensor",3.42
+"354","06095","SOLANO","CALIFORNIA",2018,"Soil moisture sensor",8.93
+"355","06097","SONOMA","CALIFORNIA",2018,"Soil moisture sensor",8.6
+"356","06099","STANISLAUS","CALIFORNIA",2018,"Soil moisture sensor",9.17
+"357","06101","SUTTER","CALIFORNIA",2018,"Soil moisture sensor",7.93
+"358","06103","TEHAMA","CALIFORNIA",2018,"Soil moisture sensor",10.62
+"359","06107","TULARE","CALIFORNIA",2018,"Soil moisture sensor",10.31
+"360","06109","TUOLUMNE","CALIFORNIA",2018,"Soil moisture sensor",0
+"361","06111","VENTURA","CALIFORNIA",2018,"Soil moisture sensor",12.79
+"362","06113","YOLO","CALIFORNIA",2018,"Soil moisture sensor",14.89
+"363","06115","YUBA","CALIFORNIA",2018,"Soil moisture sensor",7.21
+"364","08001","ADAMS","COLORADO",2018,"Soil moisture sensor",0
+"365","08003","ALAMOSA","COLORADO",2018,"Soil moisture sensor",0
+"366","08007","ARCHULETA","COLORADO",2018,"Soil moisture sensor",0
+"367","08013","BOULDER","COLORADO",2018,"Soil moisture sensor",0
+"368","08021","CONEJOS","COLORADO",2018,"Soil moisture sensor",0
+"369","08029","DELTA","COLORADO",2018,"Soil moisture sensor",2.29
+"370","08039","ELBERT","COLORADO",2018,"Soil moisture sensor",1.38
+"371","08041","EL PASO","COLORADO",2018,"Soil moisture sensor",3.33
+"372","08043","FREMONT","COLORADO",2018,"Soil moisture sensor",0
+"373","08045","GARFIELD","COLORADO",2018,"Soil moisture sensor",0.38
+"374","08049","GRAND","COLORADO",2018,"Soil moisture sensor",0
+"375","08051","GUNNISON","COLORADO",2018,"Soil moisture sensor",0
+"376","08057","JACKSON","COLORADO",2018,"Soil moisture sensor",0
+"377","08059","JEFFERSON","COLORADO",2018,"Soil moisture sensor",1.88
+"378","08063","KIT CARSON","COLORADO",2018,"Soil moisture sensor",14.96
+"379","08067","LA PLATA","COLORADO",2018,"Soil moisture sensor",0.64
+"380","08069","LARIMER","COLORADO",2018,"Soil moisture sensor",3.47
+"381","08075","LOGAN","COLORADO",2018,"Soil moisture sensor",5.37
+"382","08077","MESA","COLORADO",2018,"Soil moisture sensor",0.7
+"383","08081","MOFFAT","COLORADO",2018,"Soil moisture sensor",0
+"384","08083","MONTEZUMA","COLORADO",2018,"Soil moisture sensor",0.08
+"385","08085","MONTROSE","COLORADO",2018,"Soil moisture sensor",1.9
+"386","08087","MORGAN","COLORADO",2018,"Soil moisture sensor",0.4
+"387","08089","OTERO","COLORADO",2018,"Soil moisture sensor",0.67
+"388","08095","PHILLIPS","COLORADO",2018,"Soil moisture sensor",17.33
+"389","08099","PROWERS","COLORADO",2018,"Soil moisture sensor",1.53
+"390","08101","PUEBLO","COLORADO",2018,"Soil moisture sensor",0
+"391","08103","RIO BLANCO","COLORADO",2018,"Soil moisture sensor",0
+"392","08105","RIO GRANDE","COLORADO",2018,"Soil moisture sensor",1.29
+"393","08107","ROUTT","COLORADO",2018,"Soil moisture sensor",5.71
+"394","08109","SAGUACHE","COLORADO",2018,"Soil moisture sensor",0
+"395","08115","SEDGWICK","COLORADO",2018,"Soil moisture sensor",2.17
+"396","08121","WASHINGTON","COLORADO",2018,"Soil moisture sensor",18.54
+"397","08123","WELD","COLORADO",2018,"Soil moisture sensor",0.94
+"398","08125","YUMA","COLORADO",2018,"Soil moisture sensor",15.02
+"399","32001","CHURCHILL","NEVADA",2018,"Soil moisture sensor",1.88
+"400","32003","CLARK","NEVADA",2018,"Soil moisture sensor",6.85
+"401","32005","DOUGLAS","NEVADA",2018,"Soil moisture sensor",0
+"402","32007","ELKO","NEVADA",2018,"Soil moisture sensor",3.87
+"403","32011","EUREKA","NEVADA",2018,"Soil moisture sensor",9.59
+"404","32013","HUMBOLDT","NEVADA",2018,"Soil moisture sensor",0
+"405","32017","LINCOLN","NEVADA",2018,"Soil moisture sensor",0
+"406","32019","LYON","NEVADA",2018,"Soil moisture sensor",4.49
+"407","32023","NYE","NEVADA",2018,"Soil moisture sensor",4.61
+"408","32027","PERSHING","NEVADA",2018,"Soil moisture sensor",0
+"409","32031","WASHOE","NEVADA",2018,"Soil moisture sensor",0
+"410","32033","WHITE PINE","NEVADA",2018,"Soil moisture sensor",0
+"411","35001","BERNALILLO","NEW MEXICO",2018,"Soil moisture sensor",8.52
+"412","35005","CHAVES","NEW MEXICO",2018,"Soil moisture sensor",4.11
+"413","35009","CURRY","NEW MEXICO",2018,"Soil moisture sensor",6.41
+"414","35013","DONA ANA","NEW MEXICO",2018,"Soil moisture sensor",2.31
+"415","35015","EDDY","NEW MEXICO",2018,"Soil moisture sensor",2.2
+"416","35025","LEA","NEW MEXICO",2018,"Soil moisture sensor",4.06
+"417","35033","MORA","NEW MEXICO",2018,"Soil moisture sensor",0
+"418","35035","OTERO","NEW MEXICO",2018,"Soil moisture sensor",0
+"419","35037","QUAY","NEW MEXICO",2018,"Soil moisture sensor",0
+"420","35039","RIO ARRIBA","NEW MEXICO",2018,"Soil moisture sensor",0
+"421","35041","ROOSEVELT","NEW MEXICO",2018,"Soil moisture sensor",13.69
+"422","35043","SANDOVAL","NEW MEXICO",2018,"Soil moisture sensor",0
+"423","35045","SAN JUAN","NEW MEXICO",2018,"Soil moisture sensor",1.56
+"424","35047","SAN MIGUEL","NEW MEXICO",2018,"Soil moisture sensor",0
+"425","35049","SANTA FE","NEW MEXICO",2018,"Soil moisture sensor",0
+"426","35053","SOCORRO","NEW MEXICO",2018,"Soil moisture sensor",1.27
+"427","35055","TAOS","NEW MEXICO",2018,"Soil moisture sensor",0
+"428","35061","VALENCIA","NEW MEXICO",2018,"Soil moisture sensor",0
+"429","49003","BOX ELDER","UTAH",2018,"Soil moisture sensor",2.53
+"430","49005","CACHE","UTAH",2018,"Soil moisture sensor",0.37
+"431","49007","CARBON","UTAH",2018,"Soil moisture sensor",0
+"432","49011","DAVIS","UTAH",2018,"Soil moisture sensor",0.49
+"433","49013","DUCHESNE","UTAH",2018,"Soil moisture sensor",0
+"434","49015","EMERY","UTAH",2018,"Soil moisture sensor",0
+"435","49017","GARFIELD","UTAH",2018,"Soil moisture sensor",0
+"436","49021","IRON","UTAH",2018,"Soil moisture sensor",0.87
+"437","49023","JUAB","UTAH",2018,"Soil moisture sensor",0
+"438","49027","MILLARD","UTAH",2018,"Soil moisture sensor",0.71
+"439","49033","RICH","UTAH",2018,"Soil moisture sensor",0
+"440","49035","SALT LAKE","UTAH",2018,"Soil moisture sensor",0.64
+"441","49039","SANPETE","UTAH",2018,"Soil moisture sensor",0
+"442","49041","SEVIER","UTAH",2018,"Soil moisture sensor",2.68
+"443","49043","SUMMIT","UTAH",2018,"Soil moisture sensor",2.72
+"444","49045","TOOELE","UTAH",2018,"Soil moisture sensor",0.65
+"445","49047","UINTAH","UTAH",2018,"Soil moisture sensor",0
+"446","49049","UTAH","UTAH",2018,"Soil moisture sensor",0.25
+"447","49051","WASATCH","UTAH",2018,"Soil moisture sensor",0
+"448","49053","WASHINGTON","UTAH",2018,"Soil moisture sensor",0
+"449","49055","WAYNE","UTAH",2018,"Soil moisture sensor",0
+"450","49057","WEBER","UTAH",2018,"Soil moisture sensor",2.03
+"451","04001","APACHE","ARIZONA",2018,"Plant moisture sensor",0
+"452","04003","COCHISE","ARIZONA",2018,"Plant moisture sensor",0
+"453","04009","GRAHAM","ARIZONA",2018,"Plant moisture sensor",0
+"454","04011","GREENLEE","ARIZONA",2018,"Plant moisture sensor",0
+"455","04012","LA PAZ","ARIZONA",2018,"Plant moisture sensor",5.66
+"456","04013","MARICOPA","ARIZONA",2018,"Plant moisture sensor",3.94
+"457","04015","MOHAVE","ARIZONA",2018,"Plant moisture sensor",0
+"458","04017","NAVAJO","ARIZONA",2018,"Plant moisture sensor",0
+"459","04019","PIMA","ARIZONA",2018,"Plant moisture sensor",0
+"460","04021","PINAL","ARIZONA",2018,"Plant moisture sensor",0.3
+"461","04025","YAVAPAI","ARIZONA",2018,"Plant moisture sensor",0
+"462","04027","YUMA","ARIZONA",2018,"Plant moisture sensor",0.29
+"463","06001","ALAMEDA","CALIFORNIA",2018,"Plant moisture sensor",0
+"464","06005","AMADOR","CALIFORNIA",2018,"Plant moisture sensor",0
+"465","06007","BUTTE","CALIFORNIA",2018,"Plant moisture sensor",3.49
+"466","06009","CALAVERAS","CALIFORNIA",2018,"Plant moisture sensor",0
+"467","06011","COLUSA","CALIFORNIA",2018,"Plant moisture sensor",11.31
+"468","06013","CONTRA COSTA","CALIFORNIA",2018,"Plant moisture sensor",0
+"469","06017","EL DORADO","CALIFORNIA",2018,"Plant moisture sensor",0.31
+"470","06019","FRESNO","CALIFORNIA",2018,"Plant moisture sensor",1.37
+"471","06021","GLENN","CALIFORNIA",2018,"Plant moisture sensor",3.91
+"472","06023","HUMBOLDT","CALIFORNIA",2018,"Plant moisture sensor",0
+"473","06025","IMPERIAL","CALIFORNIA",2018,"Plant moisture sensor",1.06
+"474","06027","INYO","CALIFORNIA",2018,"Plant moisture sensor",0
+"475","06029","KERN","CALIFORNIA",2018,"Plant moisture sensor",4.25
+"476","06031","KINGS","CALIFORNIA",2018,"Plant moisture sensor",1.57
+"477","06033","LAKE","CALIFORNIA",2018,"Plant moisture sensor",0
+"478","06035","LASSEN","CALIFORNIA",2018,"Plant moisture sensor",2.17
+"479","06037","LOS ANGELES","CALIFORNIA",2018,"Plant moisture sensor",3.33
+"480","06039","MADERA","CALIFORNIA",2018,"Plant moisture sensor",4.47
+"481","06041","MARIN","CALIFORNIA",2018,"Plant moisture sensor",0
+"482","06045","MENDOCINO","CALIFORNIA",2018,"Plant moisture sensor",1.81
+"483","06047","MERCED","CALIFORNIA",2018,"Plant moisture sensor",2.28
+"484","06049","MODOC","CALIFORNIA",2018,"Plant moisture sensor",0
+"485","06051","MONO","CALIFORNIA",2018,"Plant moisture sensor",4.32
+"486","06053","MONTEREY","CALIFORNIA",2018,"Plant moisture sensor",3.08
+"487","06055","NAPA","CALIFORNIA",2018,"Plant moisture sensor",15.28
+"488","06057","NEVADA","CALIFORNIA",2018,"Plant moisture sensor",0
+"489","06059","ORANGE","CALIFORNIA",2018,"Plant moisture sensor",0
+"490","06061","PLACER","CALIFORNIA",2018,"Plant moisture sensor",1.66
+"491","06065","RIVERSIDE","CALIFORNIA",2018,"Plant moisture sensor",0.13
+"492","06067","SACRAMENTO","CALIFORNIA",2018,"Plant moisture sensor",3.2
+"493","06069","SAN BENITO","CALIFORNIA",2018,"Plant moisture sensor",6.78
+"494","06071","SAN BERNARDINO","CALIFORNIA",2018,"Plant moisture sensor",3.21
+"495","06073","SAN DIEGO","CALIFORNIA",2018,"Plant moisture sensor",1.69
+"496","06077","SAN JOAQUIN","CALIFORNIA",2018,"Plant moisture sensor",3.54
+"497","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Plant moisture sensor",4.46
+"498","06081","SAN MATEO","CALIFORNIA",2018,"Plant moisture sensor",0
+"499","06083","SANTA BARBARA","CALIFORNIA",2018,"Plant moisture sensor",2.99
+"500","06085","SANTA CLARA","CALIFORNIA",2018,"Plant moisture sensor",0
+"501","06087","SANTA CRUZ","CALIFORNIA",2018,"Plant moisture sensor",0.78
+"502","06089","SHASTA","CALIFORNIA",2018,"Plant moisture sensor",0
+"503","06093","SISKIYOU","CALIFORNIA",2018,"Plant moisture sensor",2.74
+"504","06095","SOLANO","CALIFORNIA",2018,"Plant moisture sensor",6.59
+"505","06097","SONOMA","CALIFORNIA",2018,"Plant moisture sensor",5.6
+"506","06099","STANISLAUS","CALIFORNIA",2018,"Plant moisture sensor",2.8
+"507","06101","SUTTER","CALIFORNIA",2018,"Plant moisture sensor",3.05
+"508","06103","TEHAMA","CALIFORNIA",2018,"Plant moisture sensor",8.21
+"509","06107","TULARE","CALIFORNIA",2018,"Plant moisture sensor",2.44
+"510","06109","TUOLUMNE","CALIFORNIA",2018,"Plant moisture sensor",0
+"511","06111","VENTURA","CALIFORNIA",2018,"Plant moisture sensor",3.14
+"512","06113","YOLO","CALIFORNIA",2018,"Plant moisture sensor",6.51
+"513","06115","YUBA","CALIFORNIA",2018,"Plant moisture sensor",3.79
+"514","08001","ADAMS","COLORADO",2018,"Plant moisture sensor",0
+"515","08003","ALAMOSA","COLORADO",2018,"Plant moisture sensor",0
+"516","08007","ARCHULETA","COLORADO",2018,"Plant moisture sensor",0
+"517","08013","BOULDER","COLORADO",2018,"Plant moisture sensor",0
+"518","08021","CONEJOS","COLORADO",2018,"Plant moisture sensor",0
+"519","08029","DELTA","COLORADO",2018,"Plant moisture sensor",0
+"520","08039","ELBERT","COLORADO",2018,"Plant moisture sensor",0
+"521","08041","EL PASO","COLORADO",2018,"Plant moisture sensor",0
+"522","08043","FREMONT","COLORADO",2018,"Plant moisture sensor",0
+"523","08045","GARFIELD","COLORADO",2018,"Plant moisture sensor",0
+"524","08049","GRAND","COLORADO",2018,"Plant moisture sensor",0
+"525","08051","GUNNISON","COLORADO",2018,"Plant moisture sensor",0
+"526","08057","JACKSON","COLORADO",2018,"Plant moisture sensor",0
+"527","08059","JEFFERSON","COLORADO",2018,"Plant moisture sensor",0
+"528","08063","KIT CARSON","COLORADO",2018,"Plant moisture sensor",0
+"529","08067","LA PLATA","COLORADO",2018,"Plant moisture sensor",0
+"530","08069","LARIMER","COLORADO",2018,"Plant moisture sensor",1.63
+"531","08075","LOGAN","COLORADO",2018,"Plant moisture sensor",0
+"532","08077","MESA","COLORADO",2018,"Plant moisture sensor",0
+"533","08081","MOFFAT","COLORADO",2018,"Plant moisture sensor",0
+"534","08083","MONTEZUMA","COLORADO",2018,"Plant moisture sensor",0.08
+"535","08085","MONTROSE","COLORADO",2018,"Plant moisture sensor",0
+"536","08087","MORGAN","COLORADO",2018,"Plant moisture sensor",0
+"537","08089","OTERO","COLORADO",2018,"Plant moisture sensor",0
+"538","08095","PHILLIPS","COLORADO",2018,"Plant moisture sensor",0
+"539","08099","PROWERS","COLORADO",2018,"Plant moisture sensor",0
+"540","08101","PUEBLO","COLORADO",2018,"Plant moisture sensor",0
+"541","08103","RIO BLANCO","COLORADO",2018,"Plant moisture sensor",0
+"542","08105","RIO GRANDE","COLORADO",2018,"Plant moisture sensor",0
+"543","08107","ROUTT","COLORADO",2018,"Plant moisture sensor",5.71
+"544","08109","SAGUACHE","COLORADO",2018,"Plant moisture sensor",0
+"545","08115","SEDGWICK","COLORADO",2018,"Plant moisture sensor",0
+"546","08121","WASHINGTON","COLORADO",2018,"Plant moisture sensor",0
+"547","08123","WELD","COLORADO",2018,"Plant moisture sensor",0.86
+"548","08125","YUMA","COLORADO",2018,"Plant moisture sensor",0.42
+"549","32001","CHURCHILL","NEVADA",2018,"Plant moisture sensor",0
+"550","32003","CLARK","NEVADA",2018,"Plant moisture sensor",0
+"551","32005","DOUGLAS","NEVADA",2018,"Plant moisture sensor",0
+"552","32007","ELKO","NEVADA",2018,"Plant moisture sensor",0
+"553","32011","EUREKA","NEVADA",2018,"Plant moisture sensor",0
+"554","32013","HUMBOLDT","NEVADA",2018,"Plant moisture sensor",0
+"555","32017","LINCOLN","NEVADA",2018,"Plant moisture sensor",0
+"556","32019","LYON","NEVADA",2018,"Plant moisture sensor",0
+"557","32023","NYE","NEVADA",2018,"Plant moisture sensor",9.87
+"558","32027","PERSHING","NEVADA",2018,"Plant moisture sensor",0
+"559","32031","WASHOE","NEVADA",2018,"Plant moisture sensor",0
+"560","32033","WHITE PINE","NEVADA",2018,"Plant moisture sensor",0
+"561","35001","BERNALILLO","NEW MEXICO",2018,"Plant moisture sensor",0
+"562","35005","CHAVES","NEW MEXICO",2018,"Plant moisture sensor",0
+"563","35009","CURRY","NEW MEXICO",2018,"Plant moisture sensor",0
+"564","35013","DONA ANA","NEW MEXICO",2018,"Plant moisture sensor",0.91
+"565","35015","EDDY","NEW MEXICO",2018,"Plant moisture sensor",0
+"566","35025","LEA","NEW MEXICO",2018,"Plant moisture sensor",4.06
+"567","35033","MORA","NEW MEXICO",2018,"Plant moisture sensor",0
+"568","35035","OTERO","NEW MEXICO",2018,"Plant moisture sensor",0
+"569","35037","QUAY","NEW MEXICO",2018,"Plant moisture sensor",0
+"570","35039","RIO ARRIBA","NEW MEXICO",2018,"Plant moisture sensor",0
+"571","35041","ROOSEVELT","NEW MEXICO",2018,"Plant moisture sensor",0
+"572","35043","SANDOVAL","NEW MEXICO",2018,"Plant moisture sensor",0
+"573","35045","SAN JUAN","NEW MEXICO",2018,"Plant moisture sensor",0
+"574","35047","SAN MIGUEL","NEW MEXICO",2018,"Plant moisture sensor",0
+"575","35049","SANTA FE","NEW MEXICO",2018,"Plant moisture sensor",0
+"576","35053","SOCORRO","NEW MEXICO",2018,"Plant moisture sensor",0
+"577","35055","TAOS","NEW MEXICO",2018,"Plant moisture sensor",0
+"578","35061","VALENCIA","NEW MEXICO",2018,"Plant moisture sensor",0
+"579","49003","BOX ELDER","UTAH",2018,"Plant moisture sensor",0
+"580","49005","CACHE","UTAH",2018,"Plant moisture sensor",1.45
+"581","49007","CARBON","UTAH",2018,"Plant moisture sensor",0
+"582","49011","DAVIS","UTAH",2018,"Plant moisture sensor",0
+"583","49013","DUCHESNE","UTAH",2018,"Plant moisture sensor",0
+"584","49015","EMERY","UTAH",2018,"Plant moisture sensor",0
+"585","49017","GARFIELD","UTAH",2018,"Plant moisture sensor",0
+"586","49021","IRON","UTAH",2018,"Plant moisture sensor",0
+"587","49023","JUAB","UTAH",2018,"Plant moisture sensor",0
+"588","49027","MILLARD","UTAH",2018,"Plant moisture sensor",0.14
+"589","49033","RICH","UTAH",2018,"Plant moisture sensor",0
+"590","49035","SALT LAKE","UTAH",2018,"Plant moisture sensor",0
+"591","49039","SANPETE","UTAH",2018,"Plant moisture sensor",0
+"592","49041","SEVIER","UTAH",2018,"Plant moisture sensor",0
+"593","49043","SUMMIT","UTAH",2018,"Plant moisture sensor",0
+"594","49045","TOOELE","UTAH",2018,"Plant moisture sensor",0
+"595","49047","UINTAH","UTAH",2018,"Plant moisture sensor",0.23
+"596","49049","UTAH","UTAH",2018,"Plant moisture sensor",0
+"597","49051","WASATCH","UTAH",2018,"Plant moisture sensor",0
+"598","49053","WASHINGTON","UTAH",2018,"Plant moisture sensor",0
+"599","49055","WAYNE","UTAH",2018,"Plant moisture sensor",0
+"600","49057","WEBER","UTAH",2018,"Plant moisture sensor",2.03
+"601","04001","APACHE","ARIZONA",2018,"Scheduling service",0
+"602","04003","COCHISE","ARIZONA",2018,"Scheduling service",2.3
+"603","04009","GRAHAM","ARIZONA",2018,"Scheduling service",6.95
+"604","04011","GREENLEE","ARIZONA",2018,"Scheduling service",0
+"605","04012","LA PAZ","ARIZONA",2018,"Scheduling service",0
+"606","04013","MARICOPA","ARIZONA",2018,"Scheduling service",7.58
+"607","04015","MOHAVE","ARIZONA",2018,"Scheduling service",0
+"608","04017","NAVAJO","ARIZONA",2018,"Scheduling service",31.58
+"609","04019","PIMA","ARIZONA",2018,"Scheduling service",0
+"610","04021","PINAL","ARIZONA",2018,"Scheduling service",2.13
+"611","04025","YAVAPAI","ARIZONA",2018,"Scheduling service",10.38
+"612","04027","YUMA","ARIZONA",2018,"Scheduling service",4.69
+"613","06001","ALAMEDA","CALIFORNIA",2018,"Scheduling service",13.94
+"614","06005","AMADOR","CALIFORNIA",2018,"Scheduling service",0
+"615","06007","BUTTE","CALIFORNIA",2018,"Scheduling service",1.85
+"616","06009","CALAVERAS","CALIFORNIA",2018,"Scheduling service",0
+"617","06011","COLUSA","CALIFORNIA",2018,"Scheduling service",5.25
+"618","06013","CONTRA COSTA","CALIFORNIA",2018,"Scheduling service",6.74
+"619","06017","EL DORADO","CALIFORNIA",2018,"Scheduling service",7.11
+"620","06019","FRESNO","CALIFORNIA",2018,"Scheduling service",6.14
+"621","06021","GLENN","CALIFORNIA",2018,"Scheduling service",2.77
+"622","06023","HUMBOLDT","CALIFORNIA",2018,"Scheduling service",0
+"623","06025","IMPERIAL","CALIFORNIA",2018,"Scheduling service",1.41
+"624","06027","INYO","CALIFORNIA",2018,"Scheduling service",23.4
+"625","06029","KERN","CALIFORNIA",2018,"Scheduling service",3.03
+"626","06031","KINGS","CALIFORNIA",2018,"Scheduling service",8.93
+"627","06033","LAKE","CALIFORNIA",2018,"Scheduling service",0
+"628","06035","LASSEN","CALIFORNIA",2018,"Scheduling service",7.12
+"629","06037","LOS ANGELES","CALIFORNIA",2018,"Scheduling service",3.33
+"630","06039","MADERA","CALIFORNIA",2018,"Scheduling service",9.17
+"631","06041","MARIN","CALIFORNIA",2018,"Scheduling service",2.04
+"632","06045","MENDOCINO","CALIFORNIA",2018,"Scheduling service",1.81
+"633","06047","MERCED","CALIFORNIA",2018,"Scheduling service",3.7
+"634","06049","MODOC","CALIFORNIA",2018,"Scheduling service",1.26
+"635","06051","MONO","CALIFORNIA",2018,"Scheduling service",8.64
+"636","06053","MONTEREY","CALIFORNIA",2018,"Scheduling service",4.51
+"637","06055","NAPA","CALIFORNIA",2018,"Scheduling service",4.57
+"638","06057","NEVADA","CALIFORNIA",2018,"Scheduling service",4.55
+"639","06059","ORANGE","CALIFORNIA",2018,"Scheduling service",0
+"640","06061","PLACER","CALIFORNIA",2018,"Scheduling service",3.62
+"641","06065","RIVERSIDE","CALIFORNIA",2018,"Scheduling service",3.01
+"642","06067","SACRAMENTO","CALIFORNIA",2018,"Scheduling service",2.86
+"643","06069","SAN BENITO","CALIFORNIA",2018,"Scheduling service",6.78
+"644","06071","SAN BERNARDINO","CALIFORNIA",2018,"Scheduling service",12.69
+"645","06073","SAN DIEGO","CALIFORNIA",2018,"Scheduling service",4.17
+"646","06077","SAN JOAQUIN","CALIFORNIA",2018,"Scheduling service",6.58
+"647","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Scheduling service",1.97
+"648","06081","SAN MATEO","CALIFORNIA",2018,"Scheduling service",0
+"649","06083","SANTA BARBARA","CALIFORNIA",2018,"Scheduling service",3.72
+"650","06085","SANTA CLARA","CALIFORNIA",2018,"Scheduling service",4.36
+"651","06087","SANTA CRUZ","CALIFORNIA",2018,"Scheduling service",0
+"652","06089","SHASTA","CALIFORNIA",2018,"Scheduling service",3.33
+"653","06093","SISKIYOU","CALIFORNIA",2018,"Scheduling service",2.51
+"654","06095","SOLANO","CALIFORNIA",2018,"Scheduling service",1.65
+"655","06097","SONOMA","CALIFORNIA",2018,"Scheduling service",4.54
+"656","06099","STANISLAUS","CALIFORNIA",2018,"Scheduling service",6
+"657","06101","SUTTER","CALIFORNIA",2018,"Scheduling service",6.16
+"658","06103","TEHAMA","CALIFORNIA",2018,"Scheduling service",2.85
+"659","06107","TULARE","CALIFORNIA",2018,"Scheduling service",6.38
+"660","06109","TUOLUMNE","CALIFORNIA",2018,"Scheduling service",5.45
+"661","06111","VENTURA","CALIFORNIA",2018,"Scheduling service",3.83
+"662","06113","YOLO","CALIFORNIA",2018,"Scheduling service",2.41
+"663","06115","YUBA","CALIFORNIA",2018,"Scheduling service",6.36
+"664","08001","ADAMS","COLORADO",2018,"Scheduling service",8.68
+"665","08003","ALAMOSA","COLORADO",2018,"Scheduling service",4.12
+"666","08007","ARCHULETA","COLORADO",2018,"Scheduling service",0
+"667","08013","BOULDER","COLORADO",2018,"Scheduling service",2.15
+"668","08021","CONEJOS","COLORADO",2018,"Scheduling service",13.91
+"669","08029","DELTA","COLORADO",2018,"Scheduling service",1.82
+"670","08039","ELBERT","COLORADO",2018,"Scheduling service",0
+"671","08041","EL PASO","COLORADO",2018,"Scheduling service",0
+"672","08043","FREMONT","COLORADO",2018,"Scheduling service",13.02
+"673","08045","GARFIELD","COLORADO",2018,"Scheduling service",6.02
+"674","08049","GRAND","COLORADO",2018,"Scheduling service",0
+"675","08051","GUNNISON","COLORADO",2018,"Scheduling service",0
+"676","08057","JACKSON","COLORADO",2018,"Scheduling service",0
+"677","08059","JEFFERSON","COLORADO",2018,"Scheduling service",12.21
+"678","08063","KIT CARSON","COLORADO",2018,"Scheduling service",6.93
+"679","08067","LA PLATA","COLORADO",2018,"Scheduling service",7.26
+"680","08069","LARIMER","COLORADO",2018,"Scheduling service",0.2
+"681","08075","LOGAN","COLORADO",2018,"Scheduling service",1.01
+"682","08077","MESA","COLORADO",2018,"Scheduling service",0.75
+"683","08081","MOFFAT","COLORADO",2018,"Scheduling service",14.72
+"684","08083","MONTEZUMA","COLORADO",2018,"Scheduling service",1.92
+"685","08085","MONTROSE","COLORADO",2018,"Scheduling service",5.93
+"686","08087","MORGAN","COLORADO",2018,"Scheduling service",2.78
+"687","08089","OTERO","COLORADO",2018,"Scheduling service",4.52
+"688","08095","PHILLIPS","COLORADO",2018,"Scheduling service",7.1
+"689","08099","PROWERS","COLORADO",2018,"Scheduling service",1.53
+"690","08101","PUEBLO","COLORADO",2018,"Scheduling service",0.79
+"691","08103","RIO BLANCO","COLORADO",2018,"Scheduling service",4.69
+"692","08105","RIO GRANDE","COLORADO",2018,"Scheduling service",0
+"693","08107","ROUTT","COLORADO",2018,"Scheduling service",6.19
+"694","08109","SAGUACHE","COLORADO",2018,"Scheduling service",0
+"695","08115","SEDGWICK","COLORADO",2018,"Scheduling service",2.17
+"696","08121","WASHINGTON","COLORADO",2018,"Scheduling service",1.95
+"697","08123","WELD","COLORADO",2018,"Scheduling service",4.79
+"698","08125","YUMA","COLORADO",2018,"Scheduling service",14.08
+"699","32001","CHURCHILL","NEVADA",2018,"Scheduling service",5.38
+"700","32003","CLARK","NEVADA",2018,"Scheduling service",23.29
+"701","32005","DOUGLAS","NEVADA",2018,"Scheduling service",9.21
+"702","32007","ELKO","NEVADA",2018,"Scheduling service",3.61
+"703","32011","EUREKA","NEVADA",2018,"Scheduling service",0
+"704","32013","HUMBOLDT","NEVADA",2018,"Scheduling service",0
+"705","32017","LINCOLN","NEVADA",2018,"Scheduling service",10.79
+"706","32019","LYON","NEVADA",2018,"Scheduling service",7.92
+"707","32023","NYE","NEVADA",2018,"Scheduling service",1.97
+"708","32027","PERSHING","NEVADA",2018,"Scheduling service",7.69
+"709","32031","WASHOE","NEVADA",2018,"Scheduling service",0
+"710","32033","WHITE PINE","NEVADA",2018,"Scheduling service",0
+"711","35001","BERNALILLO","NEW MEXICO",2018,"Scheduling service",9.86
+"712","35005","CHAVES","NEW MEXICO",2018,"Scheduling service",14.11
+"713","35009","CURRY","NEW MEXICO",2018,"Scheduling service",0
+"714","35013","DONA ANA","NEW MEXICO",2018,"Scheduling service",4.02
+"715","35015","EDDY","NEW MEXICO",2018,"Scheduling service",4.61
+"716","35025","LEA","NEW MEXICO",2018,"Scheduling service",4.06
+"717","35033","MORA","NEW MEXICO",2018,"Scheduling service",23.02
+"718","35035","OTERO","NEW MEXICO",2018,"Scheduling service",6.18
+"719","35037","QUAY","NEW MEXICO",2018,"Scheduling service",0
+"720","35039","RIO ARRIBA","NEW MEXICO",2018,"Scheduling service",8.53
+"721","35041","ROOSEVELT","NEW MEXICO",2018,"Scheduling service",0
+"722","35043","SANDOVAL","NEW MEXICO",2018,"Scheduling service",5.92
+"723","35045","SAN JUAN","NEW MEXICO",2018,"Scheduling service",4.96
+"724","35047","SAN MIGUEL","NEW MEXICO",2018,"Scheduling service",6.48
+"725","35049","SANTA FE","NEW MEXICO",2018,"Scheduling service",0
+"726","35053","SOCORRO","NEW MEXICO",2018,"Scheduling service",1.27
+"727","35055","TAOS","NEW MEXICO",2018,"Scheduling service",7.31
+"728","35061","VALENCIA","NEW MEXICO",2018,"Scheduling service",9.72
+"729","49003","BOX ELDER","UTAH",2018,"Scheduling service",13.41
+"730","49005","CACHE","UTAH",2018,"Scheduling service",8.79
+"731","49007","CARBON","UTAH",2018,"Scheduling service",5.72
+"732","49011","DAVIS","UTAH",2018,"Scheduling service",9.39
+"733","49013","DUCHESNE","UTAH",2018,"Scheduling service",6.07
+"734","49015","EMERY","UTAH",2018,"Scheduling service",0
+"735","49017","GARFIELD","UTAH",2018,"Scheduling service",17.03
+"736","49021","IRON","UTAH",2018,"Scheduling service",0
+"737","49023","JUAB","UTAH",2018,"Scheduling service",0
+"738","49027","MILLARD","UTAH",2018,"Scheduling service",0
+"739","49033","RICH","UTAH",2018,"Scheduling service",10.38
+"740","49035","SALT LAKE","UTAH",2018,"Scheduling service",9.24
+"741","49039","SANPETE","UTAH",2018,"Scheduling service",11.56
+"742","49041","SEVIER","UTAH",2018,"Scheduling service",3.08
+"743","49043","SUMMIT","UTAH",2018,"Scheduling service",5.33
+"744","49045","TOOELE","UTAH",2018,"Scheduling service",4.38
+"745","49047","UINTAH","UTAH",2018,"Scheduling service",5.14
+"746","49049","UTAH","UTAH",2018,"Scheduling service",7.11
+"747","49051","WASATCH","UTAH",2018,"Scheduling service",7.69
+"748","49053","WASHINGTON","UTAH",2018,"Scheduling service",14.52
+"749","49055","WAYNE","UTAH",2018,"Scheduling service",7.61
+"750","49057","WEBER","UTAH",2018,"Scheduling service",16.28
+"751","04001","APACHE","ARIZONA",2018,"Daily crop-water ET",0
+"752","04003","COCHISE","ARIZONA",2018,"Daily crop-water ET",0
+"753","04009","GRAHAM","ARIZONA",2018,"Daily crop-water ET",3.37
+"754","04011","GREENLEE","ARIZONA",2018,"Daily crop-water ET",0
+"755","04012","LA PAZ","ARIZONA",2018,"Daily crop-water ET",6.6
+"756","04013","MARICOPA","ARIZONA",2018,"Daily crop-water ET",0.85
+"757","04015","MOHAVE","ARIZONA",2018,"Daily crop-water ET",1.43
+"758","04017","NAVAJO","ARIZONA",2018,"Daily crop-water ET",0
+"759","04019","PIMA","ARIZONA",2018,"Daily crop-water ET",0
+"760","04021","PINAL","ARIZONA",2018,"Daily crop-water ET",4.11
+"761","04025","YAVAPAI","ARIZONA",2018,"Daily crop-water ET",0
+"762","04027","YUMA","ARIZONA",2018,"Daily crop-water ET",3.66
+"763","06001","ALAMEDA","CALIFORNIA",2018,"Daily crop-water ET",0
+"764","06005","AMADOR","CALIFORNIA",2018,"Daily crop-water ET",13.77
+"765","06007","BUTTE","CALIFORNIA",2018,"Daily crop-water ET",8.98
+"766","06009","CALAVERAS","CALIFORNIA",2018,"Daily crop-water ET",0
+"767","06011","COLUSA","CALIFORNIA",2018,"Daily crop-water ET",4.77
+"768","06013","CONTRA COSTA","CALIFORNIA",2018,"Daily crop-water ET",6.74
+"769","06017","EL DORADO","CALIFORNIA",2018,"Daily crop-water ET",5.88
+"770","06019","FRESNO","CALIFORNIA",2018,"Daily crop-water ET",7.51
+"771","06021","GLENN","CALIFORNIA",2018,"Daily crop-water ET",10.64
+"772","06023","HUMBOLDT","CALIFORNIA",2018,"Daily crop-water ET",0
+"773","06025","IMPERIAL","CALIFORNIA",2018,"Daily crop-water ET",9.68
+"774","06027","INYO","CALIFORNIA",2018,"Daily crop-water ET",0
+"775","06029","KERN","CALIFORNIA",2018,"Daily crop-water ET",7.96
+"776","06031","KINGS","CALIFORNIA",2018,"Daily crop-water ET",6.75
+"777","06033","LAKE","CALIFORNIA",2018,"Daily crop-water ET",16.92
+"778","06035","LASSEN","CALIFORNIA",2018,"Daily crop-water ET",2.48
+"779","06037","LOS ANGELES","CALIFORNIA",2018,"Daily crop-water ET",7.27
+"780","06039","MADERA","CALIFORNIA",2018,"Daily crop-water ET",5.61
+"781","06041","MARIN","CALIFORNIA",2018,"Daily crop-water ET",0
+"782","06045","MENDOCINO","CALIFORNIA",2018,"Daily crop-water ET",3.63
+"783","06047","MERCED","CALIFORNIA",2018,"Daily crop-water ET",5.75
+"784","06049","MODOC","CALIFORNIA",2018,"Daily crop-water ET",6.68
+"785","06051","MONO","CALIFORNIA",2018,"Daily crop-water ET",6.17
+"786","06053","MONTEREY","CALIFORNIA",2018,"Daily crop-water ET",5.16
+"787","06055","NAPA","CALIFORNIA",2018,"Daily crop-water ET",4.51
+"788","06057","NEVADA","CALIFORNIA",2018,"Daily crop-water ET",4.55
+"789","06059","ORANGE","CALIFORNIA",2018,"Daily crop-water ET",0
+"790","06061","PLACER","CALIFORNIA",2018,"Daily crop-water ET",5.28
+"791","06065","RIVERSIDE","CALIFORNIA",2018,"Daily crop-water ET",3.93
+"792","06067","SACRAMENTO","CALIFORNIA",2018,"Daily crop-water ET",5.38
+"793","06069","SAN BENITO","CALIFORNIA",2018,"Daily crop-water ET",0
+"794","06071","SAN BERNARDINO","CALIFORNIA",2018,"Daily crop-water ET",3.21
+"795","06073","SAN DIEGO","CALIFORNIA",2018,"Daily crop-water ET",4.46
+"796","06077","SAN JOAQUIN","CALIFORNIA",2018,"Daily crop-water ET",8.97
+"797","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Daily crop-water ET",11.49
+"798","06081","SAN MATEO","CALIFORNIA",2018,"Daily crop-water ET",0
+"799","06083","SANTA BARBARA","CALIFORNIA",2018,"Daily crop-water ET",6.38
+"800","06085","SANTA CLARA","CALIFORNIA",2018,"Daily crop-water ET",4.11
+"801","06087","SANTA CRUZ","CALIFORNIA",2018,"Daily crop-water ET",2.15
+"802","06089","SHASTA","CALIFORNIA",2018,"Daily crop-water ET",3.33
+"803","06093","SISKIYOU","CALIFORNIA",2018,"Daily crop-water ET",0.68
+"804","06095","SOLANO","CALIFORNIA",2018,"Daily crop-water ET",5.55
+"805","06097","SONOMA","CALIFORNIA",2018,"Daily crop-water ET",4.17
+"806","06099","STANISLAUS","CALIFORNIA",2018,"Daily crop-water ET",8.86
+"807","06101","SUTTER","CALIFORNIA",2018,"Daily crop-water ET",2.83
+"808","06103","TEHAMA","CALIFORNIA",2018,"Daily crop-water ET",6.9
+"809","06107","TULARE","CALIFORNIA",2018,"Daily crop-water ET",7.01
+"810","06109","TUOLUMNE","CALIFORNIA",2018,"Daily crop-water ET",0
+"811","06111","VENTURA","CALIFORNIA",2018,"Daily crop-water ET",5.36
+"812","06113","YOLO","CALIFORNIA",2018,"Daily crop-water ET",8.25
+"813","06115","YUBA","CALIFORNIA",2018,"Daily crop-water ET",2.69
+"814","08001","ADAMS","COLORADO",2018,"Daily crop-water ET",1.13
+"815","08003","ALAMOSA","COLORADO",2018,"Daily crop-water ET",4.12
+"816","08007","ARCHULETA","COLORADO",2018,"Daily crop-water ET",0
+"817","08013","BOULDER","COLORADO",2018,"Daily crop-water ET",0
+"818","08021","CONEJOS","COLORADO",2018,"Daily crop-water ET",1.31
+"819","08029","DELTA","COLORADO",2018,"Daily crop-water ET",0
+"820","08039","ELBERT","COLORADO",2018,"Daily crop-water ET",1.38
+"821","08041","EL PASO","COLORADO",2018,"Daily crop-water ET",0
+"822","08043","FREMONT","COLORADO",2018,"Daily crop-water ET",0
+"823","08045","GARFIELD","COLORADO",2018,"Daily crop-water ET",6.02
+"824","08049","GRAND","COLORADO",2018,"Daily crop-water ET",0
+"825","08051","GUNNISON","COLORADO",2018,"Daily crop-water ET",0.33
+"826","08057","JACKSON","COLORADO",2018,"Daily crop-water ET",0
+"827","08059","JEFFERSON","COLORADO",2018,"Daily crop-water ET",0.94
+"828","08063","KIT CARSON","COLORADO",2018,"Daily crop-water ET",1.82
+"829","08067","LA PLATA","COLORADO",2018,"Daily crop-water ET",0
+"830","08069","LARIMER","COLORADO",2018,"Daily crop-water ET",0.2
+"831","08075","LOGAN","COLORADO",2018,"Daily crop-water ET",8.89
+"832","08077","MESA","COLORADO",2018,"Daily crop-water ET",1.21
+"833","08081","MOFFAT","COLORADO",2018,"Daily crop-water ET",0
+"834","08083","MONTEZUMA","COLORADO",2018,"Daily crop-water ET",2.01
+"835","08085","MONTROSE","COLORADO",2018,"Daily crop-water ET",0.32
+"836","08087","MORGAN","COLORADO",2018,"Daily crop-water ET",8.15
+"837","08089","OTERO","COLORADO",2018,"Daily crop-water ET",3.01
+"838","08095","PHILLIPS","COLORADO",2018,"Daily crop-water ET",18.75
+"839","08099","PROWERS","COLORADO",2018,"Daily crop-water ET",1.53
+"840","08101","PUEBLO","COLORADO",2018,"Daily crop-water ET",0
+"841","08103","RIO BLANCO","COLORADO",2018,"Daily crop-water ET",0
+"842","08105","RIO GRANDE","COLORADO",2018,"Daily crop-water ET",13.23
+"843","08107","ROUTT","COLORADO",2018,"Daily crop-water ET",0
+"844","08109","SAGUACHE","COLORADO",2018,"Daily crop-water ET",3.36
+"845","08115","SEDGWICK","COLORADO",2018,"Daily crop-water ET",8.7
+"846","08121","WASHINGTON","COLORADO",2018,"Daily crop-water ET",20.49
+"847","08123","WELD","COLORADO",2018,"Daily crop-water ET",2.69
+"848","08125","YUMA","COLORADO",2018,"Daily crop-water ET",11.16
+"849","32001","CHURCHILL","NEVADA",2018,"Daily crop-water ET",1.75
+"850","32003","CLARK","NEVADA",2018,"Daily crop-water ET",0
+"851","32005","DOUGLAS","NEVADA",2018,"Daily crop-water ET",0
+"852","32007","ELKO","NEVADA",2018,"Daily crop-water ET",0
+"853","32011","EUREKA","NEVADA",2018,"Daily crop-water ET",4.79
+"854","32013","HUMBOLDT","NEVADA",2018,"Daily crop-water ET",0
+"855","32017","LINCOLN","NEVADA",2018,"Daily crop-water ET",0
+"856","32019","LYON","NEVADA",2018,"Daily crop-water ET",0
+"857","32023","NYE","NEVADA",2018,"Daily crop-water ET",0
+"858","32027","PERSHING","NEVADA",2018,"Daily crop-water ET",0
+"859","32031","WASHOE","NEVADA",2018,"Daily crop-water ET",0
+"860","32033","WHITE PINE","NEVADA",2018,"Daily crop-water ET",0
+"861","35001","BERNALILLO","NEW MEXICO",2018,"Daily crop-water ET",0
+"862","35005","CHAVES","NEW MEXICO",2018,"Daily crop-water ET",0
+"863","35009","CURRY","NEW MEXICO",2018,"Daily crop-water ET",0
+"864","35013","DONA ANA","NEW MEXICO",2018,"Daily crop-water ET",0.03
+"865","35015","EDDY","NEW MEXICO",2018,"Daily crop-water ET",4.61
+"866","35025","LEA","NEW MEXICO",2018,"Daily crop-water ET",4.06
+"867","35033","MORA","NEW MEXICO",2018,"Daily crop-water ET",0
+"868","35035","OTERO","NEW MEXICO",2018,"Daily crop-water ET",0
+"869","35037","QUAY","NEW MEXICO",2018,"Daily crop-water ET",0
+"870","35039","RIO ARRIBA","NEW MEXICO",2018,"Daily crop-water ET",0
+"871","35041","ROOSEVELT","NEW MEXICO",2018,"Daily crop-water ET",0
+"872","35043","SANDOVAL","NEW MEXICO",2018,"Daily crop-water ET",1.27
+"873","35045","SAN JUAN","NEW MEXICO",2018,"Daily crop-water ET",0.13
+"874","35047","SAN MIGUEL","NEW MEXICO",2018,"Daily crop-water ET",0
+"875","35049","SANTA FE","NEW MEXICO",2018,"Daily crop-water ET",0
+"876","35053","SOCORRO","NEW MEXICO",2018,"Daily crop-water ET",0
+"877","35055","TAOS","NEW MEXICO",2018,"Daily crop-water ET",0
+"878","35061","VALENCIA","NEW MEXICO",2018,"Daily crop-water ET",0
+"879","49003","BOX ELDER","UTAH",2018,"Daily crop-water ET",0.13
+"880","49005","CACHE","UTAH",2018,"Daily crop-water ET",0.19
+"881","49007","CARBON","UTAH",2018,"Daily crop-water ET",0
+"882","49011","DAVIS","UTAH",2018,"Daily crop-water ET",0.49
+"883","49013","DUCHESNE","UTAH",2018,"Daily crop-water ET",0
+"884","49015","EMERY","UTAH",2018,"Daily crop-water ET",0
+"885","49017","GARFIELD","UTAH",2018,"Daily crop-water ET",0
+"886","49021","IRON","UTAH",2018,"Daily crop-water ET",3.9
+"887","49023","JUAB","UTAH",2018,"Daily crop-water ET",0
+"888","49027","MILLARD","UTAH",2018,"Daily crop-water ET",3.98
+"889","49033","RICH","UTAH",2018,"Daily crop-water ET",0
+"890","49035","SALT LAKE","UTAH",2018,"Daily crop-water ET",4.3
+"891","49039","SANPETE","UTAH",2018,"Daily crop-water ET",0
+"892","49041","SEVIER","UTAH",2018,"Daily crop-water ET",0
+"893","49043","SUMMIT","UTAH",2018,"Daily crop-water ET",0
+"894","49045","TOOELE","UTAH",2018,"Daily crop-water ET",0
+"895","49047","UINTAH","UTAH",2018,"Daily crop-water ET",0
+"896","49049","UTAH","UTAH",2018,"Daily crop-water ET",0
+"897","49051","WASATCH","UTAH",2018,"Daily crop-water ET",0
+"898","49053","WASHINGTON","UTAH",2018,"Daily crop-water ET",0
+"899","49055","WAYNE","UTAH",2018,"Daily crop-water ET",0
+"900","49057","WEBER","UTAH",2018,"Daily crop-water ET",0
+"901","04001","APACHE","ARIZONA",2018,"Water delivered in turn",45.25
+"902","04003","COCHISE","ARIZONA",2018,"Water delivered in turn",0
+"903","04009","GRAHAM","ARIZONA",2018,"Water delivered in turn",16.84
+"904","04011","GREENLEE","ARIZONA",2018,"Water delivered in turn",6.23
+"905","04012","LA PAZ","ARIZONA",2018,"Water delivered in turn",15.09
+"906","04013","MARICOPA","ARIZONA",2018,"Water delivered in turn",10.29
+"907","04015","MOHAVE","ARIZONA",2018,"Water delivered in turn",22.86
+"908","04017","NAVAJO","ARIZONA",2018,"Water delivered in turn",31.58
+"909","04019","PIMA","ARIZONA",2018,"Water delivered in turn",0
+"910","04021","PINAL","ARIZONA",2018,"Water delivered in turn",5.48
+"911","04025","YAVAPAI","ARIZONA",2018,"Water delivered in turn",5.03
+"912","04027","YUMA","ARIZONA",2018,"Water delivered in turn",13.03
+"913","06001","ALAMEDA","CALIFORNIA",2018,"Water delivered in turn",0
+"914","06005","AMADOR","CALIFORNIA",2018,"Water delivered in turn",0
+"915","06007","BUTTE","CALIFORNIA",2018,"Water delivered in turn",2.31
+"916","06009","CALAVERAS","CALIFORNIA",2018,"Water delivered in turn",0
+"917","06011","COLUSA","CALIFORNIA",2018,"Water delivered in turn",9.54
+"918","06013","CONTRA COSTA","CALIFORNIA",2018,"Water delivered in turn",5.35
+"919","06017","EL DORADO","CALIFORNIA",2018,"Water delivered in turn",1.24
+"920","06019","FRESNO","CALIFORNIA",2018,"Water delivered in turn",11.19
+"921","06021","GLENN","CALIFORNIA",2018,"Water delivered in turn",13.86
+"922","06023","HUMBOLDT","CALIFORNIA",2018,"Water delivered in turn",0
+"923","06025","IMPERIAL","CALIFORNIA",2018,"Water delivered in turn",5.28
+"924","06027","INYO","CALIFORNIA",2018,"Water delivered in turn",18.09
+"925","06029","KERN","CALIFORNIA",2018,"Water delivered in turn",3.32
+"926","06031","KINGS","CALIFORNIA",2018,"Water delivered in turn",7.41
+"927","06033","LAKE","CALIFORNIA",2018,"Water delivered in turn",0
+"928","06035","LASSEN","CALIFORNIA",2018,"Water delivered in turn",0.93
+"929","06037","LOS ANGELES","CALIFORNIA",2018,"Water delivered in turn",3.48
+"930","06039","MADERA","CALIFORNIA",2018,"Water delivered in turn",2.55
+"931","06041","MARIN","CALIFORNIA",2018,"Water delivered in turn",0
+"932","06045","MENDOCINO","CALIFORNIA",2018,"Water delivered in turn",0
+"933","06047","MERCED","CALIFORNIA",2018,"Water delivered in turn",4.81
+"934","06049","MODOC","CALIFORNIA",2018,"Water delivered in turn",7.58
+"935","06051","MONO","CALIFORNIA",2018,"Water delivered in turn",8.02
+"936","06053","MONTEREY","CALIFORNIA",2018,"Water delivered in turn",0.99
+"937","06055","NAPA","CALIFORNIA",2018,"Water delivered in turn",0.22
+"938","06057","NEVADA","CALIFORNIA",2018,"Water delivered in turn",14.05
+"939","06059","ORANGE","CALIFORNIA",2018,"Water delivered in turn",16.2
+"940","06061","PLACER","CALIFORNIA",2018,"Water delivered in turn",8.24
+"941","06065","RIVERSIDE","CALIFORNIA",2018,"Water delivered in turn",0
+"942","06067","SACRAMENTO","CALIFORNIA",2018,"Water delivered in turn",2.52
+"943","06069","SAN BENITO","CALIFORNIA",2018,"Water delivered in turn",0
+"944","06071","SAN BERNARDINO","CALIFORNIA",2018,"Water delivered in turn",15.62
+"945","06073","SAN DIEGO","CALIFORNIA",2018,"Water delivered in turn",0.35
+"946","06077","SAN JOAQUIN","CALIFORNIA",2018,"Water delivered in turn",5.31
+"947","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Water delivered in turn",0.96
+"948","06081","SAN MATEO","CALIFORNIA",2018,"Water delivered in turn",6.2
+"949","06083","SANTA BARBARA","CALIFORNIA",2018,"Water delivered in turn",0.07
+"950","06085","SANTA CLARA","CALIFORNIA",2018,"Water delivered in turn",2.95
+"951","06087","SANTA CRUZ","CALIFORNIA",2018,"Water delivered in turn",0
+"952","06089","SHASTA","CALIFORNIA",2018,"Water delivered in turn",14.64
+"953","06093","SISKIYOU","CALIFORNIA",2018,"Water delivered in turn",15.74
+"954","06095","SOLANO","CALIFORNIA",2018,"Water delivered in turn",4.68
+"955","06097","SONOMA","CALIFORNIA",2018,"Water delivered in turn",0.83
+"956","06099","STANISLAUS","CALIFORNIA",2018,"Water delivered in turn",8.93
+"957","06101","SUTTER","CALIFORNIA",2018,"Water delivered in turn",0.39
+"958","06103","TEHAMA","CALIFORNIA",2018,"Water delivered in turn",13.75
+"959","06107","TULARE","CALIFORNIA",2018,"Water delivered in turn",4.6
+"960","06109","TUOLUMNE","CALIFORNIA",2018,"Water delivered in turn",10
+"961","06111","VENTURA","CALIFORNIA",2018,"Water delivered in turn",5.19
+"962","06113","YOLO","CALIFORNIA",2018,"Water delivered in turn",3.89
+"963","06115","YUBA","CALIFORNIA",2018,"Water delivered in turn",5.62
+"964","08001","ADAMS","COLORADO",2018,"Water delivered in turn",36.23
+"965","08003","ALAMOSA","COLORADO",2018,"Water delivered in turn",14.43
+"966","08007","ARCHULETA","COLORADO",2018,"Water delivered in turn",19.61
+"967","08013","BOULDER","COLORADO",2018,"Water delivered in turn",27.43
+"968","08021","CONEJOS","COLORADO",2018,"Water delivered in turn",36.75
+"969","08029","DELTA","COLORADO",2018,"Water delivered in turn",33.99
+"970","08039","ELBERT","COLORADO",2018,"Water delivered in turn",0
+"971","08041","EL PASO","COLORADO",2018,"Water delivered in turn",0
+"972","08043","FREMONT","COLORADO",2018,"Water delivered in turn",53.89
+"973","08045","GARFIELD","COLORADO",2018,"Water delivered in turn",14.79
+"974","08049","GRAND","COLORADO",2018,"Water delivered in turn",15.75
+"975","08051","GUNNISON","COLORADO",2018,"Water delivered in turn",12.71
+"976","08057","JACKSON","COLORADO",2018,"Water delivered in turn",7.55
+"977","08059","JEFFERSON","COLORADO",2018,"Water delivered in turn",10.8
+"978","08063","KIT CARSON","COLORADO",2018,"Water delivered in turn",0
+"979","08067","LA PLATA","COLORADO",2018,"Water delivered in turn",45.77
+"980","08069","LARIMER","COLORADO",2018,"Water delivered in turn",20.01
+"981","08075","LOGAN","COLORADO",2018,"Water delivered in turn",11.91
+"982","08077","MESA","COLORADO",2018,"Water delivered in turn",17.42
+"983","08081","MOFFAT","COLORADO",2018,"Water delivered in turn",43.56
+"984","08083","MONTEZUMA","COLORADO",2018,"Water delivered in turn",33.61
+"985","08085","MONTROSE","COLORADO",2018,"Water delivered in turn",27.06
+"986","08087","MORGAN","COLORADO",2018,"Water delivered in turn",12.72
+"987","08089","OTERO","COLORADO",2018,"Water delivered in turn",46.66
+"988","08095","PHILLIPS","COLORADO",2018,"Water delivered in turn",0
+"989","08099","PROWERS","COLORADO",2018,"Water delivered in turn",36.4
+"990","08101","PUEBLO","COLORADO",2018,"Water delivered in turn",38.34
+"991","08103","RIO BLANCO","COLORADO",2018,"Water delivered in turn",28.91
+"992","08105","RIO GRANDE","COLORADO",2018,"Water delivered in turn",15.16
+"993","08107","ROUTT","COLORADO",2018,"Water delivered in turn",11.19
+"994","08109","SAGUACHE","COLORADO",2018,"Water delivered in turn",5.88
+"995","08115","SEDGWICK","COLORADO",2018,"Water delivered in turn",15.22
+"996","08121","WASHINGTON","COLORADO",2018,"Water delivered in turn",0
+"997","08123","WELD","COLORADO",2018,"Water delivered in turn",23.32
+"998","08125","YUMA","COLORADO",2018,"Water delivered in turn",5.01
+"999","32001","CHURCHILL","NEVADA",2018,"Water delivered in turn",11.51
+"1000","32003","CLARK","NEVADA",2018,"Water delivered in turn",21.92
+"1001","32005","DOUGLAS","NEVADA",2018,"Water delivered in turn",52.19
+"1002","32007","ELKO","NEVADA",2018,"Water delivered in turn",26.29
+"1003","32011","EUREKA","NEVADA",2018,"Water delivered in turn",0
+"1004","32013","HUMBOLDT","NEVADA",2018,"Water delivered in turn",17.14
+"1005","32017","LINCOLN","NEVADA",2018,"Water delivered in turn",21.58
+"1006","32019","LYON","NEVADA",2018,"Water delivered in turn",5.8
+"1007","32023","NYE","NEVADA",2018,"Water delivered in turn",9.87
+"1008","32027","PERSHING","NEVADA",2018,"Water delivered in turn",15.38
+"1009","32031","WASHOE","NEVADA",2018,"Water delivered in turn",13.72
+"1010","32033","WHITE PINE","NEVADA",2018,"Water delivered in turn",15.59
+"1011","35001","BERNALILLO","NEW MEXICO",2018,"Water delivered in turn",32.49
+"1012","35005","CHAVES","NEW MEXICO",2018,"Water delivered in turn",5.89
+"1013","35009","CURRY","NEW MEXICO",2018,"Water delivered in turn",0
+"1014","35013","DONA ANA","NEW MEXICO",2018,"Water delivered in turn",19.86
+"1015","35015","EDDY","NEW MEXICO",2018,"Water delivered in turn",6.81
+"1016","35025","LEA","NEW MEXICO",2018,"Water delivered in turn",0
+"1017","35033","MORA","NEW MEXICO",2018,"Water delivered in turn",30.7
+"1018","35035","OTERO","NEW MEXICO",2018,"Water delivered in turn",12.36
+"1019","35037","QUAY","NEW MEXICO",2018,"Water delivered in turn",10.28
+"1020","35039","RIO ARRIBA","NEW MEXICO",2018,"Water delivered in turn",14.15
+"1021","35041","ROOSEVELT","NEW MEXICO",2018,"Water delivered in turn",0
+"1022","35043","SANDOVAL","NEW MEXICO",2018,"Water delivered in turn",15.21
+"1023","35045","SAN JUAN","NEW MEXICO",2018,"Water delivered in turn",19.44
+"1024","35047","SAN MIGUEL","NEW MEXICO",2018,"Water delivered in turn",26.13
+"1025","35049","SANTA FE","NEW MEXICO",2018,"Water delivered in turn",38.24
+"1026","35053","SOCORRO","NEW MEXICO",2018,"Water delivered in turn",29.32
+"1027","35055","TAOS","NEW MEXICO",2018,"Water delivered in turn",37.76
+"1028","35061","VALENCIA","NEW MEXICO",2018,"Water delivered in turn",28.57
+"1029","49003","BOX ELDER","UTAH",2018,"Water delivered in turn",25
+"1030","49005","CACHE","UTAH",2018,"Water delivered in turn",22.97
+"1031","49007","CARBON","UTAH",2018,"Water delivered in turn",17.16
+"1032","49011","DAVIS","UTAH",2018,"Water delivered in turn",26.69
+"1033","49013","DUCHESNE","UTAH",2018,"Water delivered in turn",38.79
+"1034","49015","EMERY","UTAH",2018,"Water delivered in turn",12.05
+"1035","49017","GARFIELD","UTAH",2018,"Water delivered in turn",40.38
+"1036","49021","IRON","UTAH",2018,"Water delivered in turn",25.43
+"1037","49023","JUAB","UTAH",2018,"Water delivered in turn",22.92
+"1038","49027","MILLARD","UTAH",2018,"Water delivered in turn",22.76
+"1039","49033","RICH","UTAH",2018,"Water delivered in turn",26.84
+"1040","49035","SALT LAKE","UTAH",2018,"Water delivered in turn",22.61
+"1041","49039","SANPETE","UTAH",2018,"Water delivered in turn",33.65
+"1042","49041","SEVIER","UTAH",2018,"Water delivered in turn",19.28
+"1043","49043","SUMMIT","UTAH",2018,"Water delivered in turn",29.58
+"1044","49045","TOOELE","UTAH",2018,"Water delivered in turn",26.3
+"1045","49047","UINTAH","UTAH",2018,"Water delivered in turn",25.5
+"1046","49049","UTAH","UTAH",2018,"Water delivered in turn",33.78
+"1047","49051","WASATCH","UTAH",2018,"Water delivered in turn",38.46
+"1048","49053","WASHINGTON","UTAH",2018,"Water delivered in turn",24.19
+"1049","49055","WAYNE","UTAH",2018,"Water delivered in turn",31.55
+"1050","49057","WEBER","UTAH",2018,"Water delivered in turn",32.86
+"1051","04001","APACHE","ARIZONA",2018,"Personal calendar",0
+"1052","04003","COCHISE","ARIZONA",2018,"Personal calendar",18.67
+"1053","04009","GRAHAM","ARIZONA",2018,"Personal calendar",10.53
+"1054","04011","GREENLEE","ARIZONA",2018,"Personal calendar",18.68
+"1055","04012","LA PAZ","ARIZONA",2018,"Personal calendar",2.83
+"1056","04013","MARICOPA","ARIZONA",2018,"Personal calendar",13.3
+"1057","04015","MOHAVE","ARIZONA",2018,"Personal calendar",22.86
+"1058","04017","NAVAJO","ARIZONA",2018,"Personal calendar",10.53
+"1059","04019","PIMA","ARIZONA",2018,"Personal calendar",30.05
+"1060","04021","PINAL","ARIZONA",2018,"Personal calendar",9.44
+"1061","04025","YAVAPAI","ARIZONA",2018,"Personal calendar",12.89
+"1062","04027","YUMA","ARIZONA",2018,"Personal calendar",27.53
+"1063","06001","ALAMEDA","CALIFORNIA",2018,"Personal calendar",4.85
+"1064","06005","AMADOR","CALIFORNIA",2018,"Personal calendar",29.34
+"1065","06007","BUTTE","CALIFORNIA",2018,"Personal calendar",17.75
+"1066","06009","CALAVERAS","CALIFORNIA",2018,"Personal calendar",0
+"1067","06011","COLUSA","CALIFORNIA",2018,"Personal calendar",13.24
+"1068","06013","CONTRA COSTA","CALIFORNIA",2018,"Personal calendar",12.09
+"1069","06017","EL DORADO","CALIFORNIA",2018,"Personal calendar",16.6
+"1070","06019","FRESNO","CALIFORNIA",2018,"Personal calendar",11.74
+"1071","06021","GLENN","CALIFORNIA",2018,"Personal calendar",9.9
+"1072","06023","HUMBOLDT","CALIFORNIA",2018,"Personal calendar",21.77
+"1073","06025","IMPERIAL","CALIFORNIA",2018,"Personal calendar",12.15
+"1074","06027","INYO","CALIFORNIA",2018,"Personal calendar",14.89
+"1075","06029","KERN","CALIFORNIA",2018,"Personal calendar",10.89
+"1076","06031","KINGS","CALIFORNIA",2018,"Personal calendar",11.97
+"1077","06033","LAKE","CALIFORNIA",2018,"Personal calendar",0
+"1078","06035","LASSEN","CALIFORNIA",2018,"Personal calendar",14.24
+"1079","06037","LOS ANGELES","CALIFORNIA",2018,"Personal calendar",9.24
+"1080","06039","MADERA","CALIFORNIA",2018,"Personal calendar",11.83
+"1081","06041","MARIN","CALIFORNIA",2018,"Personal calendar",13.27
+"1082","06045","MENDOCINO","CALIFORNIA",2018,"Personal calendar",16.41
+"1083","06047","MERCED","CALIFORNIA",2018,"Personal calendar",16.54
+"1084","06049","MODOC","CALIFORNIA",2018,"Personal calendar",3.43
+"1085","06051","MONO","CALIFORNIA",2018,"Personal calendar",8.64
+"1086","06053","MONTEREY","CALIFORNIA",2018,"Personal calendar",11.21
+"1087","06055","NAPA","CALIFORNIA",2018,"Personal calendar",6.52
+"1088","06057","NEVADA","CALIFORNIA",2018,"Personal calendar",24.38
+"1089","06059","ORANGE","CALIFORNIA",2018,"Personal calendar",0
+"1090","06061","PLACER","CALIFORNIA",2018,"Personal calendar",20.03
+"1091","06065","RIVERSIDE","CALIFORNIA",2018,"Personal calendar",13.31
+"1092","06067","SACRAMENTO","CALIFORNIA",2018,"Personal calendar",23.46
+"1093","06069","SAN BENITO","CALIFORNIA",2018,"Personal calendar",13.27
+"1094","06071","SAN BERNARDINO","CALIFORNIA",2018,"Personal calendar",20.08
+"1095","06073","SAN DIEGO","CALIFORNIA",2018,"Personal calendar",16.71
+"1096","06077","SAN JOAQUIN","CALIFORNIA",2018,"Personal calendar",12.43
+"1097","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Personal calendar",9.57
+"1098","06081","SAN MATEO","CALIFORNIA",2018,"Personal calendar",18.6
+"1099","06083","SANTA BARBARA","CALIFORNIA",2018,"Personal calendar",10.37
+"1100","06085","SANTA CLARA","CALIFORNIA",2018,"Personal calendar",12.45
+"1101","06087","SANTA CRUZ","CALIFORNIA",2018,"Personal calendar",32.62
+"1102","06089","SHASTA","CALIFORNIA",2018,"Personal calendar",14.71
+"1103","06093","SISKIYOU","CALIFORNIA",2018,"Personal calendar",13.45
+"1104","06095","SOLANO","CALIFORNIA",2018,"Personal calendar",13.88
+"1105","06097","SONOMA","CALIFORNIA",2018,"Personal calendar",10.05
+"1106","06099","STANISLAUS","CALIFORNIA",2018,"Personal calendar",14.41
+"1107","06101","SUTTER","CALIFORNIA",2018,"Personal calendar",16.2
+"1108","06103","TEHAMA","CALIFORNIA",2018,"Personal calendar",9.31
+"1109","06107","TULARE","CALIFORNIA",2018,"Personal calendar",14.72
+"1110","06109","TUOLUMNE","CALIFORNIA",2018,"Personal calendar",20
+"1111","06111","VENTURA","CALIFORNIA",2018,"Personal calendar",12.85
+"1112","06113","YOLO","CALIFORNIA",2018,"Personal calendar",9.05
+"1113","06115","YUBA","CALIFORNIA",2018,"Personal calendar",17.6
+"1114","08001","ADAMS","COLORADO",2018,"Personal calendar",9.43
+"1115","08003","ALAMOSA","COLORADO",2018,"Personal calendar",14.43
+"1116","08007","ARCHULETA","COLORADO",2018,"Personal calendar",16.85
+"1117","08013","BOULDER","COLORADO",2018,"Personal calendar",12.59
+"1118","08021","CONEJOS","COLORADO",2018,"Personal calendar",12.34
+"1119","08029","DELTA","COLORADO",2018,"Personal calendar",11.23
+"1120","08039","ELBERT","COLORADO",2018,"Personal calendar",11.03
+"1121","08041","EL PASO","COLORADO",2018,"Personal calendar",13.33
+"1122","08043","FREMONT","COLORADO",2018,"Personal calendar",4.34
+"1123","08045","GARFIELD","COLORADO",2018,"Personal calendar",17.79
+"1124","08049","GRAND","COLORADO",2018,"Personal calendar",10.63
+"1125","08051","GUNNISON","COLORADO",2018,"Personal calendar",17.06
+"1126","08057","JACKSON","COLORADO",2018,"Personal calendar",33.02
+"1127","08059","JEFFERSON","COLORADO",2018,"Personal calendar",20.19
+"1128","08063","KIT CARSON","COLORADO",2018,"Personal calendar",8.39
+"1129","08067","LA PLATA","COLORADO",2018,"Personal calendar",1.38
+"1130","08069","LARIMER","COLORADO",2018,"Personal calendar",18.04
+"1131","08075","LOGAN","COLORADO",2018,"Personal calendar",15.1
+"1132","08077","MESA","COLORADO",2018,"Personal calendar",17.37
+"1133","08081","MOFFAT","COLORADO",2018,"Personal calendar",0
+"1134","08083","MONTEZUMA","COLORADO",2018,"Personal calendar",0.42
+"1135","08085","MONTROSE","COLORADO",2018,"Personal calendar",12.82
+"1136","08087","MORGAN","COLORADO",2018,"Personal calendar",0
+"1137","08089","OTERO","COLORADO",2018,"Personal calendar",0.67
+"1138","08095","PHILLIPS","COLORADO",2018,"Personal calendar",6.82
+"1139","08099","PROWERS","COLORADO",2018,"Personal calendar",0
+"1140","08101","PUEBLO","COLORADO",2018,"Personal calendar",15.42
+"1141","08103","RIO BLANCO","COLORADO",2018,"Personal calendar",4.88
+"1142","08105","RIO GRANDE","COLORADO",2018,"Personal calendar",4.52
+"1143","08107","ROUTT","COLORADO",2018,"Personal calendar",12.38
+"1144","08109","SAGUACHE","COLORADO",2018,"Personal calendar",0
+"1145","08115","SEDGWICK","COLORADO",2018,"Personal calendar",7.61
+"1146","08121","WASHINGTON","COLORADO",2018,"Personal calendar",6.83
+"1147","08123","WELD","COLORADO",2018,"Personal calendar",3.26
+"1148","08125","YUMA","COLORADO",2018,"Personal calendar",2.5
+"1149","32001","CHURCHILL","NEVADA",2018,"Personal calendar",23.53
+"1150","32003","CLARK","NEVADA",2018,"Personal calendar",5.48
+"1151","32005","DOUGLAS","NEVADA",2018,"Personal calendar",0
+"1152","32007","ELKO","NEVADA",2018,"Personal calendar",9.02
+"1153","32011","EUREKA","NEVADA",2018,"Personal calendar",10.27
+"1154","32013","HUMBOLDT","NEVADA",2018,"Personal calendar",25.71
+"1155","32017","LINCOLN","NEVADA",2018,"Personal calendar",21.22
+"1156","32019","LYON","NEVADA",2018,"Personal calendar",17.68
+"1157","32023","NYE","NEVADA",2018,"Personal calendar",20.39
+"1158","32027","PERSHING","NEVADA",2018,"Personal calendar",13.59
+"1159","32031","WASHOE","NEVADA",2018,"Personal calendar",21.68
+"1160","32033","WHITE PINE","NEVADA",2018,"Personal calendar",16.13
+"1161","35001","BERNALILLO","NEW MEXICO",2018,"Personal calendar",8.27
+"1162","35005","CHAVES","NEW MEXICO",2018,"Personal calendar",18.57
+"1163","35009","CURRY","NEW MEXICO",2018,"Personal calendar",0
+"1164","35013","DONA ANA","NEW MEXICO",2018,"Personal calendar",15.43
+"1165","35015","EDDY","NEW MEXICO",2018,"Personal calendar",14.63
+"1166","35025","LEA","NEW MEXICO",2018,"Personal calendar",15.87
+"1167","35033","MORA","NEW MEXICO",2018,"Personal calendar",15.58
+"1168","35035","OTERO","NEW MEXICO",2018,"Personal calendar",25.09
+"1169","35037","QUAY","NEW MEXICO",2018,"Personal calendar",20.56
+"1170","35039","RIO ARRIBA","NEW MEXICO",2018,"Personal calendar",16.97
+"1171","35041","ROOSEVELT","NEW MEXICO",2018,"Personal calendar",0
+"1172","35043","SANDOVAL","NEW MEXICO",2018,"Personal calendar",14.37
+"1173","35045","SAN JUAN","NEW MEXICO",2018,"Personal calendar",13.36
+"1174","35047","SAN MIGUEL","NEW MEXICO",2018,"Personal calendar",19.45
+"1175","35049","SANTA FE","NEW MEXICO",2018,"Personal calendar",2.41
+"1176","35053","SOCORRO","NEW MEXICO",2018,"Personal calendar",20.68
+"1177","35055","TAOS","NEW MEXICO",2018,"Personal calendar",3.77
+"1178","35061","VALENCIA","NEW MEXICO",2018,"Personal calendar",11.57
+"1179","49003","BOX ELDER","UTAH",2018,"Personal calendar",10.92
+"1180","49005","CACHE","UTAH",2018,"Personal calendar",7.76
+"1181","49007","CARBON","UTAH",2018,"Personal calendar",21.4
+"1182","49011","DAVIS","UTAH",2018,"Personal calendar",6.26
+"1183","49013","DUCHESNE","UTAH",2018,"Personal calendar",10.83
+"1184","49015","EMERY","UTAH",2018,"Personal calendar",24.11
+"1185","49017","GARFIELD","UTAH",2018,"Personal calendar",8.52
+"1186","49021","IRON","UTAH",2018,"Personal calendar",5.64
+"1187","49023","JUAB","UTAH",2018,"Personal calendar",10.67
+"1188","49027","MILLARD","UTAH",2018,"Personal calendar",13.37
+"1189","49033","RICH","UTAH",2018,"Personal calendar",14.43
+"1190","49035","SALT LAKE","UTAH",2018,"Personal calendar",20.86
+"1191","49039","SANPETE","UTAH",2018,"Personal calendar",15.45
+"1192","49041","SEVIER","UTAH",2018,"Personal calendar",13.42
+"1193","49043","SUMMIT","UTAH",2018,"Personal calendar",7.34
+"1194","49045","TOOELE","UTAH",2018,"Personal calendar",9.42
+"1195","49047","UINTAH","UTAH",2018,"Personal calendar",9.81
+"1196","49049","UTAH","UTAH",2018,"Personal calendar",7.4
+"1197","49051","WASATCH","UTAH",2018,"Personal calendar",7.69
+"1198","49053","WASHINGTON","UTAH",2018,"Personal calendar",15.05
+"1199","49055","WAYNE","UTAH",2018,"Personal calendar",7.61
+"1200","49057","WEBER","UTAH",2018,"Personal calendar",2.03
+"1201","04001","APACHE","ARIZONA",2018,"Computer simulation models",0
+"1202","04003","COCHISE","ARIZONA",2018,"Computer simulation models",0.27
+"1203","04009","GRAHAM","ARIZONA",2018,"Computer simulation models",0
+"1204","04011","GREENLEE","ARIZONA",2018,"Computer simulation models",0
+"1205","04012","LA PAZ","ARIZONA",2018,"Computer simulation models",0
+"1206","04013","MARICOPA","ARIZONA",2018,"Computer simulation models",0
+"1207","04015","MOHAVE","ARIZONA",2018,"Computer simulation models",0
+"1208","04017","NAVAJO","ARIZONA",2018,"Computer simulation models",0
+"1209","04019","PIMA","ARIZONA",2018,"Computer simulation models",0
+"1210","04021","PINAL","ARIZONA",2018,"Computer simulation models",2.59
+"1211","04025","YAVAPAI","ARIZONA",2018,"Computer simulation models",0
+"1212","04027","YUMA","ARIZONA",2018,"Computer simulation models",0
+"1213","06001","ALAMEDA","CALIFORNIA",2018,"Computer simulation models",0
+"1214","06005","AMADOR","CALIFORNIA",2018,"Computer simulation models",0
+"1215","06007","BUTTE","CALIFORNIA",2018,"Computer simulation models",0
+"1216","06009","CALAVERAS","CALIFORNIA",2018,"Computer simulation models",0
+"1217","06011","COLUSA","CALIFORNIA",2018,"Computer simulation models",0.32
+"1218","06013","CONTRA COSTA","CALIFORNIA",2018,"Computer simulation models",0
+"1219","06017","EL DORADO","CALIFORNIA",2018,"Computer simulation models",2.27
+"1220","06019","FRESNO","CALIFORNIA",2018,"Computer simulation models",0.39
+"1221","06021","GLENN","CALIFORNIA",2018,"Computer simulation models",0.25
+"1222","06023","HUMBOLDT","CALIFORNIA",2018,"Computer simulation models",0
+"1223","06025","IMPERIAL","CALIFORNIA",2018,"Computer simulation models",0
+"1224","06027","INYO","CALIFORNIA",2018,"Computer simulation models",0
+"1225","06029","KERN","CALIFORNIA",2018,"Computer simulation models",0
+"1226","06031","KINGS","CALIFORNIA",2018,"Computer simulation models",0.3
+"1227","06033","LAKE","CALIFORNIA",2018,"Computer simulation models",0
+"1228","06035","LASSEN","CALIFORNIA",2018,"Computer simulation models",0.31
+"1229","06037","LOS ANGELES","CALIFORNIA",2018,"Computer simulation models",0
+"1230","06039","MADERA","CALIFORNIA",2018,"Computer simulation models",0.4
+"1231","06041","MARIN","CALIFORNIA",2018,"Computer simulation models",0
+"1232","06045","MENDOCINO","CALIFORNIA",2018,"Computer simulation models",0
+"1233","06047","MERCED","CALIFORNIA",2018,"Computer simulation models",0.26
+"1234","06049","MODOC","CALIFORNIA",2018,"Computer simulation models",0
+"1235","06051","MONO","CALIFORNIA",2018,"Computer simulation models",0
+"1236","06053","MONTEREY","CALIFORNIA",2018,"Computer simulation models",3.41
+"1237","06055","NAPA","CALIFORNIA",2018,"Computer simulation models",0.74
+"1238","06057","NEVADA","CALIFORNIA",2018,"Computer simulation models",4.55
+"1239","06059","ORANGE","CALIFORNIA",2018,"Computer simulation models",0
+"1240","06061","PLACER","CALIFORNIA",2018,"Computer simulation models",0
+"1241","06065","RIVERSIDE","CALIFORNIA",2018,"Computer simulation models",0
+"1242","06067","SACRAMENTO","CALIFORNIA",2018,"Computer simulation models",2.52
+"1243","06069","SAN BENITO","CALIFORNIA",2018,"Computer simulation models",0
+"1244","06071","SAN BERNARDINO","CALIFORNIA",2018,"Computer simulation models",3.21
+"1245","06073","SAN DIEGO","CALIFORNIA",2018,"Computer simulation models",1.78
+"1246","06077","SAN JOAQUIN","CALIFORNIA",2018,"Computer simulation models",0.75
+"1247","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"Computer simulation models",0
+"1248","06081","SAN MATEO","CALIFORNIA",2018,"Computer simulation models",3.23
+"1249","06083","SANTA BARBARA","CALIFORNIA",2018,"Computer simulation models",0
+"1250","06085","SANTA CLARA","CALIFORNIA",2018,"Computer simulation models",0
+"1251","06087","SANTA CRUZ","CALIFORNIA",2018,"Computer simulation models",1.37
+"1252","06089","SHASTA","CALIFORNIA",2018,"Computer simulation models",0
+"1253","06093","SISKIYOU","CALIFORNIA",2018,"Computer simulation models",0
+"1254","06095","SOLANO","CALIFORNIA",2018,"Computer simulation models",0.26
+"1255","06097","SONOMA","CALIFORNIA",2018,"Computer simulation models",0
+"1256","06099","STANISLAUS","CALIFORNIA",2018,"Computer simulation models",0.94
+"1257","06101","SUTTER","CALIFORNIA",2018,"Computer simulation models",0
+"1258","06103","TEHAMA","CALIFORNIA",2018,"Computer simulation models",0
+"1259","06107","TULARE","CALIFORNIA",2018,"Computer simulation models",0.72
+"1260","06109","TUOLUMNE","CALIFORNIA",2018,"Computer simulation models",0
+"1261","06111","VENTURA","CALIFORNIA",2018,"Computer simulation models",1.92
+"1262","06113","YOLO","CALIFORNIA",2018,"Computer simulation models",1.07
+"1263","06115","YUBA","CALIFORNIA",2018,"Computer simulation models",0
+"1264","08001","ADAMS","COLORADO",2018,"Computer simulation models",0
+"1265","08003","ALAMOSA","COLORADO",2018,"Computer simulation models",0
+"1266","08007","ARCHULETA","COLORADO",2018,"Computer simulation models",0
+"1267","08013","BOULDER","COLORADO",2018,"Computer simulation models",0
+"1268","08021","CONEJOS","COLORADO",2018,"Computer simulation models",1.05
+"1269","08029","DELTA","COLORADO",2018,"Computer simulation models",0
+"1270","08039","ELBERT","COLORADO",2018,"Computer simulation models",0
+"1271","08041","EL PASO","COLORADO",2018,"Computer simulation models",0
+"1272","08043","FREMONT","COLORADO",2018,"Computer simulation models",0
+"1273","08045","GARFIELD","COLORADO",2018,"Computer simulation models",0
+"1274","08049","GRAND","COLORADO",2018,"Computer simulation models",0
+"1275","08051","GUNNISON","COLORADO",2018,"Computer simulation models",0
+"1276","08057","JACKSON","COLORADO",2018,"Computer simulation models",0
+"1277","08059","JEFFERSON","COLORADO",2018,"Computer simulation models",0
+"1278","08063","KIT CARSON","COLORADO",2018,"Computer simulation models",0
+"1279","08067","LA PLATA","COLORADO",2018,"Computer simulation models",0
+"1280","08069","LARIMER","COLORADO",2018,"Computer simulation models",0
+"1281","08075","LOGAN","COLORADO",2018,"Computer simulation models",4.03
+"1282","08077","MESA","COLORADO",2018,"Computer simulation models",0
+"1283","08081","MOFFAT","COLORADO",2018,"Computer simulation models",0
+"1284","08083","MONTEZUMA","COLORADO",2018,"Computer simulation models",0
+"1285","08085","MONTROSE","COLORADO",2018,"Computer simulation models",0
+"1286","08087","MORGAN","COLORADO",2018,"Computer simulation models",0
+"1287","08089","OTERO","COLORADO",2018,"Computer simulation models",0
+"1288","08095","PHILLIPS","COLORADO",2018,"Computer simulation models",0
+"1289","08099","PROWERS","COLORADO",2018,"Computer simulation models",0
+"1290","08101","PUEBLO","COLORADO",2018,"Computer simulation models",0
+"1291","08103","RIO BLANCO","COLORADO",2018,"Computer simulation models",0
+"1292","08105","RIO GRANDE","COLORADO",2018,"Computer simulation models",0
+"1293","08107","ROUTT","COLORADO",2018,"Computer simulation models",0
+"1294","08109","SAGUACHE","COLORADO",2018,"Computer simulation models",0
+"1295","08115","SEDGWICK","COLORADO",2018,"Computer simulation models",0
+"1296","08121","WASHINGTON","COLORADO",2018,"Computer simulation models",0
+"1297","08123","WELD","COLORADO",2018,"Computer simulation models",0.49
+"1298","08125","YUMA","COLORADO",2018,"Computer simulation models",0.83
+"1299","32001","CHURCHILL","NEVADA",2018,"Computer simulation models",0
+"1300","32003","CLARK","NEVADA",2018,"Computer simulation models",0
+"1301","32005","DOUGLAS","NEVADA",2018,"Computer simulation models",0
+"1302","32007","ELKO","NEVADA",2018,"Computer simulation models",0
+"1303","32011","EUREKA","NEVADA",2018,"Computer simulation models",0
+"1304","32013","HUMBOLDT","NEVADA",2018,"Computer simulation models",0
+"1305","32017","LINCOLN","NEVADA",2018,"Computer simulation models",0
+"1306","32019","LYON","NEVADA",2018,"Computer simulation models",0
+"1307","32023","NYE","NEVADA",2018,"Computer simulation models",0
+"1308","32027","PERSHING","NEVADA",2018,"Computer simulation models",0
+"1309","32031","WASHOE","NEVADA",2018,"Computer simulation models",0
+"1310","32033","WHITE PINE","NEVADA",2018,"Computer simulation models",0
+"1311","35001","BERNALILLO","NEW MEXICO",2018,"Computer simulation models",0
+"1312","35005","CHAVES","NEW MEXICO",2018,"Computer simulation models",0
+"1313","35009","CURRY","NEW MEXICO",2018,"Computer simulation models",0
+"1314","35013","DONA ANA","NEW MEXICO",2018,"Computer simulation models",0.03
+"1315","35015","EDDY","NEW MEXICO",2018,"Computer simulation models",0
+"1316","35025","LEA","NEW MEXICO",2018,"Computer simulation models",0
+"1317","35033","MORA","NEW MEXICO",2018,"Computer simulation models",0
+"1318","35035","OTERO","NEW MEXICO",2018,"Computer simulation models",0
+"1319","35037","QUAY","NEW MEXICO",2018,"Computer simulation models",0
+"1320","35039","RIO ARRIBA","NEW MEXICO",2018,"Computer simulation models",0
+"1321","35041","ROOSEVELT","NEW MEXICO",2018,"Computer simulation models",0
+"1322","35043","SANDOVAL","NEW MEXICO",2018,"Computer simulation models",0
+"1323","35045","SAN JUAN","NEW MEXICO",2018,"Computer simulation models",0
+"1324","35047","SAN MIGUEL","NEW MEXICO",2018,"Computer simulation models",0
+"1325","35049","SANTA FE","NEW MEXICO",2018,"Computer simulation models",0
+"1326","35053","SOCORRO","NEW MEXICO",2018,"Computer simulation models",0
+"1327","35055","TAOS","NEW MEXICO",2018,"Computer simulation models",0
+"1328","35061","VALENCIA","NEW MEXICO",2018,"Computer simulation models",0
+"1329","49003","BOX ELDER","UTAH",2018,"Computer simulation models",0.13
+"1330","49005","CACHE","UTAH",2018,"Computer simulation models",0.19
+"1331","49007","CARBON","UTAH",2018,"Computer simulation models",0
+"1332","49011","DAVIS","UTAH",2018,"Computer simulation models",0
+"1333","49013","DUCHESNE","UTAH",2018,"Computer simulation models",0
+"1334","49015","EMERY","UTAH",2018,"Computer simulation models",0
+"1335","49017","GARFIELD","UTAH",2018,"Computer simulation models",0
+"1336","49021","IRON","UTAH",2018,"Computer simulation models",0.14
+"1337","49023","JUAB","UTAH",2018,"Computer simulation models",0.4
+"1338","49027","MILLARD","UTAH",2018,"Computer simulation models",0.14
+"1339","49033","RICH","UTAH",2018,"Computer simulation models",0
+"1340","49035","SALT LAKE","UTAH",2018,"Computer simulation models",0
+"1341","49039","SANPETE","UTAH",2018,"Computer simulation models",0
+"1342","49041","SEVIER","UTAH",2018,"Computer simulation models",2.68
+"1343","49043","SUMMIT","UTAH",2018,"Computer simulation models",0
+"1344","49045","TOOELE","UTAH",2018,"Computer simulation models",0
+"1345","49047","UINTAH","UTAH",2018,"Computer simulation models",0.23
+"1346","49049","UTAH","UTAH",2018,"Computer simulation models",0
+"1347","49051","WASATCH","UTAH",2018,"Computer simulation models",0
+"1348","49053","WASHINGTON","UTAH",2018,"Computer simulation models",0
+"1349","49055","WAYNE","UTAH",2018,"Computer simulation models",0
+"1350","49057","WEBER","UTAH",2018,"Computer simulation models",0
+"1351","04001","APACHE","ARIZONA",2018,"When neighbors watered",0
+"1352","04003","COCHISE","ARIZONA",2018,"When neighbors watered",2.17
+"1353","04009","GRAHAM","ARIZONA",2018,"When neighbors watered",3.37
+"1354","04011","GREENLEE","ARIZONA",2018,"When neighbors watered",12.45
+"1355","04012","LA PAZ","ARIZONA",2018,"When neighbors watered",0
+"1356","04013","MARICOPA","ARIZONA",2018,"When neighbors watered",1.39
+"1357","04015","MOHAVE","ARIZONA",2018,"When neighbors watered",0
+"1358","04017","NAVAJO","ARIZONA",2018,"When neighbors watered",0
+"1359","04019","PIMA","ARIZONA",2018,"When neighbors watered",0
+"1360","04021","PINAL","ARIZONA",2018,"When neighbors watered",12.33
+"1361","04025","YAVAPAI","ARIZONA",2018,"When neighbors watered",0
+"1362","04027","YUMA","ARIZONA",2018,"When neighbors watered",0
+"1363","06001","ALAMEDA","CALIFORNIA",2018,"When neighbors watered",0
+"1364","06005","AMADOR","CALIFORNIA",2018,"When neighbors watered",0
+"1365","06007","BUTTE","CALIFORNIA",2018,"When neighbors watered",2.38
+"1366","06009","CALAVERAS","CALIFORNIA",2018,"When neighbors watered",0
+"1367","06011","COLUSA","CALIFORNIA",2018,"When neighbors watered",0.59
+"1368","06013","CONTRA COSTA","CALIFORNIA",2018,"When neighbors watered",0
+"1369","06017","EL DORADO","CALIFORNIA",2018,"When neighbors watered",0
+"1370","06019","FRESNO","CALIFORNIA",2018,"When neighbors watered",0.32
+"1371","06021","GLENN","CALIFORNIA",2018,"When neighbors watered",0.15
+"1372","06023","HUMBOLDT","CALIFORNIA",2018,"When neighbors watered",0
+"1373","06025","IMPERIAL","CALIFORNIA",2018,"When neighbors watered",0
+"1374","06027","INYO","CALIFORNIA",2018,"When neighbors watered",7.45
+"1375","06029","KERN","CALIFORNIA",2018,"When neighbors watered",0
+"1376","06031","KINGS","CALIFORNIA",2018,"When neighbors watered",3.45
+"1377","06033","LAKE","CALIFORNIA",2018,"When neighbors watered",0
+"1378","06035","LASSEN","CALIFORNIA",2018,"When neighbors watered",0.31
+"1379","06037","LOS ANGELES","CALIFORNIA",2018,"When neighbors watered",0
+"1380","06039","MADERA","CALIFORNIA",2018,"When neighbors watered",0
+"1381","06041","MARIN","CALIFORNIA",2018,"When neighbors watered",0
+"1382","06045","MENDOCINO","CALIFORNIA",2018,"When neighbors watered",0
+"1383","06047","MERCED","CALIFORNIA",2018,"When neighbors watered",1.99
+"1384","06049","MODOC","CALIFORNIA",2018,"When neighbors watered",1.26
+"1385","06051","MONO","CALIFORNIA",2018,"When neighbors watered",0
+"1386","06053","MONTEREY","CALIFORNIA",2018,"When neighbors watered",0
+"1387","06055","NAPA","CALIFORNIA",2018,"When neighbors watered",3.68
+"1388","06057","NEVADA","CALIFORNIA",2018,"When neighbors watered",0
+"1389","06059","ORANGE","CALIFORNIA",2018,"When neighbors watered",0
+"1390","06061","PLACER","CALIFORNIA",2018,"When neighbors watered",3.25
+"1391","06065","RIVERSIDE","CALIFORNIA",2018,"When neighbors watered",0
+"1392","06067","SACRAMENTO","CALIFORNIA",2018,"When neighbors watered",2.52
+"1393","06069","SAN BENITO","CALIFORNIA",2018,"When neighbors watered",0
+"1394","06071","SAN BERNARDINO","CALIFORNIA",2018,"When neighbors watered",3.21
+"1395","06073","SAN DIEGO","CALIFORNIA",2018,"When neighbors watered",1.69
+"1396","06077","SAN JOAQUIN","CALIFORNIA",2018,"When neighbors watered",0.73
+"1397","06079","SAN LUIS OBISPO","CALIFORNIA",2018,"When neighbors watered",1.01
+"1398","06081","SAN MATEO","CALIFORNIA",2018,"When neighbors watered",5.93
+"1399","06083","SANTA BARBARA","CALIFORNIA",2018,"When neighbors watered",1.53
+"1400","06085","SANTA CLARA","CALIFORNIA",2018,"When neighbors watered",2.95
+"1401","06087","SANTA CRUZ","CALIFORNIA",2018,"When neighbors watered",4.3
+"1402","06089","SHASTA","CALIFORNIA",2018,"When neighbors watered",4.93
+"1403","06093","SISKIYOU","CALIFORNIA",2018,"When neighbors watered",7.64
+"1404","06095","SOLANO","CALIFORNIA",2018,"When neighbors watered",2.25
+"1405","06097","SONOMA","CALIFORNIA",2018,"When neighbors watered",0
+"1406","06099","STANISLAUS","CALIFORNIA",2018,"When neighbors watered",3.09
+"1407","06101","SUTTER","CALIFORNIA",2018,"When neighbors watered",3.99
+"1408","06103","TEHAMA","CALIFORNIA",2018,"When neighbors watered",3.94
+"1409","06107","TULARE","CALIFORNIA",2018,"When neighbors watered",2.23
+"1410","06109","TUOLUMNE","CALIFORNIA",2018,"When neighbors watered",0
+"1411","06111","VENTURA","CALIFORNIA",2018,"When neighbors watered",1.89
+"1412","06113","YOLO","CALIFORNIA",2018,"When neighbors watered",0
+"1413","06115","YUBA","CALIFORNIA",2018,"When neighbors watered",0
+"1414","08001","ADAMS","COLORADO",2018,"When neighbors watered",9.43
+"1415","08003","ALAMOSA","COLORADO",2018,"When neighbors watered",0
+"1416","08007","ARCHULETA","COLORADO",2018,"When neighbors watered",10.5
+"1417","08013","BOULDER","COLORADO",2018,"When neighbors watered",6.81
+"1418","08021","CONEJOS","COLORADO",2018,"When neighbors watered",4.72
+"1419","08029","DELTA","COLORADO",2018,"When neighbors watered",3.54
+"1420","08039","ELBERT","COLORADO",2018,"When neighbors watered",0
+"1421","08041","EL PASO","COLORADO",2018,"When neighbors watered",0
+"1422","08043","FREMONT","COLORADO",2018,"When neighbors watered",4.34
+"1423","08045","GARFIELD","COLORADO",2018,"When neighbors watered",6.02
+"1424","08049","GRAND","COLORADO",2018,"When neighbors watered",0.82
+"1425","08051","GUNNISON","COLORADO",2018,"When neighbors watered",22.07
+"1426","08057","JACKSON","COLORADO",2018,"When neighbors watered",3.77
+"1427","08059","JEFFERSON","COLORADO",2018,"When neighbors watered",3.29
+"1428","08063","KIT CARSON","COLORADO",2018,"When neighbors watered",8.76
+"1429","08067","LA PLATA","COLORADO",2018,"When neighbors watered",7.81
+"1430","08069","LARIMER","COLORADO",2018,"When neighbors watered",6.74
+"1431","08075","LOGAN","COLORADO",2018,"When neighbors watered",0
+"1432","08077","MESA","COLORADO",2018,"When neighbors watered",11.28
+"1433","08081","MOFFAT","COLORADO",2018,"When neighbors watered",11.04
+"1434","08083","MONTEZUMA","COLORADO",2018,"When neighbors watered",0
+"1435","08085","MONTROSE","COLORADO",2018,"When neighbors watered",1.9
+"1436","08087","MORGAN","COLORADO",2018,"When neighbors watered",4.77
+"1437","08089","OTERO","COLORADO",2018,"When neighbors watered",7.86
+"1438","08095","PHILLIPS","COLORADO",2018,"When neighbors watered",7.67
+"1439","08099","PROWERS","COLORADO",2018,"When neighbors watered",9.58
+"1440","08101","PUEBLO","COLORADO",2018,"When neighbors watered",0.79
+"1441","08103","RIO BLANCO","COLORADO",2018,"When neighbors watered",16.8
+"1442","08105","RIO GRANDE","COLORADO",2018,"When neighbors watered",0
+"1443","08107","ROUTT","COLORADO",2018,"When neighbors watered",17.86
+"1444","08109","SAGUACHE","COLORADO",2018,"When neighbors watered",3.36
+"1445","08115","SEDGWICK","COLORADO",2018,"When neighbors watered",7.61
+"1446","08121","WASHINGTON","COLORADO",2018,"When neighbors watered",0
+"1447","08123","WELD","COLORADO",2018,"When neighbors watered",4.75
+"1448","08125","YUMA","COLORADO",2018,"When neighbors watered",0
+"1449","32001","CHURCHILL","NEVADA",2018,"When neighbors watered",7.88
+"1450","32003","CLARK","NEVADA",2018,"When neighbors watered",0
+"1451","32005","DOUGLAS","NEVADA",2018,"When neighbors watered",3.07
+"1452","32007","ELKO","NEVADA",2018,"When neighbors watered",7.47
+"1453","32011","EUREKA","NEVADA",2018,"When neighbors watered",0
+"1454","32013","HUMBOLDT","NEVADA",2018,"When neighbors watered",0
+"1455","32017","LINCOLN","NEVADA",2018,"When neighbors watered",0
+"1456","32019","LYON","NEVADA",2018,"When neighbors watered",11.35
+"1457","32023","NYE","NEVADA",2018,"When neighbors watered",2.63
+"1458","32027","PERSHING","NEVADA",2018,"When neighbors watered",15.13
+"1459","32031","WASHOE","NEVADA",2018,"When neighbors watered",0
+"1460","32033","WHITE PINE","NEVADA",2018,"When neighbors watered",8.06
+"1461","35001","BERNALILLO","NEW MEXICO",2018,"When neighbors watered",8.17
+"1462","35005","CHAVES","NEW MEXICO",2018,"When neighbors watered",0
+"1463","35009","CURRY","NEW MEXICO",2018,"When neighbors watered",0
+"1464","35013","DONA ANA","NEW MEXICO",2018,"When neighbors watered",5.5
+"1465","35015","EDDY","NEW MEXICO",2018,"When neighbors watered",0
+"1466","35025","LEA","NEW MEXICO",2018,"When neighbors watered",6
+"1467","35033","MORA","NEW MEXICO",2018,"When neighbors watered",0
+"1468","35035","OTERO","NEW MEXICO",2018,"When neighbors watered",6.37
+"1469","35037","QUAY","NEW MEXICO",2018,"When neighbors watered",0
+"1470","35039","RIO ARRIBA","NEW MEXICO",2018,"When neighbors watered",3.41
+"1471","35041","ROOSEVELT","NEW MEXICO",2018,"When neighbors watered",1.66
+"1472","35043","SANDOVAL","NEW MEXICO",2018,"When neighbors watered",4.65
+"1473","35045","SAN JUAN","NEW MEXICO",2018,"When neighbors watered",2.23
+"1474","35047","SAN MIGUEL","NEW MEXICO",2018,"When neighbors watered",6.48
+"1475","35049","SANTA FE","NEW MEXICO",2018,"When neighbors watered",0
+"1476","35053","SOCORRO","NEW MEXICO",2018,"When neighbors watered",4.67
+"1477","35055","TAOS","NEW MEXICO",2018,"When neighbors watered",7.31
+"1478","35061","VALENCIA","NEW MEXICO",2018,"When neighbors watered",8.79
+"1479","49003","BOX ELDER","UTAH",2018,"When neighbors watered",3.6
+"1480","49005","CACHE","UTAH",2018,"When neighbors watered",0
+"1481","49007","CARBON","UTAH",2018,"When neighbors watered",0
+"1482","49011","DAVIS","UTAH",2018,"When neighbors watered",0
+"1483","49013","DUCHESNE","UTAH",2018,"When neighbors watered",0.31
+"1484","49015","EMERY","UTAH",2018,"When neighbors watered",0
+"1485","49017","GARFIELD","UTAH",2018,"When neighbors watered",0
+"1486","49021","IRON","UTAH",2018,"When neighbors watered",7.51
+"1487","49023","JUAB","UTAH",2018,"When neighbors watered",0
+"1488","49027","MILLARD","UTAH",2018,"When neighbors watered",3.84
+"1489","49033","RICH","UTAH",2018,"When neighbors watered",2.03
+"1490","49035","SALT LAKE","UTAH",2018,"When neighbors watered",4.3
+"1491","49039","SANPETE","UTAH",2018,"When neighbors watered",4.45
+"1492","49041","SEVIER","UTAH",2018,"When neighbors watered",0.7
+"1493","49043","SUMMIT","UTAH",2018,"When neighbors watered",2.01
+"1494","49045","TOOELE","UTAH",2018,"When neighbors watered",13.15
+"1495","49047","UINTAH","UTAH",2018,"When neighbors watered",3.12
+"1496","49049","UTAH","UTAH",2018,"When neighbors watered",7.86
+"1497","49051","WASATCH","UTAH",2018,"When neighbors watered",0
+"1498","49053","WASHINGTON","UTAH",2018,"When neighbors watered",4.84
+"1499","49055","WAYNE","UTAH",2018,"When neighbors watered",0
+"1500","49057","WEBER","UTAH",2018,"When neighbors watered",0
