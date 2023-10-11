@@ -1,0 +1,693 @@
+Crop,Acres,Fips,County name,State Abb,State Name,FRIS Demand,Avg water use
+Pistachios,5.6,4001,Apache County,AZ,ARIZONA,NA,NA
+Corn,1.1,4001,Apache County,AZ,ARIZONA,4.7,5.17
+Alfalfa,20827.9,4003,Cochise County,AZ,ARIZONA,5.8,120801.82
+Corn,16914.4,4003,Cochise County,AZ,ARIZONA,4.7,79497.68
+Pecans,14078.5,4003,Cochise County,AZ,ARIZONA,4.3,60537.55
+Winter Wheat,10757.9,4003,Cochise County,AZ,ARIZONA,3.6,38728.44
+Cotton,4338.9,4003,Cochise County,AZ,ARIZONA,4.6,19958.94
+Sorghum,2275.8,4003,Cochise County,AZ,ARIZONA,4.4,10013.52
+Pecans,8.5,4005,Coconino County,AZ,ARIZONA,4.3,36.55
+Alfalfa,6.7,4005,Coconino County,AZ,ARIZONA,5.8,38.86
+Alfalfa,430.1,4007,Gila County,AZ,ARIZONA,5.8,2494.58
+Cotton,24279.7,4009,Graham County,AZ,ARIZONA,4.6,111686.62
+Alfalfa,7295,4009,Graham County,AZ,ARIZONA,5.8,42311
+Corn,2607.1,4009,Graham County,AZ,ARIZONA,4.7,12253.37
+Winter Wheat,2481.5,4009,Graham County,AZ,ARIZONA,3.6,8933.4
+Dry Beans,1818.3,4009,Graham County,AZ,ARIZONA,2.3,4182.09
+Alfalfa,1301.7,4011,Greenlee County,AZ,ARIZONA,5.8,7549.86
+Pecans,1004.1,4011,Greenlee County,AZ,ARIZONA,4.3,4317.63
+Cotton,911.8,4011,Greenlee County,AZ,ARIZONA,4.6,4194.28
+Other Hay_Non Alfalfa,487.3,4011,Greenlee County,AZ,ARIZONA,5.8,2826.34
+Barley,153,4011,Greenlee County,AZ,ARIZONA,4.8,734.4
+Alfalfa,76956.6,4012,La Paz County,AZ,ARIZONA,5.8,446348.28
+Cotton,9338.1,4012,La Paz County,AZ,ARIZONA,4.6,42955.26
+Other Hay_Non Alfalfa,5169.6,4012,La Paz County,AZ,ARIZONA,5.8,29983.68
+Alfalfa,153896.2,4013,Maricopa County,AZ,ARIZONA,5.8,892597.96
+Cotton,17226,4013,Maricopa County,AZ,ARIZONA,4.6,79239.6
+Winter Wheat,14983.4,4013,Maricopa County,AZ,ARIZONA,3.6,53940.24
+Corn,11479.1,4013,Maricopa County,AZ,ARIZONA,4.7,53951.77
+Millet,7033.9,4013,Maricopa County,AZ,ARIZONA,1,7033.9
+Barley,6462.1,4013,Maricopa County,AZ,ARIZONA,4.8,31018.08
+Other Hay_Non Alfalfa,4780.4,4013,Maricopa County,AZ,ARIZONA,5.8,27726.32
+Alfalfa,15774,4015,Mohave County,AZ,ARIZONA,5.8,91489.2
+Cotton,2762.6,4015,Mohave County,AZ,ARIZONA,4.6,12707.96
+Winter Wheat,1388.4,4015,Mohave County,AZ,ARIZONA,3.6,4998.24
+Cotton,11034.1,4019,Pima County,AZ,ARIZONA,4.6,50756.86
+Winter Wheat,6198.4,4019,Pima County,AZ,ARIZONA,3.6,22314.24
+Alfalfa,5815.2,4019,Pima County,AZ,ARIZONA,5.8,33728.16
+Alfalfa,98486.4,4021,Pinal County,AZ,ARIZONA,5.8,571221.12
+Cotton,94787.3,4021,Pinal County,AZ,ARIZONA,4.6,436021.58
+Winter Wheat,19417.5,4021,Pinal County,AZ,ARIZONA,3.6,69903
+Corn,15772.9,4021,Pinal County,AZ,ARIZONA,4.7,74132.63
+Other Hay_Non Alfalfa,4463,4021,Pinal County,AZ,ARIZONA,5.8,25885.4
+Alfalfa,810.2,4023,Santa Cruz County,AZ,ARIZONA,5.8,4699.16
+Other Hay_Non Alfalfa,262,4023,Santa Cruz County,AZ,ARIZONA,5.8,1519.6
+Pistachios,209.9,4023,Santa Cruz County,AZ,ARIZONA,NA,NA
+Alfalfa,1611,4025,Yavapai County,AZ,ARIZONA,5.8,9343.8
+Winter Wheat,141.2,4025,Yavapai County,AZ,ARIZONA,3.6,508.32
+Alfalfa,45670.5,4027,Yuma County,AZ,ARIZONA,5.8,264888.9
+Other Hay_Non Alfalfa,14447.9,4027,Yuma County,AZ,ARIZONA,5.8,83797.82
+Winter Wheat,937.2,6001,Alameda County,CA,CALIFORNIA,3.6,3373.92
+Alfalfa,691.4,6001,Alameda County,CA,CALIFORNIA,5.8,4010.12
+Oats,488.8,6001,Alameda County,CA,CALIFORNIA,NA,NA
+Grapes,350.3,6001,Alameda County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,335.1,6001,Alameda County,CA,CALIFORNIA,5.8,1943.58
+Other Hay_Non Alfalfa,191.3,6003,Alpine County,CA,CALIFORNIA,5.8,1109.54
+Alfalfa,189.3,6003,Alpine County,CA,CALIFORNIA,5.8,1097.94
+Other Hay_Non Alfalfa,926.7,6005,Amador County,CA,CALIFORNIA,5.8,5374.86
+Winter Wheat,736.3,6005,Amador County,CA,CALIFORNIA,3.6,2650.68
+Grapes,733.7,6005,Amador County,CA,CALIFORNIA,NA,NA
+Alfalfa,723,6005,Amador County,CA,CALIFORNIA,5.8,4193.4
+Walnuts,226.2,6005,Amador County,CA,CALIFORNIA,NA,NA
+Rice,82700.1,6007,Butte County,CA,CALIFORNIA,NA,NA
+Walnuts,69530.6,6007,Butte County,CA,CALIFORNIA,NA,NA
+Almonds,30149.4,6007,Butte County,CA,CALIFORNIA,NA,NA
+Walnuts,431.9,6009,Calaveras County,CA,CALIFORNIA,NA,NA
+Almonds,61.2,6009,Calaveras County,CA,CALIFORNIA,NA,NA
+Grapes,53.4,6009,Calaveras County,CA,CALIFORNIA,NA,NA
+Alfalfa,39.1,6009,Calaveras County,CA,CALIFORNIA,5.8,226.78
+Other Hay_Non Alfalfa,21.6,6009,Calaveras County,CA,CALIFORNIA,5.8,125.28
+Rice,128478.1,6011,Colusa County,CA,CALIFORNIA,NA,NA
+Almonds,64367.7,6011,Colusa County,CA,CALIFORNIA,NA,NA
+Walnuts,28996,6011,Colusa County,CA,CALIFORNIA,NA,NA
+Tomatoes,10252.4,6011,Colusa County,CA,CALIFORNIA,NA,NA
+Alfalfa,8980.1,6011,Colusa County,CA,CALIFORNIA,5.8,52084.58
+Winter Wheat,7758,6011,Colusa County,CA,CALIFORNIA,3.6,27928.8
+Alfalfa,14672.5,6013,Contra Costa County,CA,CALIFORNIA,5.8,85100.5
+Corn,8194.4,6013,Contra Costa County,CA,CALIFORNIA,4.7,38513.68
+Winter Wheat,6592.2,6013,Contra Costa County,CA,CALIFORNIA,3.6,23731.92
+Grapes,3809.6,6013,Contra Costa County,CA,CALIFORNIA,NA,NA
+Safflower,3671.7,6013,Contra Costa County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,1491.2,6013,Contra Costa County,CA,CALIFORNIA,5.8,8648.96
+Tomatoes,1028.4,6013,Contra Costa County,CA,CALIFORNIA,NA,NA
+Winter Wheat,8.2,6015,Del Norte County,CA,CALIFORNIA,3.6,29.52
+Other Hay_Non Alfalfa,3.3,6015,Del Norte County,CA,CALIFORNIA,5.8,19.14
+Grapes,514.8,6017,El Dorado County,CA,CALIFORNIA,NA,NA
+Alfalfa,119,6017,El Dorado County,CA,CALIFORNIA,5.8,690.2
+Walnuts,59.8,6017,El Dorado County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,48.3,6017,El Dorado County,CA,CALIFORNIA,5.8,280.14
+Almonds,273117.5,6019,Fresno County,CA,CALIFORNIA,NA,NA
+Grapes,231752.8,6019,Fresno County,CA,CALIFORNIA,NA,NA
+Pistachios,105854.5,6019,Fresno County,CA,CALIFORNIA,NA,NA
+Winter Wheat,104942.7,6019,Fresno County,CA,CALIFORNIA,3.6,377793.72
+Cotton,67518.3,6019,Fresno County,CA,CALIFORNIA,4.6,310584.18
+Alfalfa,66028.3,6019,Fresno County,CA,CALIFORNIA,5.8,382964.14
+Tomatoes,50930.6,6019,Fresno County,CA,CALIFORNIA,NA,NA
+Walnuts,33889.4,6019,Fresno County,CA,CALIFORNIA,NA,NA
+Rice,81920.2,6021,Glenn County,CA,CALIFORNIA,NA,NA
+Almonds,53068.9,6021,Glenn County,CA,CALIFORNIA,NA,NA
+Walnuts,48810.5,6021,Glenn County,CA,CALIFORNIA,NA,NA
+Alfalfa,11997.1,6021,Glenn County,CA,CALIFORNIA,5.8,69583.18
+Other Hay_Non Alfalfa,10350.7,6021,Glenn County,CA,CALIFORNIA,5.8,60034.06
+Winter Wheat,6529.3,6021,Glenn County,CA,CALIFORNIA,3.6,23505.48
+Other Hay_Non Alfalfa,9041.7,6023,Humboldt County,CA,CALIFORNIA,5.8,52441.86
+Corn,1224.9,6023,Humboldt County,CA,CALIFORNIA,4.7,5757.03
+Alfalfa,182284,6025,Imperial County,CA,CALIFORNIA,5.8,1057247.2
+Other Hay_Non Alfalfa,52009.2,6025,Imperial County,CA,CALIFORNIA,5.8,301653.36
+Winter Wheat,19278.5,6025,Imperial County,CA,CALIFORNIA,3.6,69402.6
+Alfalfa,2708.8,6027,Inyo County,CA,CALIFORNIA,5.8,15711.04
+Winter Wheat,108.3,6027,Inyo County,CA,CALIFORNIA,3.6,389.88
+Almonds,247455.2,6029,Kern County,CA,CALIFORNIA,NA,NA
+Pistachios,145186.8,6029,Kern County,CA,CALIFORNIA,NA,NA
+Grapes,92678.7,6029,Kern County,CA,CALIFORNIA,NA,NA
+Alfalfa,72792.7,6029,Kern County,CA,CALIFORNIA,5.8,422197.66
+Winter Wheat,30434.5,6029,Kern County,CA,CALIFORNIA,3.6,109564.2
+Cotton,27143.5,6029,Kern County,CA,CALIFORNIA,4.6,124860.1
+Cotton,101826.5,6031,Kings County,CA,CALIFORNIA,4.6,468401.9
+Pistachios,75087.8,6031,Kings County,CA,CALIFORNIA,NA,NA
+Winter Wheat,51637.4,6031,Kings County,CA,CALIFORNIA,3.6,185894.64
+Almonds,51280,6031,Kings County,CA,CALIFORNIA,NA,NA
+Alfalfa,40900.4,6031,Kings County,CA,CALIFORNIA,5.8,237222.32
+Barley,31011.2,6031,Kings County,CA,CALIFORNIA,4.8,148853.76
+Walnuts,25466.6,6031,Kings County,CA,CALIFORNIA,NA,NA
+Safflower,20481,6031,Kings County,CA,CALIFORNIA,NA,NA
+Tomatoes,20055.1,6031,Kings County,CA,CALIFORNIA,NA,NA
+Grapes,11664.8,6031,Kings County,CA,CALIFORNIA,NA,NA
+Grapes,1719.3,6033,Lake County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,980.3,6033,Lake County,CA,CALIFORNIA,5.8,5685.74
+Almonds,346,6033,Lake County,CA,CALIFORNIA,NA,NA
+Alfalfa,312.2,6033,Lake County,CA,CALIFORNIA,5.8,1810.76
+Walnuts,190.1,6033,Lake County,CA,CALIFORNIA,NA,NA
+Alfalfa,43353.2,6035,Lassen County,CA,CALIFORNIA,5.8,251448.56
+Other Hay_Non Alfalfa,18867.3,6035,Lassen County,CA,CALIFORNIA,5.8,109430.34
+Winter Wheat,2838.2,6035,Lassen County,CA,CALIFORNIA,3.6,10217.52
+Alfalfa,3045.2,6037,Los Angeles County,CA,CALIFORNIA,5.8,17662.16
+Other Hay_Non Alfalfa,1319,6037,Los Angeles County,CA,CALIFORNIA,5.8,7650.2
+Barley,850.2,6037,Los Angeles County,CA,CALIFORNIA,4.8,4080.96
+Almonds,131510,6039,Madera County,CA,CALIFORNIA,NA,NA
+Grapes,105923.7,6039,Madera County,CA,CALIFORNIA,NA,NA
+Pistachios,43379,6039,Madera County,CA,CALIFORNIA,NA,NA
+Alfalfa,20323.8,6039,Madera County,CA,CALIFORNIA,5.8,117878.04
+Winter Wheat,15349.9,6039,Madera County,CA,CALIFORNIA,3.6,55259.64
+Oats,3736.7,6041,Marin County,CA,CALIFORNIA,NA,NA
+Pistachios,43.4,6043,Mariposa County,CA,CALIFORNIA,NA,NA
+Almonds,31.4,6043,Mariposa County,CA,CALIFORNIA,NA,NA
+Grapes,28.9,6043,Mariposa County,CA,CALIFORNIA,NA,NA
+Winter Wheat,19.8,6043,Mariposa County,CA,CALIFORNIA,3.6,71.28
+Walnuts,10.9,6043,Mariposa County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,7738.9,6045,Mendocino County,CA,CALIFORNIA,5.8,44885.62
+Grapes,2286,6045,Mendocino County,CA,CALIFORNIA,NA,NA
+Almonds,146865.6,6047,Merced County,CA,CALIFORNIA,NA,NA
+Alfalfa,97328.3,6047,Merced County,CA,CALIFORNIA,5.8,564504.14
+Winter Wheat,56714.4,6047,Merced County,CA,CALIFORNIA,3.6,204171.84
+Cotton,41564.7,6047,Merced County,CA,CALIFORNIA,4.6,191197.62
+Grapes,25035.6,6047,Merced County,CA,CALIFORNIA,NA,NA
+Pistachios,23793.3,6047,Merced County,CA,CALIFORNIA,NA,NA
+Oats,13749.5,6047,Merced County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,11806.7,6047,Merced County,CA,CALIFORNIA,5.8,68478.86
+Alfalfa,68683.5,6049,Modoc County,CA,CALIFORNIA,5.8,398364.3
+Other Hay_Non Alfalfa,36524.1,6049,Modoc County,CA,CALIFORNIA,5.8,211839.78
+Barley,9095.1,6049,Modoc County,CA,CALIFORNIA,4.8,43656.48
+Winter Wheat,5403.3,6049,Modoc County,CA,CALIFORNIA,3.6,19451.88
+Triticale,4517.5,6049,Modoc County,CA,CALIFORNIA,1.16,5240.3
+Alfalfa,3787.8,6051,Mono County,CA,CALIFORNIA,5.8,21969.24
+Grapes,71215.7,6053,Monterey County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,5981.5,6053,Monterey County,CA,CALIFORNIA,5.8,34692.7
+Alfalfa,5408,6053,Monterey County,CA,CALIFORNIA,5.8,31366.4
+Oats,4215.5,6053,Monterey County,CA,CALIFORNIA,NA,NA
+Winter Wheat,4133,6053,Monterey County,CA,CALIFORNIA,3.6,14878.8
+Barley,4017.8,6053,Monterey County,CA,CALIFORNIA,4.8,19285.44
+Almonds,2833.3,6053,Monterey County,CA,CALIFORNIA,NA,NA
+Walnuts,1813.4,6053,Monterey County,CA,CALIFORNIA,NA,NA
+Grapes,35933.2,6055,Napa County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,25.1,6057,Nevada County,CA,CALIFORNIA,5.8,145.58
+Alfalfa,7.6,6057,Nevada County,CA,CALIFORNIA,5.8,44.08
+Oats,8.2,6059,Orange County,CA,CALIFORNIA,NA,NA
+Alfalfa,3.8,6059,Orange County,CA,CALIFORNIA,5.8,22.04
+Other Hay_Non Alfalfa,1.3,6059,Orange County,CA,CALIFORNIA,5.8,7.54
+Rice,7512.7,6061,Placer County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,3410.9,6061,Placer County,CA,CALIFORNIA,5.8,19783.22
+Winter Wheat,1807.4,6061,Placer County,CA,CALIFORNIA,3.6,6506.64
+Walnuts,1734.7,6061,Placer County,CA,CALIFORNIA,NA,NA
+Alfalfa,1430.9,6061,Placer County,CA,CALIFORNIA,5.8,8299.22
+Alfalfa,13781.6,6063,Plumas County,CA,CALIFORNIA,5.8,79933.28
+Other Hay_Non Alfalfa,1885.5,6063,Plumas County,CA,CALIFORNIA,5.8,10935.9
+Alfalfa,47435.9,6065,Riverside County,CA,CALIFORNIA,5.8,275128.22
+Winter Wheat,38044.4,6065,Riverside County,CA,CALIFORNIA,3.6,136959.84
+Grapes,12682.5,6065,Riverside County,CA,CALIFORNIA,NA,NA
+Cotton,4512.8,6065,Riverside County,CA,CALIFORNIA,4.6,20758.88
+Alfalfa,34200.3,6067,Sacramento County,CA,CALIFORNIA,5.8,198361.74
+Other Hay_Non Alfalfa,29512.7,6067,Sacramento County,CA,CALIFORNIA,5.8,171173.66
+Grapes,28839.7,6067,Sacramento County,CA,CALIFORNIA,NA,NA
+Corn,16815.5,6067,Sacramento County,CA,CALIFORNIA,4.7,79032.85
+Winter Wheat,10305.3,6067,Sacramento County,CA,CALIFORNIA,3.6,37099.08
+Rice,6133.2,6067,Sacramento County,CA,CALIFORNIA,NA,NA
+Oats,5476.7,6067,Sacramento County,CA,CALIFORNIA,NA,NA
+Safflower,4538.9,6067,Sacramento County,CA,CALIFORNIA,NA,NA
+Walnuts,4441.9,6067,Sacramento County,CA,CALIFORNIA,NA,NA
+Grapes,1732.7,6069,San Benito County,CA,CALIFORNIA,NA,NA
+Oats,1509.8,6069,San Benito County,CA,CALIFORNIA,NA,NA
+Winter Wheat,1014.1,6069,San Benito County,CA,CALIFORNIA,3.6,3650.76
+Alfalfa,793.3,6069,San Benito County,CA,CALIFORNIA,5.8,4601.14
+Other Hay_Non Alfalfa,623.6,6069,San Benito County,CA,CALIFORNIA,5.8,3616.88
+Walnuts,574.4,6069,San Benito County,CA,CALIFORNIA,NA,NA
+Safflower,571.1,6069,San Benito County,CA,CALIFORNIA,NA,NA
+Corn,543.8,6069,San Benito County,CA,CALIFORNIA,4.7,2555.86
+Barley,452.1,6069,San Benito County,CA,CALIFORNIA,4.8,2170.08
+Alfalfa,3949.7,6071,San Bernardino County,CA,CALIFORNIA,5.8,22908.26
+Winter Wheat,299.3,6071,San Bernardino County,CA,CALIFORNIA,3.6,1077.48
+Winter Wheat,590.5,6073,San Diego County,CA,CALIFORNIA,3.6,2125.8
+Alfalfa,322,6073,San Diego County,CA,CALIFORNIA,5.8,1867.6
+Other Hay_Non Alfalfa,7.6,6075,San Francisco County,CA,CALIFORNIA,5.8,44.08
+Oats,0.4,6075,San Francisco County,CA,CALIFORNIA,NA,NA
+Walnuts,111222.9,6077,San Joaquin County,CA,CALIFORNIA,NA,NA
+Alfalfa,97452.9,6077,San Joaquin County,CA,CALIFORNIA,5.8,565226.82
+Grapes,89874.1,6077,San Joaquin County,CA,CALIFORNIA,NA,NA
+Almonds,66685.7,6077,San Joaquin County,CA,CALIFORNIA,NA,NA
+Winter Wheat,37962.3,6077,San Joaquin County,CA,CALIFORNIA,3.6,136664.28
+Corn,31680.3,6077,San Joaquin County,CA,CALIFORNIA,4.7,148897.41
+Oats,16857.5,6077,San Joaquin County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,15302.1,6077,San Joaquin County,CA,CALIFORNIA,5.8,88752.18
+Safflower,14050,6077,San Joaquin County,CA,CALIFORNIA,NA,NA
+Grapes,49119.9,6079,San Luis Obispo County,CA,CALIFORNIA,NA,NA
+Barley,10065.1,6079,San Luis Obispo County,CA,CALIFORNIA,4.8,48312.48
+Other Hay_Non Alfalfa,8547.7,6079,San Luis Obispo County,CA,CALIFORNIA,5.8,49576.66
+Alfalfa,3675.7,6079,San Luis Obispo County,CA,CALIFORNIA,5.8,21319.06
+Oats,3299,6079,San Luis Obispo County,CA,CALIFORNIA,NA,NA
+Dry Beans,2391,6079,San Luis Obispo County,CA,CALIFORNIA,2.3,5499.3
+Alfalfa,408.8,6081,San Mateo County,CA,CALIFORNIA,5.8,2371.04
+Other Hay_Non Alfalfa,147.2,6081,San Mateo County,CA,CALIFORNIA,5.8,853.76
+Winter Wheat,111.2,6081,San Mateo County,CA,CALIFORNIA,3.6,400.32
+Walnuts,70.7,6081,San Mateo County,CA,CALIFORNIA,NA,NA
+Oats,40.9,6081,San Mateo County,CA,CALIFORNIA,NA,NA
+Triticale,38,6081,San Mateo County,CA,CALIFORNIA,1.16,44.08
+Almonds,26.5,6081,San Mateo County,CA,CALIFORNIA,NA,NA
+Grapes,22888.6,6083,Santa Barbara County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,4220.6,6083,Santa Barbara County,CA,CALIFORNIA,5.8,24479.48
+Dry Beans,3904.6,6083,Santa Barbara County,CA,CALIFORNIA,2.3,8980.58
+Alfalfa,3407.1,6083,Santa Barbara County,CA,CALIFORNIA,5.8,19761.18
+Oats,1094.8,6083,Santa Barbara County,CA,CALIFORNIA,NA,NA
+Barley,1007,6083,Santa Barbara County,CA,CALIFORNIA,4.8,4833.6
+Winter Wheat,902.7,6083,Santa Barbara County,CA,CALIFORNIA,3.6,3249.72
+Oats,1437.6,6085,Santa Clara County,CA,CALIFORNIA,NA,NA
+Grapes,854.9,6085,Santa Clara County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,523.7,6085,Santa Clara County,CA,CALIFORNIA,5.8,3037.46
+Alfalfa,432.8,6085,Santa Clara County,CA,CALIFORNIA,5.8,2510.24
+Dry Beans,225.1,6085,Santa Clara County,CA,CALIFORNIA,2.3,517.73
+Winter Wheat,223.3,6085,Santa Clara County,CA,CALIFORNIA,3.6,803.88
+Safflower,190.1,6085,Santa Clara County,CA,CALIFORNIA,NA,NA
+Tomatoes,180.1,6085,Santa Clara County,CA,CALIFORNIA,NA,NA
+Alfalfa,288.4,6087,Santa Cruz County,CA,CALIFORNIA,5.8,1672.72
+Winter Wheat,223.1,6087,Santa Cruz County,CA,CALIFORNIA,3.6,803.16
+Oats,206.8,6087,Santa Cruz County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,102.1,6087,Santa Cruz County,CA,CALIFORNIA,5.8,592.18
+Grapes,86.3,6087,Santa Cruz County,CA,CALIFORNIA,NA,NA
+Triticale,53.2,6087,Santa Cruz County,CA,CALIFORNIA,1.16,61.712
+Other Hay_Non Alfalfa,26616.9,6089,Shasta County,CA,CALIFORNIA,5.8,154378.02
+Alfalfa,4356.3,6089,Shasta County,CA,CALIFORNIA,5.8,25266.54
+Alfalfa,3681.7,6091,Sierra County,CA,CALIFORNIA,5.8,21353.86
+Alfalfa,119363.9,6093,Siskiyou County,CA,CALIFORNIA,5.8,692310.62
+Other Hay_Non Alfalfa,25794,6093,Siskiyou County,CA,CALIFORNIA,5.8,149605.2
+Barley,17420,6093,Siskiyou County,CA,CALIFORNIA,4.8,83616
+Alfalfa,39786.8,6095,Solano County,CA,CALIFORNIA,5.8,230763.44
+Winter Wheat,26633.1,6095,Solano County,CA,CALIFORNIA,3.6,95879.16
+Other Hay_Non Alfalfa,18319.1,6095,Solano County,CA,CALIFORNIA,5.8,106250.78
+Almonds,14307.5,6095,Solano County,CA,CALIFORNIA,NA,NA
+Walnuts,9680.2,6095,Solano County,CA,CALIFORNIA,NA,NA
+Safflower,9306.8,6095,Solano County,CA,CALIFORNIA,NA,NA
+Triticale,7118.4,6095,Solano County,CA,CALIFORNIA,1.16,8257.344
+Tomatoes,6268.6,6095,Solano County,CA,CALIFORNIA,NA,NA
+Grapes,5797.8,6095,Solano County,CA,CALIFORNIA,NA,NA
+Grapes,53768.6,6097,Sonoma County,CA,CALIFORNIA,NA,NA
+Oats,12114.1,6097,Sonoma County,CA,CALIFORNIA,NA,NA
+Almonds,169547.5,6099,Stanislaus County,CA,CALIFORNIA,NA,NA
+Alfalfa,48537.6,6099,Stanislaus County,CA,CALIFORNIA,5.8,281518.08
+Walnuts,42172.5,6099,Stanislaus County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,21296.3,6099,Stanislaus County,CA,CALIFORNIA,5.8,123518.54
+Grapes,11057.9,6099,Stanislaus County,CA,CALIFORNIA,NA,NA
+Winter Wheat,9744.9,6099,Stanislaus County,CA,CALIFORNIA,3.6,35081.64
+Oats,9296.8,6099,Stanislaus County,CA,CALIFORNIA,NA,NA
+Rice,79283.2,6101,Sutter County,CA,CALIFORNIA,NA,NA
+Walnuts,49529.3,6101,Sutter County,CA,CALIFORNIA,NA,NA
+Alfalfa,12384.5,6101,Sutter County,CA,CALIFORNIA,5.8,71830.1
+Almonds,7637.9,6101,Sutter County,CA,CALIFORNIA,NA,NA
+Corn,7526.7,6101,Sutter County,CA,CALIFORNIA,4.7,35375.49
+Winter Wheat,6731.4,6101,Sutter County,CA,CALIFORNIA,3.6,24233.04
+Tomatoes,5426.2,6101,Sutter County,CA,CALIFORNIA,NA,NA
+Walnuts,28883.9,6103,Tehama County,CA,CALIFORNIA,NA,NA
+Almonds,11589,6103,Tehama County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,7164,6103,Tehama County,CA,CALIFORNIA,5.8,41551.2
+Alfalfa,4047.8,6103,Tehama County,CA,CALIFORNIA,5.8,23477.24
+Oats,3079.7,6103,Tehama County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,61.4,6105,Trinity County,CA,CALIFORNIA,5.8,356.12
+Alfalfa,26,6105,Trinity County,CA,CALIFORNIA,5.8,150.8
+Grapes,25.8,6105,Trinity County,CA,CALIFORNIA,NA,NA
+Almonds,102235.5,6107,Tulare County,CA,CALIFORNIA,NA,NA
+Walnuts,74912.7,6107,Tulare County,CA,CALIFORNIA,NA,NA
+Alfalfa,57663.6,6107,Tulare County,CA,CALIFORNIA,5.8,334448.88
+Grapes,56075.9,6107,Tulare County,CA,CALIFORNIA,NA,NA
+Pistachios,49973.4,6107,Tulare County,CA,CALIFORNIA,NA,NA
+Winter Wheat,35082.5,6107,Tulare County,CA,CALIFORNIA,3.6,126297
+Barley,20061.1,6107,Tulare County,CA,CALIFORNIA,4.8,96293.28
+Cotton,17859.2,6107,Tulare County,CA,CALIFORNIA,4.6,82152.32
+Winter Wheat,32.7,6109,Tuolumne County,CA,CALIFORNIA,3.6,117.72
+Alfalfa,17.3,6109,Tuolumne County,CA,CALIFORNIA,5.8,100.34
+Almonds,4.7,6109,Tuolumne County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,2.2,6109,Tuolumne County,CA,CALIFORNIA,5.8,12.76
+Pistachios,1.8,6109,Tuolumne County,CA,CALIFORNIA,NA,NA
+Alfalfa,753.3,6111,Ventura County,CA,CALIFORNIA,5.8,4369.14
+Other Hay_Non Alfalfa,622.7,6111,Ventura County,CA,CALIFORNIA,5.8,3611.66
+Barley,281.6,6111,Ventura County,CA,CALIFORNIA,4.8,1351.68
+Pistachios,145.7,6111,Ventura County,CA,CALIFORNIA,NA,NA
+Oats,117.9,6111,Ventura County,CA,CALIFORNIA,NA,NA
+Almonds,43665.4,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Alfalfa,42383.3,6113,Yolo County,CA,CALIFORNIA,5.8,245823.14
+Winter Wheat,34577.3,6113,Yolo County,CA,CALIFORNIA,3.6,124478.28
+Rice,26120.7,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Walnuts,22449.6,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Other Hay_Non Alfalfa,18870.2,6113,Yolo County,CA,CALIFORNIA,5.8,109447.16
+Grapes,18863.7,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Tomatoes,17697.5,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Safflower,9533.4,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Corn,4957.6,6113,Yolo County,CA,CALIFORNIA,4.7,23300.72
+Pistachios,4163.9,6113,Yolo County,CA,CALIFORNIA,NA,NA
+Rice,34598.4,6115,Yuba County,CA,CALIFORNIA,NA,NA
+Walnuts,22091.1,6115,Yuba County,CA,CALIFORNIA,NA,NA
+Alfalfa,3735.1,6115,Yuba County,CA,CALIFORNIA,5.8,21663.58
+Almonds,1896.1,6115,Yuba County,CA,CALIFORNIA,NA,NA
+Winter Wheat,177734.7,8001,Adams County,CO,COLORADO,3.6,639844.92
+Corn,32068,8001,Adams County,CO,COLORADO,4.7,150719.6
+Alfalfa,10615.8,8001,Adams County,CO,COLORADO,5.8,61571.64
+Alfalfa,29638.3,8003,Alamosa County,CO,COLORADO,5.8,171902.14
+Barley,12452.3,8003,Alamosa County,CO,COLORADO,4.8,59771.04
+Winter Wheat,61517.3,8005,Arapahoe County,CO,COLORADO,3.6,221462.28
+Corn,9392.2,8005,Arapahoe County,CO,COLORADO,4.7,44143.34
+Sorghum,2844.2,8005,Arapahoe County,CO,COLORADO,4.4,12514.48
+Alfalfa,2609.4,8007,Archuleta County,CO,COLORADO,5.8,15134.52
+Other Hay_Non Alfalfa,391.6,8007,Archuleta County,CO,COLORADO,5.8,2271.28
+Winter Wheat,191255.2,8009,Baca County,CO,COLORADO,3.6,688518.72
+Sorghum,93993.5,8009,Baca County,CO,COLORADO,4.4,413571.4
+Corn,71523.5,8009,Baca County,CO,COLORADO,4.7,336160.45
+Triticale,23600.5,8009,Baca County,CO,COLORADO,1.16,27376.58
+Alfalfa,26639.8,8011,Bent County,CO,COLORADO,5.8,154510.84
+Corn,15572.1,8011,Bent County,CO,COLORADO,4.7,73188.87
+Winter Wheat,13456.7,8011,Bent County,CO,COLORADO,3.6,48444.12
+Sorghum,7006.1,8011,Bent County,CO,COLORADO,4.4,30826.84
+Other Hay_Non Alfalfa,18881.1,8013,Boulder County,CO,COLORADO,5.8,109510.38
+Alfalfa,10463.4,8013,Boulder County,CO,COLORADO,5.8,60687.72
+Corn,3737.3,8013,Boulder County,CO,COLORADO,4.7,17565.31
+Winter Wheat,3720,8013,Boulder County,CO,COLORADO,3.6,13392
+Winter Wheat,1224.3,8014,Broomfield County,CO,COLORADO,3.6,4407.48
+Alfalfa,318.7,8014,Broomfield County,CO,COLORADO,5.8,1848.46
+Other Hay_Non Alfalfa,261.8,8014,Broomfield County,CO,COLORADO,5.8,1518.44
+Other Hay_Non Alfalfa,6280.6,8015,Chaffee County,CO,COLORADO,5.8,36427.48
+Alfalfa,4809.5,8015,Chaffee County,CO,COLORADO,5.8,27895.1
+Winter Wheat,187102.6,8017,Cheyenne County,CO,COLORADO,3.6,673569.36
+Corn,73450.9,8017,Cheyenne County,CO,COLORADO,4.7,345219.23
+Sorghum,53770.8,8017,Cheyenne County,CO,COLORADO,4.4,236591.52
+Alfalfa,6.7,8019,Clear Creek County,CO,COLORADO,5.8,38.86
+Other Hay_Non Alfalfa,4.2,8019,Clear Creek County,CO,COLORADO,5.8,24.36
+Alfalfa,75621.5,8021,Conejos County,CO,COLORADO,5.8,438604.7
+Barley,5648.8,8021,Conejos County,CO,COLORADO,4.8,27114.24
+Alfalfa,25057.4,8023,Costilla County,CO,COLORADO,5.8,145332.92
+Barley,5099.5,8023,Costilla County,CO,COLORADO,4.8,24477.6
+Oats,2543.5,8023,Costilla County,CO,COLORADO,NA,NA
+Alfalfa,5476.9,8025,Crowley County,CO,COLORADO,5.8,31766.02
+Sorghum,2241.5,8025,Crowley County,CO,COLORADO,4.4,9862.6
+Winter Wheat,974.1,8025,Crowley County,CO,COLORADO,3.6,3506.76
+Corn,471.7,8025,Crowley County,CO,COLORADO,4.7,2216.99
+Other Hay_Non Alfalfa,24489.9,8027,Custer County,CO,COLORADO,5.8,142041.42
+Alfalfa,55815.9,8029,Delta County,CO,COLORADO,5.8,323732.22
+Corn,7616.1,8029,Delta County,CO,COLORADO,4.7,35795.67
+Other Hay_Non Alfalfa,6767.9,8029,Delta County,CO,COLORADO,5.8,39253.82
+Winter Wheat,3163.6,8031,Denver County,CO,COLORADO,3.6,11388.96
+Corn,1685.8,8031,Denver County,CO,COLORADO,4.7,7923.26
+Winter Wheat,20730.1,8033,Dolores County,CO,COLORADO,3.6,74628.36
+Alfalfa,8821.3,8033,Dolores County,CO,COLORADO,5.8,51163.54
+Dry Beans,7477.4,8033,Dolores County,CO,COLORADO,2.3,17198.02
+Alfalfa,1816.3,8035,Douglas County,CO,COLORADO,5.8,10534.54
+Winter Wheat,592.5,8035,Douglas County,CO,COLORADO,3.6,2133
+Alfalfa,11049.2,8037,Eagle County,CO,COLORADO,5.8,64085.36
+Winter Wheat,35361.9,8039,Elbert County,CO,COLORADO,3.6,127302.84
+Alfalfa,17925.9,8039,Elbert County,CO,COLORADO,5.8,103970.22
+Millet,12561.7,8039,Elbert County,CO,COLORADO,1,12561.7
+Sorghum,7293.2,8039,Elbert County,CO,COLORADO,4.4,32090.08
+Alfalfa,7157.8,8041,El Paso County,CO,COLORADO,5.8,41515.24
+Sorghum,3292.8,8041,El Paso County,CO,COLORADO,4.4,14488.32
+Other Hay_Non Alfalfa,1285.9,8041,El Paso County,CO,COLORADO,5.8,7458.22
+Corn,566.7,8041,El Paso County,CO,COLORADO,4.7,2663.49
+Winter Wheat,561.1,8041,El Paso County,CO,COLORADO,3.6,2019.96
+Other Hay_Non Alfalfa,4792.2,8043,Fremont County,CO,COLORADO,5.8,27794.76
+Alfalfa,4301.3,8043,Fremont County,CO,COLORADO,5.8,24947.54
+Alfalfa,50122,8045,Garfield County,CO,COLORADO,5.8,290707.6
+Other Hay_Non Alfalfa,9.3,8047,Gilpin County,CO,COLORADO,5.8,53.94
+Other Hay_Non Alfalfa,3737.6,8049,Grand County,CO,COLORADO,5.8,21678.08
+Alfalfa,1000.8,8049,Grand County,CO,COLORADO,5.8,5804.64
+Other Hay_Non Alfalfa,23236,8051,Gunnison County,CO,COLORADO,5.8,134768.8
+Other Hay_Non Alfalfa,167,8053,Hinsdale County,CO,COLORADO,5.8,968.6
+Alfalfa,50.5,8053,Hinsdale County,CO,COLORADO,5.8,292.9
+Alfalfa,10493.7,8055,Huerfano County,CO,COLORADO,5.8,60863.46
+Other Hay_Non Alfalfa,520.8,8057,Jackson County,CO,COLORADO,5.8,3020.64
+Barley,97.4,8057,Jackson County,CO,COLORADO,4.8,467.52
+Alfalfa,204.6,8059,Jefferson County,CO,COLORADO,5.8,1186.68
+Other Hay_Non Alfalfa,166.6,8059,Jefferson County,CO,COLORADO,5.8,966.28
+Winter Wheat,20.7,8059,Jefferson County,CO,COLORADO,3.6,74.52
+Winter Wheat,163120,8061,Kiowa County,CO,COLORADO,3.6,587232
+Sorghum,76129.5,8061,Kiowa County,CO,COLORADO,4.4,334969.8
+Corn,25950.6,8061,Kiowa County,CO,COLORADO,4.7,121967.82
+Winter Wheat,246559.8,8063,Kit Carson County,CO,COLORADO,3.6,887615.28
+Corn,223212.6,8063,Kit Carson County,CO,COLORADO,4.7,1049099.22
+Sorghum,51299.8,8063,Kit Carson County,CO,COLORADO,4.4,225719.12
+Alfalfa,0.2,8065,Lake County,CO,COLORADO,5.8,1.16
+Alfalfa,24259.7,8067,La Plata County,CO,COLORADO,5.8,140706.26
+Other Hay_Non Alfalfa,14320,8067,La Plata County,CO,COLORADO,5.8,83056
+Winter Wheat,3130.2,8067,La Plata County,CO,COLORADO,3.6,11268.72
+Other Hay_Non Alfalfa,24994,8069,Larimer County,CO,COLORADO,5.8,144965.2
+Alfalfa,18619.1,8069,Larimer County,CO,COLORADO,5.8,107990.78
+Corn,15868.3,8069,Larimer County,CO,COLORADO,4.7,74581.01
+Winter Wheat,7820.1,8069,Larimer County,CO,COLORADO,3.6,28152.36
+Alfalfa,15689.1,8071,Las Animas County,CO,COLORADO,5.8,90996.78
+Winter Wheat,7882.3,8071,Las Animas County,CO,COLORADO,3.6,28376.28
+Winter Wheat,112022,8073,Lincoln County,CO,COLORADO,3.6,403279.2
+Millet,47064,8073,Lincoln County,CO,COLORADO,1,47064
+Sorghum,44448.9,8073,Lincoln County,CO,COLORADO,4.4,195575.16
+Corn,29260.5,8073,Lincoln County,CO,COLORADO,4.7,137524.35
+Winter Wheat,123382.8,8075,Logan County,CO,COLORADO,3.6,444178.08
+Corn,100740.8,8075,Logan County,CO,COLORADO,4.7,473481.76
+Alfalfa,39116.8,8075,Logan County,CO,COLORADO,5.8,226877.44
+Millet,36945.8,8075,Logan County,CO,COLORADO,1,36945.8
+Alfalfa,60971.7,8077,Mesa County,CO,COLORADO,5.8,353635.86
+Corn,5079.3,8077,Mesa County,CO,COLORADO,4.7,23872.71
+Other Hay_Non Alfalfa,3076.2,8077,Mesa County,CO,COLORADO,5.8,17841.96
+Alfalfa,85.8,8079,Mineral County,CO,COLORADO,5.8,497.64
+Other Hay_Non Alfalfa,18.5,8079,Mineral County,CO,COLORADO,5.8,107.3
+Alfalfa,41556.7,8081,Moffat County,CO,COLORADO,5.8,241028.86
+Other Hay_Non Alfalfa,11063.7,8081,Moffat County,CO,COLORADO,5.8,64169.46
+Winter Wheat,10256.6,8081,Moffat County,CO,COLORADO,3.6,36923.76
+Alfalfa,47665.4,8083,Montezuma County,CO,COLORADO,5.8,276459.32
+Winter Wheat,11699.3,8083,Montezuma County,CO,COLORADO,3.6,42117.48
+Dry Beans,8100.9,8083,Montezuma County,CO,COLORADO,2.3,18632.07
+Other Hay_Non Alfalfa,4880.5,8083,Montezuma County,CO,COLORADO,5.8,28306.9
+Alfalfa,61951.1,8085,Montrose County,CO,COLORADO,5.8,359316.38
+Corn,16641.8,8085,Montrose County,CO,COLORADO,4.7,78216.46
+Other Hay_Non Alfalfa,12225,8085,Montrose County,CO,COLORADO,5.8,70905
+Dry Beans,9154.4,8085,Montrose County,CO,COLORADO,2.3,21055.12
+Corn,83348,8087,Morgan County,CO,COLORADO,4.7,391735.6
+Winter Wheat,62424.8,8087,Morgan County,CO,COLORADO,3.6,224729.28
+Alfalfa,32052.2,8087,Morgan County,CO,COLORADO,5.8,185902.76
+Alfalfa,39361.6,8089,Otero County,CO,COLORADO,5.8,228297.28
+Corn,12264.8,8089,Otero County,CO,COLORADO,4.7,57644.56
+Sorghum,6405.9,8089,Otero County,CO,COLORADO,4.4,28185.96
+Other Hay_Non Alfalfa,6703.2,8091,Ouray County,CO,COLORADO,5.8,38878.56
+Alfalfa,4609.4,8091,Ouray County,CO,COLORADO,5.8,26734.52
+Other Hay_Non Alfalfa,290,8093,Park County,CO,COLORADO,5.8,1682
+Alfalfa,30,8093,Park County,CO,COLORADO,5.8,174
+Corn,130003.7,8095,Phillips County,CO,COLORADO,4.7,611017.39
+Winter Wheat,97974.4,8095,Phillips County,CO,COLORADO,3.6,352707.84
+Millet,25506,8095,Phillips County,CO,COLORADO,1,25506
+Alfalfa,3877.9,8097,Pitkin County,CO,COLORADO,5.8,22491.82
+Winter Wheat,111240.7,8099,Prowers County,CO,COLORADO,3.6,400466.52
+Alfalfa,57663.2,8099,Prowers County,CO,COLORADO,5.8,334446.56
+Sorghum,42254.5,8099,Prowers County,CO,COLORADO,4.4,185919.8
+Corn,39455.3,8099,Prowers County,CO,COLORADO,4.7,185439.91
+Alfalfa,9651,8101,Pueblo County,CO,COLORADO,5.8,55975.8
+Corn,6464.3,8101,Pueblo County,CO,COLORADO,4.7,30382.21
+Sorghum,5430,8101,Pueblo County,CO,COLORADO,4.4,23892
+Oats,3310.6,8101,Pueblo County,CO,COLORADO,NA,NA
+Dry Beans,2239.5,8101,Pueblo County,CO,COLORADO,2.3,5150.85
+Winter Wheat,2191.3,8101,Pueblo County,CO,COLORADO,3.6,7888.68
+Other Hay_Non Alfalfa,22776.3,8103,Rio Blanco County,CO,COLORADO,5.8,132102.54
+Alfalfa,15720.4,8103,Rio Blanco County,CO,COLORADO,5.8,91178.32
+Alfalfa,49960.3,8105,Rio Grande County,CO,COLORADO,5.8,289769.74
+Barley,17499.1,8105,Rio Grande County,CO,COLORADO,4.8,83995.68
+Other Hay_Non Alfalfa,7113.1,8105,Rio Grande County,CO,COLORADO,5.8,41255.98
+Alfalfa,23863.8,8107,Routt County,CO,COLORADO,5.8,138410.04
+Other Hay_Non Alfalfa,9193.8,8107,Routt County,CO,COLORADO,5.8,53324.04
+Alfalfa,37275.8,8109,Saguache County,CO,COLORADO,5.8,216199.64
+Barley,12666.3,8109,Saguache County,CO,COLORADO,4.8,60798.24
+Other Hay_Non Alfalfa,4837.1,8109,Saguache County,CO,COLORADO,5.8,28055.18
+Alfalfa,13.6,8111,San Juan County,CO,COLORADO,5.8,78.88
+Triticale,1.6,8111,San Juan County,CO,COLORADO,1.16,1.856
+Winter Wheat,1.1,8111,San Juan County,CO,COLORADO,3.6,3.96
+Alfalfa,9901,8113,San Miguel County,CO,COLORADO,5.8,57425.8
+Winter Wheat,1352.2,8113,San Miguel County,CO,COLORADO,3.6,4867.92
+Winter Wheat,69582.2,8115,Sedgwick County,CO,COLORADO,3.6,250495.92
+Corn,69438.1,8115,Sedgwick County,CO,COLORADO,4.7,326359.07
+Millet,9317.2,8115,Sedgwick County,CO,COLORADO,1,9317.2
+Other Hay_Non Alfalfa,401.4,8117,Summit County,CO,COLORADO,5.8,2328.12
+Other Hay_Non Alfalfa,300.5,8119,Teller County,CO,COLORADO,5.8,1742.9
+Alfalfa,32.9,8119,Teller County,CO,COLORADO,5.8,190.82
+Oats,18.2,8119,Teller County,CO,COLORADO,NA,NA
+Winter Wheat,262292.5,8121,Washington County,CO,COLORADO,3.6,944253
+Corn,146604.8,8121,Washington County,CO,COLORADO,4.7,689042.56
+Millet,90719,8121,Washington County,CO,COLORADO,1,90719
+Corn,162763.7,8123,Weld County,CO,COLORADO,4.7,764989.39
+Winter Wheat,136424.2,8123,Weld County,CO,COLORADO,3.6,491127.12
+Alfalfa,120636.9,8123,Weld County,CO,COLORADO,5.8,699694.02
+Other Hay_Non Alfalfa,53677.2,8123,Weld County,CO,COLORADO,5.8,311327.76
+Corn,254709.3,8125,Yuma County,CO,COLORADO,4.7,1197133.71
+Winter Wheat,117338.8,8125,Yuma County,CO,COLORADO,3.6,422419.68
+Alfalfa,19486.7,8125,Yuma County,CO,COLORADO,5.8,113022.86
+Millet,15678.2,8125,Yuma County,CO,COLORADO,1,15678.2
+Alfalfa,37721,32001,Churchill County,NV,NEVADA,5.8,218781.8
+Corn,3721.6,32001,Churchill County,NV,NEVADA,4.7,17491.52
+Other Hay_Non Alfalfa,2938.5,32001,Churchill County,NV,NEVADA,5.8,17043.3
+Alfalfa,1711.3,32003,Clark County,NV,NEVADA,5.8,9925.54
+Alfalfa,4307.8,32005,Douglas County,NV,NEVADA,5.8,24985.24
+Other Hay_Non Alfalfa,2012.7,32005,Douglas County,NV,NEVADA,5.8,11673.66
+Other Hay_Non Alfalfa,83556.6,32007,Elko County,NV,NEVADA,5.8,484628.28
+Alfalfa,5455.8,32009,Esmeralda County,NV,NEVADA,5.8,31643.64
+Alfalfa,16807.7,32011,Eureka County,NV,NEVADA,5.8,97484.66
+Other Hay_Non Alfalfa,6106.7,32011,Eureka County,NV,NEVADA,5.8,35418.86
+Alfalfa,88759.9,32013,Humboldt County,NV,NEVADA,5.8,514807.42
+Other Hay_Non Alfalfa,44513.6,32013,Humboldt County,NV,NEVADA,5.8,258178.88
+Alfalfa,28290.6,32015,Lander County,NV,NEVADA,5.8,164085.48
+Other Hay_Non Alfalfa,4553.1,32015,Lander County,NV,NEVADA,5.8,26407.98
+Alfalfa,626.3,32017,Lincoln County,NV,NEVADA,5.8,3632.54
+Triticale,38,32017,Lincoln County,NV,NEVADA,1.16,44.08
+Alfalfa,48874.3,32019,Lyon County,NV,NEVADA,5.8,283470.94
+Other Hay_Non Alfalfa,6288.7,32019,Lyon County,NV,NEVADA,5.8,36474.46
+Triticale,2960.3,32019,Lyon County,NV,NEVADA,1.16,3433.948
+Corn,2525.5,32019,Lyon County,NV,NEVADA,4.7,11869.85
+Alfalfa,1829.6,32021,Mineral County,NV,NEVADA,5.8,10611.68
+Triticale,70.3,32021,Mineral County,NV,NEVADA,1.16,81.548
+Alfalfa,4107.9,32023,Nye County,NV,NEVADA,5.8,23825.82
+Other Hay_Non Alfalfa,1060.6,32023,Nye County,NV,NEVADA,5.8,6151.48
+Alfalfa,37894.3,32027,Pershing County,NV,NEVADA,5.8,219786.94
+Other Hay_Non Alfalfa,3206.9,32027,Pershing County,NV,NEVADA,5.8,18600.02
+Corn,2438.6,32027,Pershing County,NV,NEVADA,4.7,11461.42
+Winter Wheat,2369.6,32027,Pershing County,NV,NEVADA,3.6,8530.56
+Alfalfa,24,32029,Storey County,NV,NEVADA,5.8,139.2
+Other Hay_Non Alfalfa,4.7,32029,Storey County,NV,NEVADA,5.8,27.26
+Alfalfa,3018.3,32031,Washoe County,NV,NEVADA,5.8,17506.14
+Other Hay_Non Alfalfa,397.4,32031,Washoe County,NV,NEVADA,5.8,2304.92
+Alfalfa,11387.7,32033,White Pine County,NV,NEVADA,5.8,66048.66
+Other Hay_Non Alfalfa,781,32033,White Pine County,NV,NEVADA,5.8,4529.8
+Alfalfa,24.9,32510,Carson City,NV,NEVADA,5.8,144.42
+Other Hay_Non Alfalfa,8.2,32510,Carson City,NV,NEVADA,5.8,47.56
+Triticale,7.3,32510,Carson City,NV,NEVADA,1.16,8.468
+Alfalfa,811.1,35001,Bernalillo County,NM,NEW MEXICO,5.8,4704.38
+Other Hay_Non Alfalfa,64.5,35001,Bernalillo County,NM,NEW MEXICO,5.8,374.1
+Alfalfa,107.6,35003,Catron County,NM,NEW MEXICO,5.8,624.08
+Winter Wheat,8.7,35003,Catron County,NM,NEW MEXICO,3.6,31.32
+Alfalfa,27473.3,35005,Chaves County,NM,NEW MEXICO,5.8,159345.14
+Corn,6885.8,35005,Chaves County,NM,NEW MEXICO,4.7,32363.26
+Pecans,3569,35005,Chaves County,NM,NEW MEXICO,4.3,15346.7
+Other Hay_Non Alfalfa,1811.6,35005,Chaves County,NM,NEW MEXICO,5.8,10507.28
+Alfalfa,13059.9,35007,Colfax County,NM,NEW MEXICO,5.8,75747.42
+Other Hay_Non Alfalfa,5141.1,35007,Colfax County,NM,NEW MEXICO,5.8,29818.38
+Winter Wheat,184293.6,35009,Curry County,NM,NEW MEXICO,3.6,663456.96
+Sorghum,57319.8,35009,Curry County,NM,NEW MEXICO,4.4,252207.12
+Corn,19051.4,35009,Curry County,NM,NEW MEXICO,4.7,89541.58
+Alfalfa,8120.3,35011,De Baca County,NM,NEW MEXICO,5.8,47097.74
+Winter Wheat,3460.5,35011,De Baca County,NM,NEW MEXICO,3.6,12457.8
+Pecans,33161.9,35013,Do?a Ana County,NM,NEW MEXICO,4.3,142596.17
+Alfalfa,14997,35013,Do?a Ana County,NM,NEW MEXICO,5.8,86982.6
+Cotton,11152.2,35013,Do?a Ana County,NM,NEW MEXICO,4.6,51300.12
+Corn,4623.8,35013,Do?a Ana County,NM,NEW MEXICO,4.7,21731.86
+Alfalfa,24783.2,35015,Eddy County,NM,NEW MEXICO,5.8,143742.56
+Cotton,7474.2,35015,Eddy County,NM,NEW MEXICO,4.6,34381.32
+Pecans,3389.5,35015,Eddy County,NM,NEW MEXICO,4.3,14574.85
+Corn,1938.2,35015,Eddy County,NM,NEW MEXICO,4.7,9109.54
+Alfalfa,1335.9,35017,Grant County,NM,NEW MEXICO,5.8,7748.22
+Alfalfa,2549.3,35019,Guadalupe County,NM,NEW MEXICO,5.8,14785.94
+Winter Wheat,2110.5,35021,Harding County,NM,NEW MEXICO,3.6,7597.8
+Alfalfa,946.7,35021,Harding County,NM,NEW MEXICO,5.8,5490.86
+Alfalfa,5592.3,35023,Hidalgo County,NM,NEW MEXICO,5.8,32435.34
+Corn,2487.9,35023,Hidalgo County,NM,NEW MEXICO,4.7,11693.13
+Cotton,1227.4,35023,Hidalgo County,NM,NEW MEXICO,4.6,5646.04
+Barley,415.7,35023,Hidalgo County,NM,NEW MEXICO,4.8,1995.36
+Cotton,26507.2,35025,Lea County,NM,NEW MEXICO,4.6,121933.12
+Winter Wheat,18577.5,35025,Lea County,NM,NEW MEXICO,3.6,66879
+Corn,6349.4,35025,Lea County,NM,NEW MEXICO,4.7,29842.18
+Alfalfa,6342,35025,Lea County,NM,NEW MEXICO,5.8,36783.6
+Alfalfa,319.4,35027,Lincoln County,NM,NEW MEXICO,5.8,1852.52
+Pecans,27.1,35027,Lincoln County,NM,NEW MEXICO,4.3,116.53
+Alfalfa,62,35028,Los Alamos County,NM,NEW MEXICO,5.8,359.6
+Other Hay_Non Alfalfa,44.5,35028,Los Alamos County,NM,NEW MEXICO,5.8,258.1
+Alfalfa,8407.4,35029,Luna County,NM,NEW MEXICO,5.8,48762.92
+Cotton,4640.7,35029,Luna County,NM,NEW MEXICO,4.6,21347.22
+Triticale,3712.2,35029,Luna County,NM,NEW MEXICO,1.16,4306.152
+Pecans,1419.1,35029,Luna County,NM,NEW MEXICO,4.3,6102.13
+Corn,1097.7,35029,Luna County,NM,NEW MEXICO,4.7,5159.19
+Dry Beans,899.6,35029,Luna County,NM,NEW MEXICO,2.3,2069.08
+Winter Wheat,887.8,35029,Luna County,NM,NEW MEXICO,3.6,3196.08
+Winter Wheat,9.6,35031,McKinley County,NM,NEW MEXICO,3.6,34.56
+Other Hay_Non Alfalfa,5827.2,35033,Mora County,NM,NEW MEXICO,5.8,33797.76
+Alfalfa,3663.5,35033,Mora County,NM,NEW MEXICO,5.8,21248.3
+Alfalfa,733.5,35035,Otero County,NM,NEW MEXICO,5.8,4254.3
+Pecans,301.1,35035,Otero County,NM,NEW MEXICO,4.3,1294.73
+Winter Wheat,119686.8,35037,Quay County,NM,NEW MEXICO,3.6,430872.48
+Sorghum,20278.6,35037,Quay County,NM,NEW MEXICO,4.4,89225.84
+Other Hay_Non Alfalfa,18126.7,35039,Rio Arriba County,NM,NEW MEXICO,5.8,105134.86
+Alfalfa,12520.6,35039,Rio Arriba County,NM,NEW MEXICO,5.8,72619.48
+Winter Wheat,112854.4,35041,Roosevelt County,NM,NEW MEXICO,3.6,406275.84
+Other Hay_Non Alfalfa,58903.2,35041,Roosevelt County,NM,NEW MEXICO,5.8,341638.56
+Sorghum,50935,35041,Roosevelt County,NM,NEW MEXICO,4.4,224114
+Corn,24921.5,35041,Roosevelt County,NM,NEW MEXICO,4.7,117131.05
+Alfalfa,4753.7,35043,Sandoval County,NM,NEW MEXICO,5.8,27571.46
+Alfalfa,29025.2,35045,San Juan County,NM,NEW MEXICO,5.8,168346.16
+Corn,13086.4,35045,San Juan County,NM,NEW MEXICO,4.7,61506.08
+Dry Beans,10933.8,35045,San Juan County,NM,NEW MEXICO,2.3,25147.74
+Winter Wheat,8199.5,35045,San Juan County,NM,NEW MEXICO,3.6,29518.2
+Alfalfa,1940.6,35047,San Miguel County,NM,NEW MEXICO,5.8,11255.48
+Other Hay_Non Alfalfa,787.3,35047,San Miguel County,NM,NEW MEXICO,5.8,4566.34
+Winter Wheat,560.2,35047,San Miguel County,NM,NEW MEXICO,3.6,2016.72
+Corn,4560,35049,Santa Fe County,NM,NEW MEXICO,4.7,21432
+Alfalfa,4074.9,35049,Santa Fe County,NM,NEW MEXICO,5.8,23634.42
+Sorghum,819.7,35049,Santa Fe County,NM,NEW MEXICO,4.4,3606.68
+Alfalfa,2173.9,35051,Sierra County,NM,NEW MEXICO,5.8,12608.62
+Corn,1018.8,35051,Sierra County,NM,NEW MEXICO,4.7,4788.36
+Pecans,512.2,35051,Sierra County,NM,NEW MEXICO,4.3,2202.46
+Winter Wheat,258.4,35051,Sierra County,NM,NEW MEXICO,3.6,930.24
+Alfalfa,5572.3,35053,Socorro County,NM,NEW MEXICO,5.8,32319.34
+Alfalfa,10588.4,35055,Taos County,NM,NEW MEXICO,5.8,61412.72
+Other Hay_Non Alfalfa,9597.9,35055,Taos County,NM,NEW MEXICO,5.8,55667.82
+Alfalfa,12998.3,35057,Torrance County,NM,NEW MEXICO,5.8,75390.14
+Corn,6215.3,35057,Torrance County,NM,NEW MEXICO,4.7,29211.91
+Dry Beans,741,35057,Torrance County,NM,NEW MEXICO,2.3,1704.3
+Winter Wheat,30859.7,35059,Union County,NM,NEW MEXICO,3.6,111094.92
+Corn,16525.9,35059,Union County,NM,NEW MEXICO,4.7,77671.73
+Sorghum,5504.9,35059,Union County,NM,NEW MEXICO,4.4,24221.56
+Alfalfa,5613.5,35061,Valencia County,NM,NEW MEXICO,5.8,32558.3
+Alfalfa,26849.3,49001,Beaver County,UT,UTAH,5.8,155725.94
+Corn,2934.7,49001,Beaver County,UT,UTAH,4.7,13793.09
+Alfalfa,84752.8,49003,Box Elder County,UT,UTAH,5.8,491566.24
+Winter Wheat,67697.2,49003,Box Elder County,UT,UTAH,3.6,243709.92
+Other Hay_Non Alfalfa,23294.1,49003,Box Elder County,UT,UTAH,5.8,135105.78
+Corn,17274.5,49003,Box Elder County,UT,UTAH,4.7,81190.15
+Alfalfa,77902.8,49005,Cache County,UT,UTAH,5.8,451836.24
+Winter Wheat,23794,49005,Cache County,UT,UTAH,3.6,85658.4
+Other Hay_Non Alfalfa,18197.9,49005,Cache County,UT,UTAH,5.8,105547.82
+Corn,9065.7,49005,Cache County,UT,UTAH,4.7,42608.79
+Barley,8431.9,49005,Cache County,UT,UTAH,4.8,40473.12
+Alfalfa,9393.7,49007,Carbon County,UT,UTAH,5.8,54483.46
+Other Hay_Non Alfalfa,3291.7,49009,Daggett County,UT,UTAH,5.8,19091.86
+Alfalfa,557.5,49009,Daggett County,UT,UTAH,5.8,3233.5
+Alfalfa,6819.3,49011,Davis County,UT,UTAH,5.8,39551.94
+Winter Wheat,1735.8,49011,Davis County,UT,UTAH,3.6,6248.88
+Corn,1326.8,49011,Davis County,UT,UTAH,4.7,6235.96
+Other Hay_Non Alfalfa,1259,49011,Davis County,UT,UTAH,5.8,7302.2
+Other Hay_Non Alfalfa,38625.1,49013,Duchesne County,UT,UTAH,5.8,224025.58
+Alfalfa,27083,49013,Duchesne County,UT,UTAH,5.8,157081.4
+Corn,6567.8,49013,Duchesne County,UT,UTAH,4.7,30868.66
+Alfalfa,43414.3,49015,Emery County,UT,UTAH,5.8,251802.94
+Alfalfa,15142.9,49017,Garfield County,UT,UTAH,5.8,87828.82
+Alfalfa,8502.1,49019,Grand County,UT,UTAH,5.8,49312.18
+Alfalfa,43709.2,49021,Iron County,UT,UTAH,5.8,253513.36
+Corn,5272.1,49021,Iron County,UT,UTAH,4.7,24778.87
+Alfalfa,20793.7,49023,Juab County,UT,UTAH,5.8,120603.46
+Winter Wheat,3359.9,49023,Juab County,UT,UTAH,3.6,12095.64
+Corn,1947.5,49023,Juab County,UT,UTAH,4.7,9153.25
+Other Hay_Non Alfalfa,1673.7,49023,Juab County,UT,UTAH,5.8,9707.46
+Alfalfa,2957.8,49025,Kane County,UT,UTAH,5.8,17155.24
+Alfalfa,79716.5,49027,Millard County,UT,UTAH,5.8,462355.7
+Corn,11001.4,49027,Millard County,UT,UTAH,4.7,51706.58
+Other Hay_Non Alfalfa,9759.3,49027,Millard County,UT,UTAH,5.8,56603.94
+Barley,3715.1,49027,Millard County,UT,UTAH,4.8,17832.48
+Alfalfa,10411.2,49029,Morgan County,UT,UTAH,5.8,60384.96
+Barley,1265.9,49029,Morgan County,UT,UTAH,4.8,6076.32
+Alfalfa,11548.5,49031,Piute County,UT,UTAH,5.8,66981.3
+Other Hay_Non Alfalfa,1132.4,49031,Piute County,UT,UTAH,5.8,6567.92
+Alfalfa,9819.2,49033,Rich County,UT,UTAH,5.8,56951.36
+Other Hay_Non Alfalfa,8997.2,49033,Rich County,UT,UTAH,5.8,52183.76
+Winter Wheat,15073.5,49035,Salt Lake County,UT,UTAH,3.6,54264.6
+Alfalfa,2866.7,49035,Salt Lake County,UT,UTAH,5.8,16626.86
+Winter Wheat,39631.4,49037,San Juan County,UT,UTAH,3.6,142673.04
+Alfalfa,5364.6,49037,San Juan County,UT,UTAH,5.8,31114.68
+Alfalfa,52981.7,49039,Sanpete County,UT,UTAH,5.8,307293.86
+Other Hay_Non Alfalfa,34581.5,49039,Sanpete County,UT,UTAH,5.8,200572.7
+Corn,3294.3,49039,Sanpete County,UT,UTAH,4.7,15483.21
+Alfalfa,33325.8,49041,Sevier County,UT,UTAH,5.8,193289.64
+Corn,6753.5,49041,Sevier County,UT,UTAH,4.7,31741.45
+Alfalfa,6945.8,49043,Summit County,UT,UTAH,5.8,40285.64
+Other Hay_Non Alfalfa,1045.5,49043,Summit County,UT,UTAH,5.8,6063.9
+Alfalfa,11363.9,49045,Tooele County,UT,UTAH,5.8,65910.62
+Winter Wheat,1617.7,49045,Tooele County,UT,UTAH,3.6,5823.72
+Other Hay_Non Alfalfa,1130,49045,Tooele County,UT,UTAH,5.8,6554
+Alfalfa,31014.9,49047,Uintah County,UT,UTAH,5.8,179886.42
+Other Hay_Non Alfalfa,13317.7,49047,Uintah County,UT,UTAH,5.8,77242.66
+Corn,3706.9,49047,Uintah County,UT,UTAH,4.7,17422.43
+Alfalfa,42014.1,49049,Utah County,UT,UTAH,5.8,243681.78
+Winter Wheat,29341.4,49049,Utah County,UT,UTAH,3.6,105629.04
+Corn,7839.6,49049,Utah County,UT,UTAH,4.7,36846.12
+Other Hay_Non Alfalfa,3953.3,49049,Utah County,UT,UTAH,5.8,22929.14
+Alfalfa,6127.9,49051,Wasatch County,UT,UTAH,5.8,35541.82
+Alfalfa,7913.7,49053,Washington County,UT,UTAH,5.8,45899.46
+Corn,686.5,49053,Washington County,UT,UTAH,4.7,3226.55
+Alfalfa,13382.6,49055,Wayne County,UT,UTAH,5.8,77619.08
+Alfalfa,18482.1,49057,Weber County,UT,UTAH,5.8,107196.18
+Other Hay_Non Alfalfa,5616.8,49057,Weber County,UT,UTAH,5.8,32577.44
+Corn,3773.6,49057,Weber County,UT,UTAH,4.7,17735.92
+Winter Wheat,1814.5,49057,Weber County,UT,UTAH,3.6,6532.2
